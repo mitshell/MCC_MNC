@@ -1,6 +1,7 @@
 # ITU-T bulletins
 
-Parses incremental changes to MCC - MNC in bulletins > 1162, and create an incremental change on top of the 1162 extract.
+Parse list of ISPC from bulletins 1293 and 1295.
+Parse ICCID prefixes from bulletin 1283.
 
 
 # Additional sources
@@ -11,7 +12,7 @@ Wikipedia lists administrative companies with number of subscribers: https://en.
 And revenues: https://en.wikipedia.org/wiki/List_of_telephone_operating_companies
 Those 2 generally encompasses several national MNOs.
 
-See if / how the list of national MNO can be linked to companies listed in this table.
+See if / how the list of national MNOs can be linked to companies listed in this table.
 
 
 ## Cables
@@ -25,3 +26,9 @@ https://www.submarinecablemap.com/
 Add the Google Android MNO db:
 https://android.googlesource.com/platform/packages/providers/TelephonyProvider/+/main/assets/latest_carrier_id/carrier_list.textpb
 https://android.googlesource.com/platform/packages/apps/CarrierConfig/+/refs/heads/main/assets/
+
+
+## online URLs
+
+Link URLs from database in https://gitea.osmocom.org/laforge/pub.3gpp-network.org/ to MNCs.
+ 
