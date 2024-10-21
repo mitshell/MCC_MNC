@@ -115,6 +115,16 @@
         "Starlink Internet Services Pte Ltd",
         "50559",
         "ADD"
+      ],
+      [
+        "Optus Mobile Pty Ltd",
+        "50517",
+        "LIR"
+      ],
+      [
+        "Alphawest Pty Ltd",
+        "50590",
+        "LIR"
       ]
     ],
     "Bahrain": [
@@ -401,6 +411,31 @@
         "Halton Regional Police Service",
         "302911",
         "ADD"
+      ],
+      [
+        "OpenMobile Inc.",
+        "302330",
+        "ADD"
+      ],
+      [
+        "Canadian Pacific Railway Company",
+        "302970",
+        "ADD"
+      ],
+      [
+        "Xplornet Communications",
+        "302130",
+        "SUP"
+      ],
+      [
+        "Canadian National Railway",
+        "302971",
+        "ADD"
+      ],
+      [
+        "Xplore Inc.",
+        "302131",
+        "LIR"
       ]
     ],
     "Cayman Islands": [
@@ -649,6 +684,16 @@
       [
         "Nettora Systems O\u00dc",
         "24834",
+        "ADD"
+      ],
+      [
+        "Telia Eesti AS",
+        "24813",
+        "SUP"
+      ],
+      [
+        "Teliqon Communications O\u00dc",
+        "24835",
         "ADD"
       ]
     ],
@@ -1332,6 +1377,16 @@
         "Omnispace LLC",
         "90110",
         "ADD"
+      ],
+      [
+        "Datora Mobile Telecomunica\u00e7\u00f5es SA",
+        "90125",
+        "ADD"
+      ],
+      [
+        "Mobile Telecommunications Company K.S.C.P. /Zain Bahrain BSC",
+        "90149",
+        "LIR"
       ]
     ],
     "Iran (Islamic Republic of)": [
@@ -1744,6 +1799,13 @@
         "ADD"
       ]
     ],
+    "Kazakhstan": [
+      [
+        "Freedom Telecom Operations LLP",
+        "40110",
+        "ADD"
+      ]
+    ],
     "Kenya": [
       [
         "WiAfrica Kenya Limited",
@@ -1968,6 +2030,13 @@
         "ALESTRA SERVICIOS M\u00d3VILES, S.A. DE C.V.",
         "334130",
         "LIR"
+      ]
+    ],
+    "Micronesia": [
+      [
+        "Boom! Inc.",
+        "55002",
+        "ADD"
       ]
     ],
     "Namibia": [
@@ -2204,6 +2273,11 @@
         "Cable & Wireless Panam\u00e1, S.A.",
         "71405",
         "ADD"
+      ],
+      [
+        "Digicel (Panam\u00e1), S.A.",
+        "71404",
+        "SUP"
       ]
     ],
     "Papua New Guinea": [
@@ -2395,6 +2469,26 @@
         "Telkom SA SOC Ltd",
         "65503",
         "ADD"
+      ],
+      [
+        "Cell C (Pty) Ltd",
+        "65508",
+        "ADD"
+      ],
+      [
+        "Cell C (Pty) Ltd",
+        "65509",
+        "ADD"
+      ],
+      [
+        "Mobile Telephone Networks (MTN) Pty Ltd",
+        "65511",
+        "ADD"
+      ],
+      [
+        "Mobile Telephone Networks (MTN) Pty Ltd",
+        "65518",
+        "ADD"
       ]
     ],
     "Spain": [
@@ -2551,6 +2645,26 @@
       [
         "GOBIERNO VASCO",
         "214706",
+        "ADD"
+      ],
+      [
+        "Alta Tecnologia en Comunicacions, S.L.",
+        "21402",
+        "SUP"
+      ],
+      [
+        "VENUS MOVIL, S.L. UNIPERSONAL",
+        "21412",
+        "SUP"
+      ],
+      [
+        "MINISTERIO DE DEFENSA - CENTRO DE SISTEMAS Y TECNOLOG\u00cdAS DE LA INFORMACI\u00d3N Y LAS COMUNICACIONES",
+        "214707",
+        "ADD"
+      ],
+      [
+        "OLAMO MOBILE, S.L. UNIPERSONAL",
+        "21402",
         "ADD"
       ]
     ],
@@ -2713,6 +2827,16 @@
         "YATECO O\u00dc",
         "24051",
         "ADD"
+      ],
+      [
+        "Myndigheten f\u00f6r samh\u00e4llsskydd och beredskap (MSB) / Swedish Civil Contingencies Agency - Used for private network (PPDR network (Rakel G2))",
+        "24059",
+        "ADD"
+      ],
+      [
+        "Mediafon Carrier Services UAB",
+        "24022",
+        "ADD"
       ]
     ],
     "Switzerland": [
@@ -2789,6 +2913,11 @@
       [
         "BSE Software GmbH",
         "22872",
+        "ADD"
+      ],
+      [
+        "iWay AG",
+        "22873",
         "ADD"
       ]
     ],
