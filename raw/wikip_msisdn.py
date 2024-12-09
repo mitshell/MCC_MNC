@@ -508,6 +508,7 @@ WIKIP_MSISDN = \
   '86': [('CN', 'China', 'https://en.wikipedia.org/wiki/China', 'https://en.wikipedia.org/wiki/%2B86')],
   '880': [('BD', 'Bangladesh', 'https://en.wikipedia.org/wiki/Bangladesh', 'https://en.wikipedia.org/wiki/%2B880')],
   '886': [('TW', 'Taiwan', 'https://en.wikipedia.org/wiki/Taiwan', 'https://en.wikipedia.org/wiki/%2B886')],
+  '888': [],
   '90': [('TR', 'Turkey', 'https://en.wikipedia.org/wiki/Turkey', 'https://en.wikipedia.org/wiki/%2B90')],
   '91': [('IN', 'India', 'https://en.wikipedia.org/wiki/India', 'https://en.wikipedia.org/wiki/%2B91')],
   '92': [('PK', 'Pakistan', 'https://en.wikipedia.org/wiki/Pakistan', 'https://en.wikipedia.org/wiki/%2B92')],

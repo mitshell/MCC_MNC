@@ -854,7 +854,6 @@
         "Andorra",
         "Belgium",
         "Brazil",
-        "Canada",
         "Germany",
         "Italy",
         "Luxembourg",
@@ -864,7 +863,7 @@
         "Suriname",
         "Switzerland"
       ],
-      "neigh_num": 12
+      "neigh_num": 11
     },
     {
       "border_len_km": 2551,

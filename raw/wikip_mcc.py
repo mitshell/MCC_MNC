@@ -87,7 +87,7 @@ WIKIP_MCC = \
     'country_name': 'Kosovo',
     'country_url': 'https://en.wikipedia.org/wiki/Kosovo',
     'mcc': '221',
-    'mcc_url': 'https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Kosovo_–_RS-KM',
+    'mcc_url': 'https://en.wikipedia.org/wiki/Mobile_Network_Codes_in_ITU_region_2xx_(Europe)#Kosovo_–_XK',
     'notes': ''},
   { 'authority': '',
     'code_alpha_2': 'IT',

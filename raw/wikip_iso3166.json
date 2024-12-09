@@ -16,7 +16,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Andorra",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:AD",
       "sovereignity": "UN member",
-      "state_name": "The Principality of Andorra"
+      "state_name": "Principality of Andorra"
     },
     "AE": {
       "cc_tld": ".ae",
@@ -28,7 +28,7 @@
       "country_url": "https://en.wikipedia.org/wiki/United_Arab_Emirates",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:AE",
       "sovereignity": "UN member",
-      "state_name": "The United Arab Emirates"
+      "state_name": "United Arab Emirates"
     },
     "AF": {
       "cc_tld": ".af",
@@ -40,7 +40,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Afghanistan",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:AF",
       "sovereignity": "UN member",
-      "state_name": "The Islamic Republic of Afghanistan"
+      "state_name": "Islamic Republic of Afghanistan"
     },
     "AG": {
       "cc_tld": ".ag",
@@ -76,7 +76,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Albania",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:AL",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Albania"
+      "state_name": "Republic of Albania"
     },
     "AM": {
       "cc_tld": ".am",
@@ -88,7 +88,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Armenia",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:AM",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Armenia"
+      "state_name": "Republic of Armenia"
     },
     "AO": {
       "cc_tld": ".ao",
@@ -100,7 +100,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Angola",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:AO",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Angola"
+      "state_name": "Republic of Angola"
     },
     "AQ": {
       "cc_tld": ".aq",
@@ -112,7 +112,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Antarctica",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:AQ",
       "sovereignity": "Antarctica",
-      "state_name": "Antarctica (all land and ice shelves south of the"
+      "state_name": "Antarctica"
     },
     "AR": {
       "cc_tld": ".ar",
@@ -124,7 +124,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Argentina",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:AR",
       "sovereignity": "UN member",
-      "state_name": "The Argentine Republic"
+      "state_name": "Argentine Republic"
     },
     "AS": {
       "cc_tld": ".as",
@@ -136,7 +136,7 @@
       "country_url": "https://en.wikipedia.org/wiki/American_Samoa",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:AS",
       "sovereignity": "US",
-      "state_name": "The Territory of American Samoa"
+      "state_name": "American Samoa"
     },
     "AT": {
       "cc_tld": ".at",
@@ -148,7 +148,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Austria",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:AT",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Austria"
+      "state_name": "Republic of Austria"
     },
     "AU": {
       "cc_tld": ".au",
@@ -160,7 +160,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Australia",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:AU",
       "sovereignity": "UN member",
-      "state_name": "The Commonwealth of Australia"
+      "state_name": "Commonwealth of Australia"
     },
     "AW": {
       "cc_tld": ".aw",
@@ -172,7 +172,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Aruba",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:AW",
       "sovereignity": "NL",
-      "state_name": "Aruba"
+      "state_name": "Country of Aruba"
     },
     "AX": {
       "cc_tld": ".ax",
@@ -196,7 +196,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Azerbaijan",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:AZ",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Azerbaijan"
+      "state_name": "Republic of Azerbaijan"
     },
     "BA": {
       "cc_tld": ".ba",
@@ -232,7 +232,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Bangladesh",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:BD",
       "sovereignity": "UN member",
-      "state_name": "The People's Republic of Bangladesh"
+      "state_name": "People's Republic of Bangladesh"
     },
     "BE": {
       "cc_tld": ".be",
@@ -244,7 +244,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Belgium",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:BE",
       "sovereignity": "UN member",
-      "state_name": "The Kingdom of Belgium"
+      "state_name": "Kingdom of Belgium"
     },
     "BF": {
       "cc_tld": ".bf",
@@ -268,7 +268,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Bulgaria",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:BG",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Bulgaria"
+      "state_name": "Republic of Bulgaria"
     },
     "BH": {
       "cc_tld": ".bh",
@@ -280,7 +280,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Bahrain",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:BH",
       "sovereignity": "UN member",
-      "state_name": "The Kingdom of Bahrain"
+      "state_name": "Kingdom of Bahrain"
     },
     "BI": {
       "cc_tld": ".bi",
@@ -292,7 +292,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Burundi",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:BI",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Burundi"
+      "state_name": "Republic of Burundi"
     },
     "BJ": {
       "cc_tld": ".bj",
@@ -304,7 +304,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Benin",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:BJ",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Benin"
+      "state_name": "Republic of Benin"
     },
     "BL": {
       "cc_tld": ".bl",
@@ -316,7 +316,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Saint_Barth%C3%A9lemy",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:BL",
       "sovereignity": "FR",
-      "state_name": "The Collectivity of Saint-Barth\u00e9lemy"
+      "state_name": "Collectivity of Saint-Barth\u00e9lemy"
     },
     "BM": {
       "cc_tld": ".bm",
@@ -340,7 +340,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Brunei",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:BN",
       "sovereignity": "UN member",
-      "state_name": "The Nation of Brunei, the Abode of Peace"
+      "state_name": "Brunei Darussalam"
     },
     "BO": {
       "cc_tld": ".bo",
@@ -352,7 +352,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Bolivia",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:BO",
       "sovereignity": "UN member",
-      "state_name": "The Plurinational State of Bolivia"
+      "state_name": "Plurinational State of Bolivia"
     },
     "BQ": {
       "cc_tld": ".bq",
@@ -376,7 +376,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Brazil",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:BR",
       "sovereignity": "UN member",
-      "state_name": "The Federative Republic of Brazil"
+      "state_name": "Federative Republic of Brazil"
     },
     "BS": {
       "cc_tld": ".bs",
@@ -388,7 +388,7 @@
       "country_url": "https://en.wikipedia.org/wiki/The_Bahamas",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:BS",
       "sovereignity": "UN member",
-      "state_name": "The Commonwealth of The Bahamas"
+      "state_name": "Commonwealth of The Bahamas"
     },
     "BT": {
       "cc_tld": ".bt",
@@ -400,7 +400,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Bhutan",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:BT",
       "sovereignity": "UN member",
-      "state_name": "The Kingdom of Bhutan"
+      "state_name": "Kingdom of Bhutan"
     },
     "BV": {
       "cc_tld": "",
@@ -424,7 +424,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Botswana",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:BW",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Botswana"
+      "state_name": "Republic of Botswana"
     },
     "BY": {
       "cc_tld": ".by",
@@ -436,7 +436,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Belarus",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:BY",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Belarus"
+      "state_name": "Republic of Belarus"
     },
     "BZ": {
       "cc_tld": ".bz",
@@ -472,7 +472,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Cocos_(Keeling)_Islands",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:CC",
       "sovereignity": "AU",
-      "state_name": "The Territory of Cocos (Keeling) Islands"
+      "state_name": "Territory of Cocos (Keeling) Islands"
     },
     "CD": {
       "cc_tld": ".cd",
@@ -484,7 +484,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:CD",
       "sovereignity": "UN member",
-      "state_name": "The Democratic Republic of the Congo"
+      "state_name": "Democratic Republic of the Congo"
     },
     "CF": {
       "cc_tld": ".cf",
@@ -496,7 +496,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Central_African_Republic",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:CF",
       "sovereignity": "UN member",
-      "state_name": "The Central African Republic"
+      "state_name": "Central African Republic"
     },
     "CG": {
       "cc_tld": ".cg",
@@ -508,7 +508,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Republic_of_the_Congo",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:CG",
       "sovereignity": "UN member",
-      "state_name": "The Republic of the Congo"
+      "state_name": "Republic of the Congo"
     },
     "CH": {
       "cc_tld": ".ch",
@@ -520,7 +520,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Switzerland",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:CH",
       "sovereignity": "UN member",
-      "state_name": "The Swiss Confederation"
+      "state_name": "Swiss Confederation"
     },
     "CI": {
       "cc_tld": ".ci",
@@ -532,7 +532,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Ivory_Coast",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:CI",
       "sovereignity": "UN member",
-      "state_name": "The Republic of C\u00f4te d'Ivoire"
+      "state_name": "Republic of C\u00f4te d'Ivoire"
     },
     "CK": {
       "cc_tld": ".ck",
@@ -544,7 +544,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Cook_Islands",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:CK",
       "sovereignity": "NZ",
-      "state_name": "The Cook Islands"
+      "state_name": "Cook Islands"
     },
     "CL": {
       "cc_tld": ".cl",
@@ -556,7 +556,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Chile",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:CL",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Chile"
+      "state_name": "Republic of Chile"
     },
     "CM": {
       "cc_tld": ".cm",
@@ -568,7 +568,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Cameroon",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:CM",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Cameroon"
+      "state_name": "Republic of Cameroon"
     },
     "CN": {
       "cc_tld": ".cn",
@@ -580,7 +580,7 @@
       "country_url": "https://en.wikipedia.org/wiki/China",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:CN",
       "sovereignity": "UN member",
-      "state_name": "The People's Republic of China"
+      "state_name": "People's Republic of China"
     },
     "CO": {
       "cc_tld": ".co",
@@ -592,7 +592,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Colombia",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:CO",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Colombia"
+      "state_name": "Republic of Colombia"
     },
     "CR": {
       "cc_tld": ".cr",
@@ -604,7 +604,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Costa_Rica",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:CR",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Costa Rica"
+      "state_name": "Republic of Costa Rica"
     },
     "CU": {
       "cc_tld": ".cu",
@@ -616,7 +616,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Cuba",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:CU",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Cuba"
+      "state_name": "Republic of Cuba"
     },
     "CV": {
       "cc_tld": ".cv",
@@ -628,7 +628,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Cape_Verde",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:CV",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Cabo Verde"
+      "state_name": "Republic of Cabo Verde"
     },
     "CW": {
       "cc_tld": ".cw",
@@ -640,7 +640,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Cura%C3%A7ao",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:CW",
       "sovereignity": "NL",
-      "state_name": "The Country of Cura\u00e7ao"
+      "state_name": "Country of Cura\u00e7ao"
     },
     "CX": {
       "cc_tld": ".cx",
@@ -652,7 +652,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Christmas_Island",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:CX",
       "sovereignity": "AU",
-      "state_name": "The Territory of Christmas Island"
+      "state_name": "Territory of Christmas Island"
     },
     "CY": {
       "cc_tld": ".cy",
@@ -664,7 +664,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Cyprus",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:CY",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Cyprus"
+      "state_name": "Republic of Cyprus"
     },
     "CZ": {
       "cc_tld": ".cz",
@@ -676,7 +676,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Czech_Republic",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:CZ",
       "sovereignity": "UN member",
-      "state_name": "The Czech Republic"
+      "state_name": "Czech Republic"
     },
     "DE": {
       "cc_tld": ".de",
@@ -688,7 +688,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Germany",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:DE",
       "sovereignity": "UN member",
-      "state_name": "The Federal Republic of Germany"
+      "state_name": "Federal Republic of Germany"
     },
     "DJ": {
       "cc_tld": ".dj",
@@ -700,7 +700,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Djibouti",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:DJ",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Djibouti"
+      "state_name": "Republic of Djibouti"
     },
     "DK": {
       "cc_tld": ".dk",
@@ -712,7 +712,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Denmark",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:DK",
       "sovereignity": "UN member",
-      "state_name": "The Kingdom of Denmark"
+      "state_name": "Kingdom of Denmark"
     },
     "DM": {
       "cc_tld": ".dm",
@@ -724,7 +724,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Dominica",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:DM",
       "sovereignity": "UN member",
-      "state_name": "The Commonwealth of Dominica"
+      "state_name": "Commonwealth of Dominica"
     },
     "DO": {
       "cc_tld": ".do",
@@ -736,7 +736,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Dominican_Republic",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:DO",
       "sovereignity": "UN member",
-      "state_name": "The Dominican Republic"
+      "state_name": "Dominican Republic"
     },
     "DZ": {
       "cc_tld": ".dz",
@@ -748,7 +748,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Algeria",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:DZ",
       "sovereignity": "UN member",
-      "state_name": "The People's Democratic Republic of Algeria"
+      "state_name": "People's Democratic Republic of Algeria"
     },
     "EC": {
       "cc_tld": ".ec",
@@ -760,7 +760,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Ecuador",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:EC",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Ecuador"
+      "state_name": "Republic of Ecuador"
     },
     "EE": {
       "cc_tld": ".ee",
@@ -772,7 +772,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Estonia",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:EE",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Estonia"
+      "state_name": "Republic of Estonia"
     },
     "EG": {
       "cc_tld": ".eg",
@@ -784,7 +784,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Egypt",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:EG",
       "sovereignity": "UN member",
-      "state_name": "The Arab Republic of Egypt"
+      "state_name": "Arab Republic of Egypt"
     },
     "EH": {
       "cc_tld": "",
@@ -796,7 +796,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Western_Sahara",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:EH",
       "sovereignity": "disputed",
-      "state_name": "The Sahrawi Arab Democratic Republic"
+      "state_name": "Sahrawi Arab Democratic Republic"
     },
     "ER": {
       "cc_tld": ".er",
@@ -808,7 +808,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Eritrea",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:ER",
       "sovereignity": "UN member",
-      "state_name": "The State of Eritrea"
+      "state_name": "State of Eritrea"
     },
     "ES": {
       "cc_tld": ".es",
@@ -820,7 +820,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Spain",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:ES",
       "sovereignity": "UN member",
-      "state_name": "The Kingdom of Spain"
+      "state_name": "Kingdom of Spain"
     },
     "ET": {
       "cc_tld": ".et",
@@ -832,7 +832,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Ethiopia",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:ET",
       "sovereignity": "UN member",
-      "state_name": "The Federal Democratic Republic of Ethiopia"
+      "state_name": "Federal Democratic Republic of Ethiopia"
     },
     "FI": {
       "cc_tld": ".fi",
@@ -844,7 +844,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Finland",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:FI",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Finland"
+      "state_name": "Republic of Finland"
     },
     "FJ": {
       "cc_tld": ".fj",
@@ -856,7 +856,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Fiji",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:FJ",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Fiji"
+      "state_name": "Republic of Fiji"
     },
     "FK": {
       "cc_tld": ".fk",
@@ -868,7 +868,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Falkland_Islands",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:FK",
       "sovereignity": "GB",
-      "state_name": "The Falkland Islands"
+      "state_name": "Falkland Islands"
     },
     "FM": {
       "cc_tld": ".fm",
@@ -880,7 +880,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:FM",
       "sovereignity": "UN member",
-      "state_name": "The Federated States of Micronesia"
+      "state_name": "Federated States of Micronesia"
     },
     "FO": {
       "cc_tld": ".fo",
@@ -892,7 +892,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Faroe_Islands",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:FO",
       "sovereignity": "DK",
-      "state_name": "The Faroe Islands"
+      "state_name": "Faroe Islands"
     },
     "FR": {
       "cc_tld": ".fr",
@@ -904,7 +904,7 @@
       "country_url": "https://en.wikipedia.org/wiki/France",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:FR",
       "sovereignity": "UN member",
-      "state_name": "The French Republic"
+      "state_name": "French Republic"
     },
     "GA": {
       "cc_tld": ".ga",
@@ -916,7 +916,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Gabon",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:GA",
       "sovereignity": "UN member",
-      "state_name": "The Gabonese Republic"
+      "state_name": "Gabonese Republic"
     },
     "GB": {
       "cc_tld": ".gb",
@@ -928,7 +928,7 @@
       "country_url": "https://en.wikipedia.org/wiki/United_Kingdom",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:GB",
       "sovereignity": "UN member",
-      "state_name": "The United Kingdom of Great Britain and Northern Ireland"
+      "state_name": "United Kingdom of Great Britain and Northern Ireland"
     },
     "GD": {
       "cc_tld": ".gd",
@@ -976,7 +976,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Bailiwick_of_Guernsey",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:GG",
       "sovereignity": "GB",
-      "state_name": "The Bailiwick of Guernsey"
+      "state_name": "Bailiwick of Guernsey"
     },
     "GH": {
       "cc_tld": ".gh",
@@ -988,7 +988,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Ghana",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:GH",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Ghana"
+      "state_name": "Republic of Ghana"
     },
     "GI": {
       "cc_tld": ".gi",
@@ -1012,7 +1012,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Greenland",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:GL",
       "sovereignity": "DK",
-      "state_name": "Kalaallit Nunaat"
+      "state_name": "Greenland"
     },
     "GM": {
       "cc_tld": ".gm",
@@ -1024,7 +1024,7 @@
       "country_url": "https://en.wikipedia.org/wiki/The_Gambia",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:GM",
       "sovereignity": "UN member",
-      "state_name": "The Republic of The Gambia"
+      "state_name": "Republic of The Gambia"
     },
     "GN": {
       "cc_tld": ".gn",
@@ -1036,7 +1036,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Guinea",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:GN",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Guinea"
+      "state_name": "Republic of Guinea"
     },
     "GP": {
       "cc_tld": ".gp",
@@ -1060,7 +1060,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Equatorial_Guinea",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:GQ",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Equatorial Guinea"
+      "state_name": "Republic of Equatorial Guinea"
     },
     "GR": {
       "cc_tld": ".gr",
@@ -1072,7 +1072,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Greece",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:GR",
       "sovereignity": "UN member",
-      "state_name": "The Hellenic Republic"
+      "state_name": "Hellenic Republic"
     },
     "GS": {
       "cc_tld": ".gs",
@@ -1096,7 +1096,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Guatemala",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:GT",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Guatemala"
+      "state_name": "Republic of Guatemala"
     },
     "GU": {
       "cc_tld": ".gu",
@@ -1108,7 +1108,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Guam",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:GU",
       "sovereignity": "US",
-      "state_name": "The Territory of Guam"
+      "state_name": "Guam"
     },
     "GW": {
       "cc_tld": ".gw",
@@ -1120,7 +1120,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Guinea-Bissau",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:GW",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Guinea-Bissau"
+      "state_name": "Republic of Guinea-Bissau"
     },
     "GY": {
       "cc_tld": ".gy",
@@ -1132,7 +1132,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Guyana",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:GY",
       "sovereignity": "UN member",
-      "state_name": "The Co-operative Republic of Guyana"
+      "state_name": "Co-operative Republic of Guyana"
     },
     "HK": {
       "cc_tld": ".hk",
@@ -1144,7 +1144,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Hong_Kong",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:HK",
       "sovereignity": "CN",
-      "state_name": "The Hong Kong Special Administrative Region of China"
+      "state_name": "Hong Kong Special Administrative Region of China"
     },
     "HM": {
       "cc_tld": ".hm",
@@ -1156,7 +1156,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Heard_Island_and_McDonald_Islands",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:HM",
       "sovereignity": "AU",
-      "state_name": "The Territory of Heard Island and McDonald Islands"
+      "state_name": "Territory of Heard Island and McDonald Islands"
     },
     "HN": {
       "cc_tld": ".hn",
@@ -1168,7 +1168,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Honduras",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:HN",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Honduras"
+      "state_name": "Republic of Honduras"
     },
     "HR": {
       "cc_tld": ".hr",
@@ -1180,7 +1180,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Croatia",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:HR",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Croatia"
+      "state_name": "Republic of Croatia"
     },
     "HT": {
       "cc_tld": ".ht",
@@ -1192,7 +1192,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Haiti",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:HT",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Haiti"
+      "state_name": "Republic of Haiti"
     },
     "HU": {
       "cc_tld": ".hu",
@@ -1216,7 +1216,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Indonesia",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:ID",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Indonesia"
+      "state_name": "Republic of Indonesia"
     },
     "IE": {
       "cc_tld": ".ie",
@@ -1240,7 +1240,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Israel",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:IL",
       "sovereignity": "UN member",
-      "state_name": "The State of Israel"
+      "state_name": "State of Israel"
     },
     "IM": {
       "cc_tld": ".im",
@@ -1252,7 +1252,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Isle_of_Man",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:IM",
       "sovereignity": "GB",
-      "state_name": "The Isle of Man"
+      "state_name": "Isle of Man"
     },
     "IN": {
       "cc_tld": ".in",
@@ -1264,7 +1264,7 @@
       "country_url": "https://en.wikipedia.org/wiki/India",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:IN",
       "sovereignity": "UN member",
-      "state_name": "The Republic of India"
+      "state_name": "Republic of India"
     },
     "IO": {
       "cc_tld": ".io",
@@ -1276,7 +1276,7 @@
       "country_url": "https://en.wikipedia.org/wiki/British_Indian_Ocean_Territory",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:IO",
       "sovereignity": "GB",
-      "state_name": "The British Indian Ocean Territory"
+      "state_name": "British Indian Ocean Territory"
     },
     "IQ": {
       "cc_tld": ".iq",
@@ -1288,7 +1288,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Iraq",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:IQ",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Iraq"
+      "state_name": "Republic of Iraq"
     },
     "IR": {
       "cc_tld": ".ir",
@@ -1300,7 +1300,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Iran_(Islamic_Republic_of)",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:IR",
       "sovereignity": "UN member",
-      "state_name": "The Islamic Republic of Iran"
+      "state_name": "Islamic Republic of Iran"
     },
     "IS": {
       "cc_tld": ".is",
@@ -1324,7 +1324,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Italy",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:IT",
       "sovereignity": "UN member",
-      "state_name": "The Italian Republic"
+      "state_name": "Italian Republic"
     },
     "JE": {
       "cc_tld": ".je",
@@ -1336,7 +1336,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Jersey",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:JE",
       "sovereignity": "GB",
-      "state_name": "The Bailiwick of Jersey"
+      "state_name": "Bailiwick of Jersey"
     },
     "JM": {
       "cc_tld": ".jm",
@@ -1360,7 +1360,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Jordan",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:JO",
       "sovereignity": "UN member",
-      "state_name": "The Hashemite Kingdom of Jordan"
+      "state_name": "Hashemite Kingdom of Jordan"
     },
     "JP": {
       "cc_tld": ".jp",
@@ -1384,7 +1384,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Kenya",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:KE",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Kenya"
+      "state_name": "Republic of Kenya"
     },
     "KG": {
       "cc_tld": ".kg",
@@ -1396,7 +1396,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Kyrgyzstan",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:KG",
       "sovereignity": "UN member",
-      "state_name": "The Kyrgyz Republic"
+      "state_name": "Kyrgyz Republic"
     },
     "KH": {
       "cc_tld": ".kh",
@@ -1408,7 +1408,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Cambodia",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:KH",
       "sovereignity": "UN member",
-      "state_name": "The Kingdom of Cambodia"
+      "state_name": "Kingdom of Cambodia"
     },
     "KI": {
       "cc_tld": ".ki",
@@ -1420,7 +1420,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Kiribati",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:KI",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Kiribati"
+      "state_name": "Republic of Kiribati"
     },
     "KM": {
       "cc_tld": ".km",
@@ -1432,7 +1432,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Comoros",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:KM",
       "sovereignity": "UN member",
-      "state_name": "The Union of the Comoros"
+      "state_name": "Union of the Comoros"
     },
     "KN": {
       "cc_tld": ".kn",
@@ -1444,7 +1444,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:KN",
       "sovereignity": "UN member",
-      "state_name": "Saint Kitts and Nevis"
+      "state_name": "Federation of Saint Kitts and Nevis"
     },
     "KP": {
       "cc_tld": ".kp",
@@ -1456,7 +1456,7 @@
       "country_url": "https://en.wikipedia.org/wiki/North_Korea",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:KP",
       "sovereignity": "UN member",
-      "state_name": "The Democratic People's Republic of Korea"
+      "state_name": "Democratic People's Republic of Korea"
     },
     "KR": {
       "cc_tld": ".kr",
@@ -1468,7 +1468,7 @@
       "country_url": "https://en.wikipedia.org/wiki/South_Korea",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:KR",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Korea"
+      "state_name": "Republic of Korea"
     },
     "KW": {
       "cc_tld": ".kw",
@@ -1480,7 +1480,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Kuwait",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:KW",
       "sovereignity": "UN member",
-      "state_name": "The State of Kuwait"
+      "state_name": "State of Kuwait"
     },
     "KY": {
       "cc_tld": ".ky",
@@ -1492,7 +1492,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Cayman_Islands",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:KY",
       "sovereignity": "GB",
-      "state_name": "The Cayman Islands"
+      "state_name": "Cayman Islands"
     },
     "KZ": {
       "cc_tld": ".kz",
@@ -1504,7 +1504,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Kazakhstan",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:KZ",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Kazakhstan"
+      "state_name": "Republic of Kazakhstan"
     },
     "LA": {
       "cc_tld": ".la",
@@ -1516,7 +1516,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Laos",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:LA",
       "sovereignity": "UN member",
-      "state_name": "The Lao People's Democratic Republic"
+      "state_name": "Lao People's Democratic Republic"
     },
     "LB": {
       "cc_tld": ".lb",
@@ -1528,7 +1528,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Lebanon",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:LB",
       "sovereignity": "UN member",
-      "state_name": "The Lebanese Republic"
+      "state_name": "Lebanese Republic"
     },
     "LC": {
       "cc_tld": ".lc",
@@ -1552,7 +1552,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Liechtenstein",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:LI",
       "sovereignity": "UN member",
-      "state_name": "The Principality of Liechtenstein"
+      "state_name": "Principality of Liechtenstein"
     },
     "LK": {
       "cc_tld": ".lk",
@@ -1564,7 +1564,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Sri_Lanka",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:LK",
       "sovereignity": "UN member",
-      "state_name": "The Democratic Socialist Republic of Sri Lanka"
+      "state_name": "Democratic Socialist Republic of Sri Lanka"
     },
     "LR": {
       "cc_tld": ".lr",
@@ -1576,7 +1576,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Liberia",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:LR",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Liberia"
+      "state_name": "Republic of Liberia"
     },
     "LS": {
       "cc_tld": ".ls",
@@ -1588,7 +1588,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Lesotho",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:LS",
       "sovereignity": "UN member",
-      "state_name": "The Kingdom of Lesotho"
+      "state_name": "Kingdom of Lesotho"
     },
     "LT": {
       "cc_tld": ".lt",
@@ -1600,7 +1600,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Lithuania",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:LT",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Lithuania"
+      "state_name": "Republic of Lithuania"
     },
     "LU": {
       "cc_tld": ".lu",
@@ -1612,7 +1612,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Luxembourg",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:LU",
       "sovereignity": "UN member",
-      "state_name": "The Grand Duchy of Luxembourg"
+      "state_name": "Grand Duchy of Luxembourg"
     },
     "LV": {
       "cc_tld": ".lv",
@@ -1624,7 +1624,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Latvia",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:LV",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Latvia"
+      "state_name": "Republic of Latvia"
     },
     "LY": {
       "cc_tld": ".ly",
@@ -1636,7 +1636,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Libya",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:LY",
       "sovereignity": "UN member",
-      "state_name": "The State of Libya"
+      "state_name": "State of Libya"
     },
     "MA": {
       "cc_tld": ".ma",
@@ -1648,7 +1648,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Morocco",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:MA",
       "sovereignity": "UN member",
-      "state_name": "The Kingdom of Morocco"
+      "state_name": "Kingdom of Morocco"
     },
     "MC": {
       "cc_tld": ".mc",
@@ -1660,7 +1660,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Monaco",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:MC",
       "sovereignity": "UN member",
-      "state_name": "The Principality of Monaco"
+      "state_name": "Principality of Monaco"
     },
     "MD": {
       "cc_tld": ".md",
@@ -1672,7 +1672,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Moldova",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:MD",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Moldova"
+      "state_name": "Republic of Moldova"
     },
     "ME": {
       "cc_tld": ".me",
@@ -1696,7 +1696,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Collectivity_of_Saint_Martin",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:MF",
       "sovereignity": "FR",
-      "state_name": "The Collectivity of Saint-Martin"
+      "state_name": "Collectivity of Saint-Martin"
     },
     "MG": {
       "cc_tld": ".mg",
@@ -1708,7 +1708,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Madagascar",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:MG",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Madagascar"
+      "state_name": "Republic of Madagascar"
     },
     "MH": {
       "cc_tld": ".mh",
@@ -1720,7 +1720,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Marshall_Islands",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:MH",
       "sovereignity": "UN member",
-      "state_name": "The Republic of the Marshall Islands"
+      "state_name": "Republic of the Marshall Islands"
     },
     "MK": {
       "cc_tld": ".mk",
@@ -1732,7 +1732,7 @@
       "country_url": "https://en.wikipedia.org/wiki/North_Macedonia",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:MK",
       "sovereignity": "UN member",
-      "state_name": "The Republic of North Macedonia"
+      "state_name": "Republic of North Macedonia"
     },
     "ML": {
       "cc_tld": ".ml",
@@ -1744,7 +1744,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Mali",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:ML",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Mali"
+      "state_name": "Republic of Mali"
     },
     "MM": {
       "cc_tld": ".mm",
@@ -1756,7 +1756,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Myanmar",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:MM",
       "sovereignity": "UN member",
-      "state_name": "The Republic of the Union of Myanmar"
+      "state_name": "Republic of the Union of Myanmar"
     },
     "MN": {
       "cc_tld": ".mn",
@@ -1780,7 +1780,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Macau",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:MO",
       "sovereignity": "CN",
-      "state_name": "The Macao Special Administrative Region of China"
+      "state_name": "Macao Special Administrative Region of China"
     },
     "MP": {
       "cc_tld": ".mp",
@@ -1792,7 +1792,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Northern_Mariana_Islands",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:MP",
       "sovereignity": "US",
-      "state_name": "The Commonwealth of the Northern Mariana Islands"
+      "state_name": "Commonwealth of the Northern Mariana Islands"
     },
     "MQ": {
       "cc_tld": ".mq",
@@ -1816,7 +1816,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Mauritania",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:MR",
       "sovereignity": "UN member",
-      "state_name": "The Islamic Republic of Mauritania"
+      "state_name": "Islamic Republic of Mauritania"
     },
     "MS": {
       "cc_tld": ".ms",
@@ -1840,7 +1840,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Malta",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:MT",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Malta"
+      "state_name": "Republic of Malta"
     },
     "MU": {
       "cc_tld": ".mu",
@@ -1852,7 +1852,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Mauritius",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:MU",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Mauritius"
+      "state_name": "Republic of Mauritius"
     },
     "MV": {
       "cc_tld": ".mv",
@@ -1864,7 +1864,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Maldives",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:MV",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Maldives"
+      "state_name": "Republic of Maldives"
     },
     "MW": {
       "cc_tld": ".mw",
@@ -1876,7 +1876,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Malawi",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:MW",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Malawi"
+      "state_name": "Republic of Malawi"
     },
     "MX": {
       "cc_tld": ".mx",
@@ -1888,7 +1888,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Mexico",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:MX",
       "sovereignity": "UN member",
-      "state_name": "The United Mexican States"
+      "state_name": "United Mexican States"
     },
     "MY": {
       "cc_tld": ".my",
@@ -1912,7 +1912,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Mozambique",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:MZ",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Mozambique"
+      "state_name": "Republic of Mozambique"
     },
     "NA": {
       "cc_tld": ".na",
@@ -1924,7 +1924,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Namibia",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:NA",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Namibia"
+      "state_name": "Republic of Namibia"
     },
     "NC": {
       "cc_tld": ".nc",
@@ -1948,7 +1948,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Niger",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:NE",
       "sovereignity": "UN member",
-      "state_name": "The Republic of the Niger"
+      "state_name": "Republic of the Niger"
     },
     "NF": {
       "cc_tld": ".nf",
@@ -1960,7 +1960,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Norfolk_Island",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:NF",
       "sovereignity": "AU",
-      "state_name": "The Territory of Norfolk Island"
+      "state_name": "Territory of Norfolk Island"
     },
     "NG": {
       "cc_tld": ".ng",
@@ -1972,7 +1972,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Nigeria",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:NG",
       "sovereignity": "UN member",
-      "state_name": "The Federal Republic of Nigeria"
+      "state_name": "Federal Republic of Nigeria"
     },
     "NI": {
       "cc_tld": ".ni",
@@ -1984,7 +1984,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Nicaragua",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:NI",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Nicaragua"
+      "state_name": "Republic of Nicaragua"
     },
     "NL": {
       "cc_tld": ".nl",
@@ -1996,7 +1996,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Kingdom_of_the_Netherlands",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:NL",
       "sovereignity": "UN member",
-      "state_name": "The Kingdom of the Netherlands"
+      "state_name": "Kingdom of the Netherlands"
     },
     "NO": {
       "cc_tld": ".no",
@@ -2008,7 +2008,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Norway",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:NO",
       "sovereignity": "UN member",
-      "state_name": "The Kingdom of Norway"
+      "state_name": "Kingdom of Norway"
     },
     "NP": {
       "cc_tld": ".np",
@@ -2020,7 +2020,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Nepal",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:NP",
       "sovereignity": "UN member",
-      "state_name": "The Federal Democratic Republic of Nepal"
+      "state_name": "Federal Democratic Republic of Nepal"
     },
     "NR": {
       "cc_tld": ".nr",
@@ -2032,7 +2032,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Nauru",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:NR",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Nauru"
+      "state_name": "Republic of Nauru"
     },
     "NU": {
       "cc_tld": ".nu",
@@ -2068,7 +2068,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Oman",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:OM",
       "sovereignity": "UN member",
-      "state_name": "The Sultanate of Oman"
+      "state_name": "Sultanate of Oman"
     },
     "PA": {
       "cc_tld": ".pa",
@@ -2080,7 +2080,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Panama",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:PA",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Panam\u00e1"
+      "state_name": "Republic of Panama"
     },
     "PE": {
       "cc_tld": ".pe",
@@ -2092,7 +2092,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Peru",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:PE",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Per\u00fa"
+      "state_name": "Republic of Peru"
     },
     "PF": {
       "cc_tld": ".pf",
@@ -2104,7 +2104,7 @@
       "country_url": "https://en.wikipedia.org/wiki/French_Polynesia",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:PF",
       "sovereignity": "FR",
-      "state_name": "French Polynesia"
+      "state_name": "Overseas Lands of French Polynesia"
     },
     "PG": {
       "cc_tld": ".pg",
@@ -2116,7 +2116,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Papua_New_Guinea",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:PG",
       "sovereignity": "UN member",
-      "state_name": "The Independent State of Papua New Guinea"
+      "state_name": "Independent State of Papua New Guinea"
     },
     "PH": {
       "cc_tld": ".ph",
@@ -2128,7 +2128,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Philippines",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:PH",
       "sovereignity": "UN member",
-      "state_name": "The Republic of the Philippines"
+      "state_name": "Republic of the Philippines"
     },
     "PK": {
       "cc_tld": ".pk",
@@ -2140,7 +2140,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Pakistan",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:PK",
       "sovereignity": "UN member",
-      "state_name": "The Islamic Republic of Pakistan"
+      "state_name": "Islamic Republic of Pakistan"
     },
     "PL": {
       "cc_tld": ".pl",
@@ -2152,7 +2152,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Poland",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:PL",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Poland"
+      "state_name": "Republic of Poland"
     },
     "PM": {
       "cc_tld": ".pm",
@@ -2164,7 +2164,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Saint_Pierre_and_Miquelon",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:PM",
       "sovereignity": "FR",
-      "state_name": "The Overseas Collectivity of Saint-Pierre and Miquelon"
+      "state_name": "Overseas Collectivity of Saint-Pierre and Miquelon"
     },
     "PN": {
       "cc_tld": ".pn",
@@ -2176,7 +2176,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Pitcairn_Islands",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:PN",
       "sovereignity": "GB",
-      "state_name": "The Pitcairn, Henderson, Ducie and Oeno Islands"
+      "state_name": "Pitcairn, Henderson, Ducie and Oeno Islands"
     },
     "PR": {
       "cc_tld": ".pr",
@@ -2188,7 +2188,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Puerto_Rico",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:PR",
       "sovereignity": "US",
-      "state_name": "The Commonwealth of Puerto Rico"
+      "state_name": "Commonwealth of Puerto Rico"
     },
     "PS": {
       "cc_tld": ".ps",
@@ -2200,7 +2200,7 @@
       "country_url": "https://en.wikipedia.org/wiki/State_of_Palestine",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:PS",
       "sovereignity": "UN observer",
-      "state_name": "The State of Palestine"
+      "state_name": "State of Palestine"
     },
     "PT": {
       "cc_tld": ".pt",
@@ -2212,7 +2212,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Portugal",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:PT",
       "sovereignity": "UN member",
-      "state_name": "The Portuguese Republic"
+      "state_name": "Portuguese Republic"
     },
     "PW": {
       "cc_tld": ".pw",
@@ -2224,7 +2224,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Palau",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:PW",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Palau"
+      "state_name": "Republic of Palau"
     },
     "PY": {
       "cc_tld": ".py",
@@ -2236,7 +2236,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Paraguay",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:PY",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Paraguay"
+      "state_name": "Republic of Paraguay"
     },
     "QA": {
       "cc_tld": ".qa",
@@ -2248,7 +2248,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Qatar",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:QA",
       "sovereignity": "UN member",
-      "state_name": "The State of Qatar"
+      "state_name": "State of Qatar"
     },
     "RE": {
       "cc_tld": ".re",
@@ -2284,7 +2284,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Serbia",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:RS",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Serbia"
+      "state_name": "Republic of Serbia"
     },
     "RU": {
       "cc_tld": ".ru",
@@ -2296,7 +2296,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Russia",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:RU",
       "sovereignity": "UN member",
-      "state_name": "The Russian Federation"
+      "state_name": "Russian Federation"
     },
     "RW": {
       "cc_tld": ".rw",
@@ -2308,7 +2308,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Rwanda",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:RW",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Rwanda"
+      "state_name": "Republic of Rwanda"
     },
     "SA": {
       "cc_tld": ".sa",
@@ -2320,7 +2320,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Saudi_Arabia",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:SA",
       "sovereignity": "UN member",
-      "state_name": "The Kingdom of Saudi Arabia"
+      "state_name": "Kingdom of Saudi Arabia"
     },
     "SB": {
       "cc_tld": ".sb",
@@ -2332,7 +2332,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Solomon_Islands",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:SB",
       "sovereignity": "UN member",
-      "state_name": "The Solomon Islands"
+      "state_name": "Solomon Islands"
     },
     "SC": {
       "cc_tld": ".sc",
@@ -2344,7 +2344,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Seychelles",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:SC",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Seychelles"
+      "state_name": "Republic of Seychelles"
     },
     "SD": {
       "cc_tld": ".sd",
@@ -2356,7 +2356,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Sudan",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:SD",
       "sovereignity": "UN member",
-      "state_name": "The Republic of the Sudan"
+      "state_name": "Republic of the Sudan"
     },
     "SE": {
       "cc_tld": ".se",
@@ -2368,7 +2368,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Sweden",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:SE",
       "sovereignity": "UN member",
-      "state_name": "The Kingdom of Sweden"
+      "state_name": "Kingdom of Sweden"
     },
     "SG": {
       "cc_tld": ".sg",
@@ -2380,7 +2380,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Singapore",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:SG",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Singapore"
+      "state_name": "Republic of Singapore"
     },
     "SH": {
       "cc_tld": ".sh",
@@ -2404,7 +2404,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Slovenia",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:SI",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Slovenia"
+      "state_name": "Republic of Slovenia"
     },
     "SJ": {
       "cc_tld": "",
@@ -2428,7 +2428,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Slovakia",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:SK",
       "sovereignity": "UN member",
-      "state_name": "The Slovak Republic"
+      "state_name": "Slovak Republic"
     },
     "SL": {
       "cc_tld": ".sl",
@@ -2440,7 +2440,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Sierra_Leone",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:SL",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Sierra Leone"
+      "state_name": "Republic of Sierra Leone"
     },
     "SM": {
       "cc_tld": ".sm",
@@ -2452,7 +2452,7 @@
       "country_url": "https://en.wikipedia.org/wiki/San_Marino",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:SM",
       "sovereignity": "UN member",
-      "state_name": "The Republic of San Marino"
+      "state_name": "Republic of San Marino"
     },
     "SN": {
       "cc_tld": ".sn",
@@ -2464,7 +2464,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Senegal",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:SN",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Senegal"
+      "state_name": "Republic of Senegal"
     },
     "SO": {
       "cc_tld": ".so",
@@ -2476,7 +2476,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Somalia",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:SO",
       "sovereignity": "UN member",
-      "state_name": "The Federal Republic of Somalia"
+      "state_name": "Federal Republic of Somalia"
     },
     "SR": {
       "cc_tld": ".sr",
@@ -2488,7 +2488,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Suriname",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:SR",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Suriname"
+      "state_name": "Republic of Suriname"
     },
     "SS": {
       "cc_tld": ".ss",
@@ -2500,7 +2500,7 @@
       "country_url": "https://en.wikipedia.org/wiki/South_Sudan",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:SS",
       "sovereignity": "UN member",
-      "state_name": "The Republic of South Sudan"
+      "state_name": "Republic of South Sudan"
     },
     "ST": {
       "cc_tld": ".st",
@@ -2512,7 +2512,7 @@
       "country_url": "https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:ST",
       "sovereignity": "UN member",
-      "state_name": "The Democratic Republic of S\u00e3o Tom\u00e9 and Pr\u00edncipe"
+      "state_name": "Democratic Republic of S\u00e3o Tom\u00e9 and Pr\u00edncipe"
     },
     "SV": {
       "cc_tld": ".sv",
@@ -2524,7 +2524,7 @@
       "country_url": "https://en.wikipedia.org/wiki/El_Salvador",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:SV",
       "sovereignity": "UN member",
-      "state_name": "The Republic of El Salvador"
+      "state_name": "Republic of El Salvador"
     },
     "SX": {
       "cc_tld": ".sx",
@@ -2548,7 +2548,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Syria",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:SY",
       "sovereignity": "UN member",
-      "state_name": "The Syrian Arab Republic"
+      "state_name": "Syrian Arab Republic"
     },
     "SZ": {
       "cc_tld": ".sz",
@@ -2560,7 +2560,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Eswatini",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:SZ",
       "sovereignity": "UN member",
-      "state_name": "The Kingdom of Eswatini"
+      "state_name": "Kingdom of Eswatini"
     },
     "TC": {
       "cc_tld": ".tc",
@@ -2572,7 +2572,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Turks_and_Caicos_Islands",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:TC",
       "sovereignity": "GB",
-      "state_name": "The Turks and Caicos Islands"
+      "state_name": "Turks and Caicos Islands"
     },
     "TD": {
       "cc_tld": ".td",
@@ -2584,7 +2584,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Chad",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:TD",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Chad"
+      "state_name": "Republic of Chad"
     },
     "TF": {
       "cc_tld": ".tf",
@@ -2596,7 +2596,7 @@
       "country_url": "https://en.wikipedia.org/wiki/French_Southern_and_Antarctic_Lands",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:TF",
       "sovereignity": "FR",
-      "state_name": "The French Southern and Antarctic Lands"
+      "state_name": "French Southern and Antarctic Lands"
     },
     "TG": {
       "cc_tld": ".tg",
@@ -2608,7 +2608,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Togo",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:TG",
       "sovereignity": "UN member",
-      "state_name": "The Togolese Republic"
+      "state_name": "Togolese Republic"
     },
     "TH": {
       "cc_tld": ".th",
@@ -2620,7 +2620,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Thailand",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:TH",
       "sovereignity": "UN member",
-      "state_name": "The Kingdom of Thailand"
+      "state_name": "Kingdom of Thailand"
     },
     "TJ": {
       "cc_tld": ".tj",
@@ -2632,7 +2632,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Tajikistan",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:TJ",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Tajikistan"
+      "state_name": "Republic of Tajikistan"
     },
     "TK": {
       "cc_tld": ".tk",
@@ -2656,7 +2656,7 @@
       "country_url": "https://en.wikipedia.org/wiki/East_Timor",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:TL",
       "sovereignity": "UN member",
-      "state_name": "The Democratic Republic of Timor-Leste"
+      "state_name": "Democratic Republic of Timor-Leste"
     },
     "TM": {
       "cc_tld": ".tm",
@@ -2680,7 +2680,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Tunisia",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:TN",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Tunisia"
+      "state_name": "Republic of Tunisia"
     },
     "TO": {
       "cc_tld": ".to",
@@ -2692,7 +2692,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Tonga",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:TO",
       "sovereignity": "UN member",
-      "state_name": "The Kingdom of Tonga"
+      "state_name": "Kingdom of Tonga"
     },
     "TR": {
       "cc_tld": ".tr",
@@ -2704,7 +2704,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Turkey",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:TR",
       "sovereignity": "UN member",
-      "state_name": "The Republic of T\u00fcrkiye"
+      "state_name": "Republic of T\u00fcrkiye"
     },
     "TT": {
       "cc_tld": ".tt",
@@ -2716,7 +2716,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Trinidad_and_Tobago",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:TT",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Trinidad and Tobago"
+      "state_name": "Republic of Trinidad and Tobago"
     },
     "TV": {
       "cc_tld": ".tv",
@@ -2740,7 +2740,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Taiwan",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:TW",
       "sovereignity": "disputed",
-      "state_name": "The Republic of China"
+      "state_name": "Republic of China"
     },
     "TZ": {
       "cc_tld": ".tz",
@@ -2752,7 +2752,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Tanzania",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:TZ",
       "sovereignity": "UN member",
-      "state_name": "The United Republic of Tanzania"
+      "state_name": "United Republic of Tanzania"
     },
     "UA": {
       "cc_tld": ".ua",
@@ -2776,7 +2776,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Uganda",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:UG",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Uganda"
+      "state_name": "Republic of Uganda"
     },
     "UM": {
       "cc_tld": "",
@@ -2788,7 +2788,7 @@
       "country_url": "https://en.wikipedia.org/wiki/United_States_Minor_Outlying_Islands",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:UM",
       "sovereignity": "US",
-      "state_name": "Baker\u00a0Island"
+      "state_name": "United States Pacific Island Wildlife Refuges,"
     },
     "US": {
       "cc_tld": ".us",
@@ -2800,7 +2800,7 @@
       "country_url": "https://en.wikipedia.org/wiki/United_States",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:US",
       "sovereignity": "UN member",
-      "state_name": "The United States of America"
+      "state_name": "United States of America"
     },
     "UY": {
       "cc_tld": ".uy",
@@ -2812,7 +2812,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Uruguay",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:UY",
       "sovereignity": "UN member",
-      "state_name": "The Oriental Republic of Uruguay"
+      "state_name": "Oriental Republic of Uruguay"
     },
     "UZ": {
       "cc_tld": ".uz",
@@ -2824,7 +2824,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Uzbekistan",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:UZ",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Uzbekistan"
+      "state_name": "Republic of Uzbekistan"
     },
     "VA": {
       "cc_tld": ".va",
@@ -2836,7 +2836,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Holy_See",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:VA",
       "sovereignity": "UN observer",
-      "state_name": "The Holy See"
+      "state_name": "Holy See"
     },
     "VC": {
       "cc_tld": ".vc",
@@ -2860,7 +2860,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Venezuela",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:VE",
       "sovereignity": "UN member",
-      "state_name": "The Bolivarian Republic of Venezuela"
+      "state_name": "Bolivarian Republic of Venezuela"
     },
     "VG": {
       "cc_tld": ".vg",
@@ -2872,7 +2872,7 @@
       "country_url": "https://en.wikipedia.org/wiki/British_Virgin_Islands",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:VG",
       "sovereignity": "GB",
-      "state_name": "The Virgin Islands"
+      "state_name": "Virgin Islands"
     },
     "VI": {
       "cc_tld": ".vi",
@@ -2884,7 +2884,7 @@
       "country_url": "https://en.wikipedia.org/wiki/United_States_Virgin_Islands",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:VI",
       "sovereignity": "US",
-      "state_name": "The Virgin Islands of the United States"
+      "state_name": "Virgin Islands of the United States"
     },
     "VN": {
       "cc_tld": ".vn",
@@ -2896,7 +2896,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Vietnam",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:VN",
       "sovereignity": "UN member",
-      "state_name": "The Socialist Republic of Viet Nam"
+      "state_name": "Socialist Republic of Viet Nam"
     },
     "VU": {
       "cc_tld": ".vu",
@@ -2908,7 +2908,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Vanuatu",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:VU",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Vanuatu"
+      "state_name": "Republic of Vanuatu"
     },
     "WF": {
       "cc_tld": ".wf",
@@ -2920,7 +2920,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Wallis_and_Futuna",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:WF",
       "sovereignity": "FR",
-      "state_name": "The Territory of the Wallis and Futuna Islands"
+      "state_name": "Territory of the Wallis and Futuna Islands"
     },
     "WS": {
       "cc_tld": ".ws",
@@ -2932,7 +2932,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Samoa",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:WS",
       "sovereignity": "UN member",
-      "state_name": "The Independent State of Samoa"
+      "state_name": "Independent State of Samoa"
     },
     "YE": {
       "cc_tld": ".ye",
@@ -2944,7 +2944,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Yemen",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:YE",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Yemen"
+      "state_name": "Republic of Yemen"
     },
     "YT": {
       "cc_tld": ".yt",
@@ -2956,7 +2956,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Mayotte",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:YT",
       "sovereignity": "FR",
-      "state_name": "The Department of Mayotte"
+      "state_name": "Department of Mayotte"
     },
     "ZA": {
       "cc_tld": ".za",
@@ -2968,7 +2968,7 @@
       "country_url": "https://en.wikipedia.org/wiki/South_Africa",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:ZA",
       "sovereignity": "UN member",
-      "state_name": "The Republic of South Africa"
+      "state_name": "Republic of South Africa"
     },
     "ZM": {
       "cc_tld": ".zm",
@@ -2980,7 +2980,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Zambia",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:ZM",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Zambia"
+      "state_name": "Republic of Zambia"
     },
     "ZW": {
       "cc_tld": ".zw",
@@ -2992,7 +2992,7 @@
       "country_url": "https://en.wikipedia.org/wiki/Zimbabwe",
       "regions_url": "https://en.wikipedia.org/wiki/ISO_3166-2:ZW",
       "sovereignity": "UN member",
-      "state_name": "The Republic of Zimbabwe"
+      "state_name": "Republic of Zimbabwe"
     }
   }
 ]

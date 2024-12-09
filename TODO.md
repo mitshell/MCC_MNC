@@ -12,7 +12,7 @@ Wikipedia lists administrative companies with number of subscribers: https://en.
 And revenues: https://en.wikipedia.org/wiki/List_of_telephone_operating_companies
 Those 2 generally encompasses several national MNOs.
 
-See if / how the list of national MNOs can be linked to companies listed in this table.
+See if / how the list of national MNOs can be linked to operators listed in this project (also collected from Wikipedia).
 
 
 ## Cables

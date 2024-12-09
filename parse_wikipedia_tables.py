@@ -160,6 +160,8 @@ def read_entry_iso3166(T, off):
     #
     rec['country_name'], rec['country_url'] = _get_country_url(L[0])
     rec['state_name']   = explore_text(L[1]).text.strip()
+    if rec['state_name'].lower().startswith('the '):
+        rec['state_name'] = rec['state_name'][3:].lstrip()
     rec['sovereignity'] = SOVEREIGNITY_LUT[explore_text(L[2]).text.strip().lower()]
     rec['code_alpha_2'] = explore_text(L[3]).text.strip().upper()
     rec['code_alpha_3'] = explore_text(L[4]).text.strip().upper()
@@ -304,10 +306,11 @@ def parse_table_mcc():
 
 def read_entry_mnc_title(e):
     name, url, sub, codes = '', '', None, []
+    t = e
     while e is not None:
         title = None
         for i in e:
-            if i.values() and i.values()[0] == 'mw-headline' and '\n' not in ''.join(i.itertext()):
+            if i.values() and i.values()[0] and '\n' not in ''.join(i.itertext()):
                 title = i
                 break
         if title is not None:
@@ -319,19 +322,18 @@ def read_entry_mnc_title(e):
     if title is None:
         raise(Exception('unable to find headline title for MNC country name'))
     elif len(title) == 0:
-        # raw title, without link
-        name = title.values()[1].strip()
+        # raw title, without link (Test networks, International operators)
+        name = title.values()[0].strip()
         return name, '', None, []
     else:
-        name, url = _get_country_url(title[0])
-        if len(title) > 1:
+        name, url = _get_country_url(title[1])
+        if len(title) > 2:
             # country sub-info, provided in parenthesis
-            if len(e[1]) >= 2:
-                sub = _get_country_url(e[1][1])
-                if sub[0] == None:
-                    sub = None            
-            else:
-                sub = None
+            sub = _get_country_url(title[2])
+            if sub[0] == None:
+                sub = None            
+        else:
+            sub = None
     #
     # country alpha code
     # Warning, for EU MNC, separator is ' – ', whereas it is ' - ' for others
@@ -360,7 +362,11 @@ def read_entry_mnc(T_MNC, off):
     rec['operator']     = ''.join(L[3].itertext()).strip()
     rec['status']       = explore_text(L[4]).text.strip().lower()
     rec['bands']        = ''.join(L[5].itertext()).strip()
-    rec['notes']        = _strip_wiki_refnote(_strip_wiki_ref(''.join(L[6].itertext())))
+    try:
+        rec['notes']        = _strip_wiki_refnote(_strip_wiki_ref(''.join(L[6].itertext())))
+    except Exception:
+        # notes may be aggregated with the previous line
+        pass
     #
     if len(rec['mcc']) > 3:
         # some HTML tab/ref in wikipedia may add the country name before the MCC
@@ -383,6 +389,9 @@ def parse_table_mnc(T_MNC):
         if len(T_MNC[i]) < 6:
             continue
         rec = read_entry_mnc(T_MNC, i)
+        if 'notes' not in rec and L and 'notes' in L[-1]:
+            # notes aggregated with the previous line
+            rec['notes'] = L[-1]['notes']
         rec['country_name'], rec['country_url'], rec['country_sub'], rec['codes_alpha_2'] = \
             country_infos
         #
@@ -500,7 +509,8 @@ def parse_table_msisdn_pref_over(T):
     for L in T[4:]:
         if not len(L):
             continue
-        if (L[0].text is None or not L[0].text[0].isdigit()) and pref != '7':
+        L_txt = ''.join(L.itertext()).lstrip()
+        if not L_txt or not L_txt[0].isdigit():
             continue
         for e in L:
             if len(e) < 2 or not e[0].text:
