@@ -38,8 +38,7 @@ P1_CNTR = \
                                            'name disputed',
                                            'jamhuri-ye islami-ye afghanistan',
                                            'jamhuri-ye islami-ye afghanistan (prior to 15 august 2021; current country '
-                                           'name is disputed)',
-                                           'the islamic republic of afghanistan'],
+                                           'name is disputed)'],
                               'tel': { 'code': '93',
                                        'domestic': [ 'before the Taliban takeover in August 2021, less than 1 per 100 '
                                                      'for fixed-line teledensity',
@@ -108,11 +107,7 @@ P1_CNTR = \
                                    'region': 'Europe',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:AL',
                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/albania/'},
-                          'nameset': [ 'albania',
-                                       'republic of albania',
-                                       'republika e shqiperise',
-                                       'shqiperia',
-                                       'the republic of albania'],
+                          'nameset': ['albania', 'republic of albania', 'republika e shqiperise', 'shqiperia'],
                           'tel': { 'code': '355',
                                    'domestic': [ 'fixed-line approximately 7 per 100, teledensity continues to decline '
                                                  'due to heavy use of mobile-cellular telephone services',
@@ -184,8 +179,7 @@ P1_CNTR = \
                           'nameset': [ "al jaza'ir",
                                        "al jumhuriyah al jaza'iriyah ad dimuqratiyah ash sha'biyah",
                                        'algeria',
-                                       "people's democratic republic of algeria",
-                                       "the people's democratic republic of algeria"],
+                                       "people's democratic republic of algeria"],
                           'tel': { 'code': '213',
                                    'domestic': [ 'a limited network of fixed-lines with a teledensity of slightly less '
                                                  'than 12 telephones per 100 persons has been offset by the rapid '
@@ -256,11 +250,9 @@ P1_CNTR = \
                                           'region': 'Oceania',
                                           'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:AS',
                                           'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/american-samoa/'},
-                                 'nameset': [ 'american samoa',
-                                              'territory of american samoa',
-                                              'the territory of american samoa'],
+                                 'nameset': ['american samoa'],
                                  'tel': { 'code': '1684',
-                                          'domestic': ['nearly 22 per 100 fixed-line teledensity', 2020],
+                                          'domestic': ['nearly 22 per 100 fixed-line tele density', 2021],
                                           'general': [ 'American Samoa Telecommunications Authority, ASTCA, supplies '
                                                        'telecommunication services to the residents of the American '
                                                        'Samoan islands, a territory of the United States, which are '
@@ -307,10 +299,7 @@ P1_CNTR = \
                                    'region': 'Europe',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:AD',
                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/andorra/'},
-                          'nameset': [ 'andorra',
-                                       'principality of andorra',
-                                       "principat d'andorra",
-                                       'the principality of andorra'],
+                          'nameset': ['andorra', 'principality of andorra', "principat d'andorra"],
                           'tel': { 'code': '376',
                                    'domestic': ['about 63 per 100 fixed-line, 110 per 100 mobile-cellular', 2021],
                                    'general': [ 'Andorra has a modern telecommunications system with microwave radio '
@@ -357,7 +346,7 @@ P1_CNTR = \
                                   'region': 'Africa',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:AO',
                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/angola/'},
-                         'nameset': ['angola', 'republic of angola', 'republica de angola', 'the republic of angola'],
+                         'nameset': ['angola', 'republic of angola', 'republica de angola'],
                          'tel': { 'code': '244',
                                   'domestic': [ 'less than one fixed-line per 100 persons',
                                                 'mobile-cellular teledensity about 44 telephones per 100 persons',
@@ -504,7 +493,7 @@ P1_CNTR = \
                                       'region': 'Antarctic Region',
                                       'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:AQ',
                                       'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/antarctica/'},
-                             'nameset': ['antarctica', 'antarctica (all land and ice shelves south of the'],
+                             'nameset': ['antarctica'],
                              'tel': { 'domestic': [ 'commercial cellular networks operating in a small number of '
                                                     'locations',
                                                     2019],
@@ -617,10 +606,7 @@ P1_CNTR = \
                                      'region': 'South America',
                                      'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:AR',
                                      'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/argentina/'},
-                            'nameset': [ 'argentina',
-                                         'argentine republic',
-                                         'república argentina',
-                                         'the argentine republic'],
+                            'nameset': ['argentina', 'argentine republic', 'república argentina'],
                             'tel': { 'code': '54',
                                      'domestic': [ 'roughly 15 per 100 fixed-line and 130 per 100 mobile-cellular',
                                                    'microwave radio relay, fiber-optic cable, and a domestic satellite '
@@ -693,25 +679,21 @@ P1_CNTR = \
                                    'region': 'Asia',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:AM',
                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/armenia/'},
-                          'nameset': [ 'armenia',
-                                       'hayastan',
-                                       "hayastani hanrapetut'yun",
-                                       'republic of armenia',
-                                       'the republic of armenia'],
+                          'nameset': ['armenia', 'hayastan', "hayastani hanrapetut'yun", 'republic of armenia'],
                           'tel': { 'code': '374',
-                                   'domestic': [ 'roughly 15 per 100 fixed-line and 129 per 100 mobile-cellular',
+                                   'domestic': [ 'roughly 13 per 100 fixed-line and 135 per 100 mobile-cellular',
                                                  'reliable fixed-line and mobile-cellular services are available '
                                                  'across Yerevan and in major cities and towns',
                                                  'mobile-cellular coverage available in most rural areas',
-                                                 2021],
-                                   'general': [ 'Armenia’s telecom sector was able to post in the mobile and broadband '
-                                                'segments',
-                                                'its fixed-line penetration continues to slide downwards, with the '
-                                                'rollout of fiber networks which have encouraged the increase in '
-                                                'bundled services',
+                                                 2022],
+                                   'general': [ 'the telecom sector was able to post modest gains in the mobile and '
+                                                'broadband segments',
+                                                'fixed-line services continue to decrease with the rollout of fiber '
+                                                'networks',
                                                 'the fixed broadband market remains undeveloped due to the lack of '
-                                                'underlying infrastructure outside the main cities',
-                                                2021],
+                                                'infrastructure outside the main cities',
+                                                'mobile broadband is expected increase by 2026',
+                                                2024],
                                    'intl': [ 'Yerevan is connected to the Caucasus Cable System fiber-optic cable '
                                              'through Georgia and Iran to Europe',
                                              'additional international service is available by microwave radio relay '
@@ -828,7 +810,7 @@ P1_CNTR = \
                                      'region': 'Oceania',
                                      'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:AU',
                                      'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/australia/'},
-                            'nameset': ['australia', 'commonwealth of australia', 'the commonwealth of australia'],
+                            'nameset': ['australia', 'commonwealth of australia'],
                             'tel': { 'code': '61',
                                      'domestic': [ '18 per 100 fixed-line telephone subscriptions and 105 per 100 '
                                                    'mobile-cellular',
@@ -964,11 +946,7 @@ P1_CNTR = \
                                    'region': 'Europe',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:AT',
                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/austria/'},
-                          'nameset': [ 'austria',
-                                       'oesterreich',
-                                       'republic of austria',
-                                       'republik oesterreich',
-                                       'the republic of austria'],
+                          'nameset': ['austria', 'oesterreich', 'republic of austria', 'republik oesterreich'],
                           'tel': { 'code': '43',
                                    'domestic': [ 'developed and efficient',
                                                  '43 per 100 fixed telephone subscriptions',
@@ -1058,39 +1036,37 @@ P1_CNTR = \
                              'nameset': [ 'azarbaycan',
                                           'azarbaycan respublikasi',
                                           'azerbaijan',
-                                          'republic of azerbaijan',
-                                          'the republic of azerbaijan'],
+                                          'republic of azerbaijan'],
                              'tel': { 'code': '994',
                                       'domestic': [ '16 fixed-lines subscriptions per 100 persons',
-                                                    'mobile-cellular subscriptions of 105 telephones per 100 persons',
-                                                    2021],
-                                      'general': [ 'in spite of the telecom sector being one of the major contributors '
-                                                   'to Azerbaijan’s non-oil GDP, overall development, growth, and '
-                                                   'investment in the sector has been held back by years of political '
-                                                   'and civil unrest coupled with endemic corruption',
-                                                   'mobile penetration rates reached 100% as far back as 2011 but have '
+                                                    'mobile-cellular subscriptions of 107 telephones per 100 persons',
+                                                    2022],
+                                      'general': [ 'the telecom sector was one of the major contributors to '
+                                                   'Azerbaijan’s non-oil GDP, overall development, growth, and '
+                                                   'investment',
+                                                   'mobile usage rates reached 100% as far back as 2011, but have '
                                                    'largely stagnated since then',
                                                    'the Mobile Network Operators (MNOs) are slowly extending the reach '
-                                                   'of their LTE networks around the country, and this increased '
-                                                   'coverage (along with access to faster data-based services) is '
-                                                   'expected to produce a moderate resurgence for both mobile and '
-                                                   'mobile broadband over the next few years as customers migrate from '
-                                                   '3G to 4G. 5G services are still some ways off, as the demand for '
-                                                   'high-speed data and fast broadband can easily be met by existing '
-                                                   'capacity on LTE networks',
-                                                   'fixed-line teledensity continues to drop down each year as '
+                                                   'of their long-term evolution (LTE) networks around the country, '
+                                                   'and this increased coverage (along with access to faster '
+                                                   'data-based services) is expected to produce a moderate resurgence '
+                                                   'for both mobile and mobile broadband over the next few years as '
+                                                   'customers migrate from 3G to 4G. 5G services are still some ways '
+                                                   'off, as the demand for high-speed data and fast broadband can '
+                                                   'easily be met by existing capacity on LTE networks',
+                                                   'fixed-line tele density continues to drop down each year as '
                                                    'customers consolidate their telecommunications services around the '
                                                    'mobile platform',
-                                                   'the rate of decline is comparatively slower than other countries, '
+                                                   'yet the rate of decline is comparatively slow to other countries, '
                                                    'since Azerbaijan has a relatively high proportion of (87%) of '
                                                    'fixed-line broadband customers still on DSL',
-                                                   'fiber is gradually being rolled out in urban areas, and this makes '
-                                                   'up the bulk of the growth being seen in the overall fixed '
-                                                   'broadband market',
+                                                   'Fiber (12% of fixed broadband connections) is gradually being '
+                                                   'rolled out in urban areas, and this makes up the bulk of the '
+                                                   '(limited) growth being seen in the overall fixed broadband market',
                                                    'DSL’s predominance, however, will serve to keep Azerbaijan’s '
                                                    'average access speeds in the sub-10Mbps range for the foreseeable '
                                                    'future',
-                                                   2020],
+                                                   2024],
                                       'intl': [ 'Azerbaijan’s largest mobile network operator ( ) launched trial 5G '
                                                 'mobile services in Baku on 27 December 2022',
                                                 2023],
@@ -1126,11 +1102,7 @@ P1_CNTR = \
                                    'region': 'Middle East',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BH',
                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/bahrain/'},
-                          'nameset': [ 'al bahrayn',
-                                       'bahrain',
-                                       'kingdom of bahrain',
-                                       'mamlakat al bahrayn',
-                                       'the kingdom of bahrain'],
+                          'nameset': ['al bahrayn', 'bahrain', 'kingdom of bahrain', 'mamlakat al bahrayn'],
                           'tel': { 'code': '973',
                                    'domestic': [ 'approximately 18 per 100 fixed-line and 131 per 100 mobile-cellular',
                                                  'modern fiber-optic integrated services',
@@ -1185,8 +1157,7 @@ P1_CNTR = \
                                       'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/bangladesh/'},
                              'nameset': [ 'bangladesh',
                                           'gana prajatantri bangladesh',
-                                          "people's republic of bangladesh",
-                                          "the people's republic of bangladesh"],
+                                          "people's republic of bangladesh"],
                              'tel': { 'code': '880',
                                       'domestic': [ 'fixed-line teledensity remains less than 1 per 100 persons',
                                                     'mobile-cellular telephone subscribership has been increasing '
@@ -1325,25 +1296,25 @@ P1_CNTR = \
                                        "byelarus' (belarusian)/ belarus' (russian)",
                                        'republic of belarus',
                                        "respublika byelarus'",
-                                       "respublika byelarus' (belarusian)/ respublika belarus' (russian)",
-                                       'the republic of belarus'],
+                                       "respublika byelarus' (belarusian)/ respublika belarus' (russian)"],
                           'tel': { 'code': '375',
-                                   'domestic': [ 'fixed-line teledensity is improving although rural areas continue to '
-                                                 'be underserved, approximately 45 per 100 fixed-line',
-                                                 'mobile-cellular teledensity now roughly 123 telephones per 100 '
-                                                 'persons',
-                                                 2021],
-                                   'general': [ 'the Government of Belarus has successfully promoted the migration to '
-                                                'an all-IP platform as part of a wider effort towards a digital '
-                                                'transformation for the economy',
-                                                'the state-supported infrastructure operator beCloud has built an '
-                                                'extensive fiber network, which reaches all but the smallest '
-                                                'settlements in the country',
-                                                'Belarus has the second-highest fiber subscription rate in Europe, '
-                                                'behind only Iceland',
-                                                'LTE coverage is almost universal, while considerable progress has '
-                                                'also been made in developing 5G services',
-                                                2021],
+                                   'domestic': [ 'fixed-line tele density 44 per 100 fixed-line',
+                                                 'mobile-cellular tele density 123 telephones per 100 persons',
+                                                 2022],
+                                   'general': [ 'the government of Belarus has successfully promoted the migration to '
+                                                'an all-internet protocol (IP) platform as part of a wider effort '
+                                                'towards a digital transformation for the economy',
+                                                'the state-supported infrastructure operator has built an extensive '
+                                                'fiber network which reaches all but the smallest settlements in the '
+                                                'country',
+                                                'Belarus has the second highest fiber usage rate in Europe, behind '
+                                                'only Iceland',
+                                                'long-term evolution (LTE) coverage is almost universal, while '
+                                                'considerable progress has also been made in developing 5G services',
+                                                'telcos have had to invest in network infrastructure while managing a '
+                                                'significant fall in the value of the local currency (particularly '
+                                                'against the euro and the US dollar)',
+                                                2024],
                                    'intl': [ 'Belarus is landlocked and therefore a member of the Trans-European Line '
                                              '(TEL), Trans-Asia-Europe (TAE) fiber-optic line, and has access to the '
                                              'Trans-Siberia Line (TSL)',
@@ -1395,8 +1366,7 @@ P1_CNTR = \
                                        'kingdom of belgium',
                                        'royaume de belgique',
                                        'royaume de belgique (french)/koninkrijk belgie (dutch)/koenigreich belgien '
-                                       '(german)',
-                                       'the kingdom of belgium'],
+                                       '(german)'],
                           'tel': { 'code': '32',
                                    'domestic': [ 'about 28 per 100 fixed-line and 101 per 100 mobile-cellular',
                                                  'nationwide mobile-cellular telephone system',
@@ -1546,7 +1516,10 @@ P1_CNTR = \
                                  'region': 'Africa',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BJ',
                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/benin/'},
-                        'nameset': ['benin', 'republic of benin', 'republique du benin', 'the republic of benin'],
+                        'nameset': [ 'benin',
+                                     'r&eacute;publique du benin',
+                                     'randeacute;publique du benin',
+                                     'republic of benin'],
                         'tel': { 'code': '229',
                                  'domestic': [ 'fixed-line teledensity less than 1 per 100 people',
                                                'mobile cellular subscriptions are 98 per 100 people',
@@ -1665,11 +1638,7 @@ P1_CNTR = \
                                   'region': 'Asia',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BT',
                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/bhutan/'},
-                         'nameset': [ 'bhutan',
-                                      'druk gyalkhap',
-                                      'druk yul',
-                                      'kingdom of bhutan',
-                                      'the kingdom of bhutan'],
+                         'nameset': ['bhutan', 'druk gyalkhap', 'druk yul', 'kingdom of bhutan'],
                          'tel': { 'code': '975',
                                   'domestic': [ 'approximately 3 to 100 fixed-line and 100 mobile cellular '
                                                 'subscriptions per 100 people',
@@ -1731,10 +1700,7 @@ P1_CNTR = \
                                    'region': 'South America',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BO',
                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/bolivia/'},
-                          'nameset': [ 'bolivia',
-                                       'estado plurinacional de bolivia',
-                                       'plurinational state of bolivia',
-                                       'the plurinational state of bolivia'],
+                          'nameset': ['bolivia', 'estado plurinacional de bolivia', 'plurinational state of bolivia'],
                           'tel': { 'code': '591',
                                    'domestic': [ '4 per 100 fixed-line, mobile-cellular telephone use expanding '
                                                  'rapidly and teledensity stands at 100 per 100 persons',
@@ -1930,7 +1896,7 @@ P1_CNTR = \
                                     'region': 'Africa',
                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BW',
                                     'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/botswana/'},
-                           'nameset': ['botswana', 'republic of botswana', 'the republic of botswana'],
+                           'nameset': ['botswana', 'republic of botswana'],
                            'tel': { 'code': '267',
                                     'domestic': [ 'fixed-line teledensity has declined in recent years and now stands '
                                                   'at roughly 5 telephones per 100 persons',
@@ -2028,8 +1994,7 @@ P1_CNTR = \
                          'nameset': [ 'brasil',
                                       'brazil',
                                       'federative republic of brazil',
-                                      'república federativa do brasil',
-                                      'the federative republic of brazil'],
+                                      'república federativa do brasil'],
                          'tel': { 'code': '55',
                                   'domestic': [ 'fixed-line connections stand at roughly 13 per 100 persons',
                                                 'mobile-cellular teledensity roughly 102 per 100 persons',
@@ -2150,8 +2115,7 @@ P1_CNTR = \
                                                           'region': 'Political Map of the World',
                                                           'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:IO',
                                                           'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/british-indian-ocean-territory/'},
-                                                 'nameset': [ 'british indian ocean territory',
-                                                              'the british indian ocean territory'],
+                                                 'nameset': ['british indian ocean territory'],
                                                  'tel': { 'domestic': [ 'all commercial telephone services are '
                                                                         'available, including connection to the '
                                                                         'Internet',
@@ -2199,7 +2163,7 @@ P1_CNTR = \
                                                   'region': 'Central America and the Caribbean',
                                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:VG',
                                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/british-virgin-islands/'},
-                                         'nameset': ['british virgin islands', 'the virgin islands', 'virgin islands'],
+                                         'nameset': ['british virgin islands', 'virgin islands'],
                                          'tel': { 'code': '1284',
                                                   'domestic': [ 'fixed-line connections exceed 22 per 100 persons and '
                                                                 'mobile cellular subscribership is roughly 110 per 100 '
@@ -2274,12 +2238,7 @@ P1_CNTR = \
                                   'region': 'Southeast Asia',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BN',
                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/brunei/'},
-                         'nameset': [ 'brunei',
-                                      'brunei darussalam',
-                                      'nation of brunei the abode of peace',
-                                      'nation of brunei, the abode of peace',
-                                      'negara brunei darussalam',
-                                      'the nation of brunei, the abode of peace'],
+                         'nameset': ['brunei', 'brunei darussalam', 'negara brunei darussalam'],
                          'tel': { 'code': '673',
                                   'domestic': ['25 per 100 fixed-line, 136 per 100 mobile-cellular', 2021],
                                   'general': [ 'Brunei’s mobile market experienced drop-off in subscriber numbers in '
@@ -2347,10 +2306,7 @@ P1_CNTR = \
                                     'region': 'Europe',
                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BG',
                                     'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/bulgaria/'},
-                           'nameset': [ 'bulgaria',
-                                        'republic of bulgaria',
-                                        'republika bulgaria',
-                                        'the republic of bulgaria'],
+                           'nameset': ['bulgaria', 'republic of bulgaria', 'republika bulgaria'],
                            'tel': { 'code': '359',
                                     'domestic': [ 'fixed-line over 11 per 100 persons, mobile-cellular teledensity, '
                                                   'fostered by multiple service providers, is over 115 telephones per '
@@ -2466,11 +2422,7 @@ P1_CNTR = \
                                                         'Tanzania': 589},
                                               'len': 1140},
                                    'capital': { 'coord': '3 25 S, 29 55 E',
-                                                'name': 'Gitega (political capital), Bujumbura (commercial capital); '
-                                                        'note - in January 2019, the Burundian parliament voted to '
-                                                        'make Gitega the political capital of the country while '
-                                                        'Bujumbura would remain its economic capital; as of 2023, the '
-                                                        "government's move to Gitega remains incomplete",
+                                                'name': 'Gitega (political capital), Bujumbura (commercial capital)',
                                                 'time_diff': 'UTC+2'},
                                    'coast': {'num': 0},
                                    'coord': ['3 30 S, 30 00 E'],
@@ -2479,10 +2431,10 @@ P1_CNTR = \
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BI',
                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/burundi/'},
                           'nameset': [ 'burundi',
-                                       'republic of burundi',
-                                       'republique du burundi',
-                                       "republique du burundi (french)/ republika y'u burundi (kirundi)",
-                                       'the republic of burundi'],
+                                       'r&eacute;publique du burundi',
+                                       "r&eacute;publique du burundi (french)/ republika y'u burundi (kirundi)",
+                                       'randeacute;publique du burundi',
+                                       'republic of burundi'],
                           'tel': { 'code': '257',
                                    'domestic': [ 'fixed-line connections stand at less than 1 per 100 persons',
                                                  'mobile-cellular usage is about 62 per 100 persons',
@@ -2566,8 +2518,7 @@ P1_CNTR = \
                                         'kampuchea',
                                         'kingdom of cambodia',
                                         'preahreacheanachakr kampuchea',
-                                        'preahreacheanachakr kampuchea (phonetic transliteration)',
-                                        'the kingdom of cambodia'],
+                                        'preahreacheanachakr kampuchea (phonetic transliteration)'],
                            'tel': { 'code': '855',
                                     'domestic': [ 'fixed-line connections stand at less than 1 per 100 persons',
                                                   'mobile-cellular usage, aided by competition among service '
@@ -2658,10 +2609,10 @@ P1_CNTR = \
                                     'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/cameroon/'},
                            'nameset': [ 'cameroon',
                                         'cameroun/cameroon',
-                                        'republic of cameroon',
-                                        'republique du cameroun',
-                                        'republique du cameroun (french)/republic of cameroon (english)',
-                                        'the republic of cameroon'],
+                                        'r&eacute;publique du cameroun',
+                                        'r&eacute;publique du cameroun (french)/republic of cameroon (english)',
+                                        'randeacute;publique du cameroun',
+                                        'republic of cameroon'],
                            'tel': { 'code': '237',
                                     'domestic': [ 'only a little above 3 per 100 persons for fixed-line subscriptions',
                                                   'mobile-cellular usage has increased sharply, reaching a '
@@ -2727,9 +2678,9 @@ P1_CNTR = \
                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/canada/'},
                          'nameset': ['canada'],
                          'tel': { 'code': '1',
-                                  'domestic': [ 'Nearly 34 per 100 fixed-line and 86 per 100 mobile-cellular '
+                                  'domestic': [ 'Nearly 29 per 100 fixed-line and 91 per 100 mobile-cellular '
                                                 'teledensity',
-                                                2021],
+                                                2022],
                                   'general': [ 'the Canadian telecom market continues to show steady development as '
                                                'operators invest in network upgrades',
                                                'much of the investment among telcos has been channeled into LTE '
@@ -2750,7 +2701,7 @@ P1_CNTR = \
                                                'despite topographical challenges and the remoteness of many areas, the '
                                                'major players effectively offer 99% population coverage with LTE',
                                                'operators now provide up to 70% population coverage with 5G',
-                                               2022],
+                                               2024],
                                   'intl': [ 'landing points for the Nunavut Undersea Fiber Optic Network System, '
                                             'Greenland Connect, Persona, GTT Atlantic, and Express, KetchCan 1 '
                                             'Submarine Fiber Cable system, St Pierre and Miquelon Cable submarine '
@@ -2831,6 +2782,9 @@ P1_CNTR = \
                           '302710',
                           '302720',
                           '302721',
+                          '302722',
+                          '302723',
+                          '302724',
                           '302730',
                           '302740',
                           '302741',
@@ -2848,6 +2802,8 @@ P1_CNTR = \
                           '302911',
                           '302920',
                           '302940',
+                          '302970',
+                          '302971',
                           '302990',
                           '302991',
                           '302996',
@@ -2880,8 +2836,7 @@ P1_CNTR = \
                              'nameset': [ 'cabo verde',
                                           'cape verde',
                                           'republic of cabo verde',
-                                          'republica de cabo verde',
-                                          'the republic of cabo verde'],
+                                          'republica de cabo verde'],
                              'tel': { 'code': '238',
                                       'domestic': [ '9 per 100 fixed-line teledensity and nearly 100 per 100 '
                                                     'mobile-cellular',
@@ -2932,7 +2887,7 @@ P1_CNTR = \
                                           'region': 'Central America and the Caribbean',
                                           'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:KY',
                                           'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/cayman-islands/'},
-                                 'nameset': ['cayman islands', 'the cayman islands'],
+                                 'nameset': ['cayman islands'],
                                  'tel': { 'code': '1345',
                                           'domestic': ['53 per 100 fixed-line and 150 per 100 mobile-cellular', 2021],
                                           'general': [ 'the telecom sector has seen a decline in subscriber numbers '
@@ -2989,8 +2944,8 @@ P1_CNTR = \
                                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:CF',
                                                     'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/central-african-republic/'},
                                            'nameset': [ 'central african republic',
-                                                        'republique centrale africaine',
-                                                        'the central african republic'],
+                                                        'r&eacute;publique centrafricaine',
+                                                        'randeacute;publique centrafricaine'],
                                            'tel': { 'code': '236',
                                                     'domestic': [ 'very limited telephone service with less than 1 '
                                                                   'fixed-line connection per 100 persons',
@@ -3054,10 +3009,10 @@ P1_CNTR = \
                                 'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:TD',
                                 'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/chad/'},
                        'nameset': [ 'chad',
+                                    'r&eacute;publique du tchad/jumhuriyat tshad',
+                                    'randeacute;publique du tchad/jumhuriyat tshad',
                                     'republic of chad',
-                                    'republique du tchad/jumhuriyat tshad',
-                                    'tchad/tshad',
-                                    'the republic of chad'],
+                                    'tchad/tshad'],
                        'tel': { 'code': '235',
                                 'domestic': [ 'fixed-line connections less than 1 per 100 persons',
                                               'mobile-cellular subscribership base of about 60 per 100 persons',
@@ -3112,7 +3067,7 @@ P1_CNTR = \
                                  'region': 'South America',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:CL',
                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/chile/'},
-                        'nameset': ['chile', 'republic of chile', 'república de chile', 'the republic of chile'],
+                        'nameset': ['chile', 'republic of chile', 'república de chile'],
                         'tel': { 'code': '56',
                                  'domestic': [ 'number of fixed-line connections 13 per 100, mobile-cellular usage '
                                                'continues to increase, reaching 136 telephones per 100 persons',
@@ -3225,11 +3180,7 @@ P1_CNTR = \
                                  'region': 'Asia',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:CN',
                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/china/'},
-                        'nameset': [ 'china',
-                                     "people's republic of china",
-                                     "the people's republic of china",
-                                     'zhongguo',
-                                     'zhonghua renmin gongheguo'],
+                        'nameset': ['china', "people's republic of china", 'zhongguo', 'zhonghua renmin gongheguo'],
                         'tel': { 'code': '86',
                                  'domestic': ['nearly 13 per 100 fixed line and 122 per 100 mobile-cellular', 2021],
                                  'general': [ 'China has the largest Internet market in the world with almost all '
@@ -3304,9 +3255,7 @@ P1_CNTR = \
                                             'region': 'Southeast Asia',
                                             'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:CX',
                                             'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/christmas-island/'},
-                                   'nameset': [ 'christmas island',
-                                                'territory of christmas island',
-                                                'the territory of christmas island'],
+                                   'nameset': ['christmas island', 'territory of christmas island'],
                                    'tel': { 'domestic': [ 'improvements to Christmas Island include an upgrade to the '
                                                           'macro cell base stations and deploy a new macro cell base '
                                                           'station at the airport',
@@ -3417,8 +3366,7 @@ P1_CNTR = \
                                              'cocos (keeling) islands',
                                              'cocos islands',
                                              'territory of cocos',
-                                             'territory of cocos (keeling) islands',
-                                             'the territory of cocos (keeling) islands'],
+                                             'territory of cocos (keeling) islands'],
                                 'tel': { 'domestic': ['local area code - 08', 0],
                                          'general': [ 'telephone service is part of the Australian network',
                                                       'an operational local mobile-cellular network available',
@@ -3533,10 +3481,7 @@ P1_CNTR = \
                                     'region': 'South America',
                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:CO',
                                     'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/colombia/'},
-                           'nameset': [ 'colombia',
-                                        'republic of colombia',
-                                        'república de colombia',
-                                        'the republic of colombia'],
+                           'nameset': ['colombia', 'republic of colombia', 'república de colombia'],
                            'tel': { 'code': '57',
                                     'domestic': [ 'fixed-line connections stand at about 15 per 100 persons',
                                                   'mobile cellular telephone subscribership is 150 per 100 persons',
@@ -3632,7 +3577,6 @@ P1_CNTR = \
                           'nameset': [ 'comoros',
                                        'komori',
                                        'komori (comorian)/les comores (french)/juzur al qamar (arabic)',
-                                       'the union of the comoros',
                                        'udzima wa komori',
                                        'udzima wa komori (comorian)/union des comores (french)/al ittihad al qumuri '
                                        '(arabic)',
@@ -3684,7 +3628,7 @@ P1_CNTR = \
                                         'region': 'Oceania',
                                         'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:CK',
                                         'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/cook-islands/'},
-                               'nameset': ['cook islands', 'the cook islands'],
+                               'nameset': ['cook islands'],
                                'tel': { 'code': '682',
                                         'domestic': [ 'service is provided by small exchanges connected to subscribers '
                                                       'by open-wire, cable, and fiber-optic cable',
@@ -3741,10 +3685,7 @@ P1_CNTR = \
                                       'region': 'Central America and the Caribbean',
                                       'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:CR',
                                       'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/costa-rica/'},
-                             'nameset': [ 'costa rica',
-                                          'republic of costa rica',
-                                          'república de costa rica',
-                                          'the republic of costa rica'],
+                             'nameset': ['costa rica', 'republic of costa rica', 'república de costa rica'],
                              'tel': { 'code': '506',
                                       'domestic': [ 'roughly 11 per 100 fixed-line and 152 per 100 mobile-cellular',
                                                     2021],
@@ -3810,11 +3751,7 @@ P1_CNTR = \
                                    'region': 'Europe',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:HR',
                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/croatia/'},
-                          'nameset': [ 'croatia',
-                                       'hrvatska',
-                                       'republic of croatia',
-                                       'republika hrvatska',
-                                       'the republic of croatia'],
+                          'nameset': ['croatia', 'hrvatska', 'republic of croatia', 'republika hrvatska'],
                           'tel': { 'code': '385',
                                    'domestic': [ 'fixed-line teledensity 31 per 100 persons',
                                                  'mobile-cellular telephone subscriptions are 108 per 100',
@@ -3888,7 +3825,7 @@ P1_CNTR = \
                                 'region': 'Central America and the Caribbean',
                                 'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:CU',
                                 'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/cuba/'},
-                       'nameset': ['cuba', 'republic of cuba', 'república de cuba', 'the republic of cuba'],
+                       'nameset': ['cuba', 'republic of cuba', 'república de cuba'],
                        'tel': { 'domestic': [ 'fixed-line density remains low at a little over 14 per 100 inhabitants',
                                               'mobile-cellular service has expanded to about 63 per 100 persons',
                                               2021],
@@ -3949,8 +3886,7 @@ P1_CNTR = \
                                        'curacao (dutch)/ korsou (papiamento)',
                                        'curaçao',
                                        'land curacao',
-                                       'land curacao (dutch)/ pais korsou (papiamento)',
-                                       'the country of curaçao'],
+                                       'land curacao (dutch)/ pais korsou (papiamento)'],
                           'tel': { 'domestic': [ 'roughly 28 per 100 users for fixed-line and 88 per 100 users for '
                                                  'cellular-mobile',
                                                  2021],
@@ -4019,8 +3955,7 @@ P1_CNTR = \
                                       'kypriaki dimokratia (greek)/ kibris cumhuriyeti (turkish)',
                                       'kypros',
                                       'kypros (greek)/ kibris (turkish)',
-                                      'republic of cyprus',
-                                      'the republic of cyprus'],
+                                      'republic of cyprus'],
                          'tel': { 'code': '357',
                                   'domestic': [ 'fixed-line about 34 per 100 and about 149 per 100 for mobile-cellular '
                                                 'teledensity',
@@ -4090,23 +4025,18 @@ P1_CNTR = \
                                           'region': 'Europe',
                                           'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:CZ',
                                           'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/czechia/'},
-                                 'nameset': [ 'ceska republika',
-                                              'cesko',
-                                              'czech republic',
-                                              'czechia',
-                                              'the czech republic'],
+                                 'nameset': ['ceska republika', 'cesko', 'czech republic', 'czechia'],
                                  'tel': { 'code': '420',
                                           'domestic': [ 'roughly 12 fixed-telephone subscriptions per 100 inhabitants '
-                                                        'and mobile telephone usage of 125 per 100 inhabitants',
-                                                        2021],
-                                          'general': [ 'the telecom market has attracted investment from among the key '
-                                                       'regional telcos',
-                                                       'telcos in the Czech Republic have become multi-service '
+                                                        'and mobile telephone usage of 128 per 100 inhabitants',
+                                                        2022],
+                                          'general': [ 'telcos in the Czech Republic have become multi-service '
                                                        'providers, offering a full range of fixed and mobile services',
-                                                       'this has enabled the reach of their 5G networks',
-                                                       'this process has also been assisted by them closing down 3G '
-                                                       'networks and reforming spectrum for 5G and LTE use',
-                                                       2023],
+                                                       'this has enabled the Mobile Network Operators (MNOs) to expand '
+                                                       'the reach of their 5G networks while they have been closing '
+                                                       'down 3G networks and repurposing the internet for 5G and '
+                                                       'long-term evolution (LTE) use',
+                                                       2024],
                                           'intl': [ 'satellite earth stations - 6 (2 Intersputnik - Atlantic and '
                                                     'Indian Ocean regions, 1 Intelsat, 1 Eutelsat, 1 Inmarsat, 1 '
                                                     'Globalstar)',
@@ -4174,9 +4104,9 @@ P1_CNTR = \
                                                             'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/congo-democratic-republic-of-the/'},
                                                    'nameset': [ 'democratic republic of the congo',
                                                                 'drc',
-                                                                'rdc',
-                                                                'republique democratique du congo',
-                                                                'the democratic republic of the congo'],
+                                                                'r&eacute;publique d&eacute;mocratique du congo',
+                                                                'randeacute;publique dandeacute;mocratique du congo',
+                                                                'rdc'],
                                                    'tel': { 'code': '243',
                                                             'domestic': [ 'inadequate fixed-line infrastructure with '
                                                                           'fixed-line connections less than 1 per 100 '
@@ -4265,11 +4195,7 @@ P1_CNTR = \
                                    'region': 'Europe',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:DK',
                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/denmark/'},
-                          'nameset': [ 'danmark',
-                                       'denmark',
-                                       'kingdom of denmark',
-                                       'kongeriget danmark',
-                                       'the kingdom of denmark'],
+                          'nameset': ['danmark', 'denmark', 'kingdom of denmark', 'kongeriget danmark'],
                           'tel': { 'code': '45',
                                    'domestic': [ 'fixed-line roughly 12 per 100 and about 124 per 100 for '
                                                  'mobile-cellular subscriptions',
@@ -4374,10 +4300,10 @@ P1_CNTR = \
                                     'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/djibouti/'},
                            'nameset': [ 'djibouti',
                                         'djibouti (french)/ jibuti (arabic)',
-                                        'republic of djibouti',
-                                        'republique de djibouti',
-                                        'republique de djibouti (french)/ jumhuriyat jibuti (arabic)',
-                                        'the republic of djibouti'],
+                                        'r&eacute;publique de djibouti',
+                                        'r&eacute;publique de djibouti (french)/ jumhuriyat jibuti (arabic)',
+                                        'randeacute;publique de djibouti',
+                                        'republic of djibouti'],
                            'tel': { 'code': '253',
                                     'domestic': [ 'about 2 per 100 fixed-line teledensity and nearly 44 per 100 '
                                                   'mobile-cellular',
@@ -4436,7 +4362,7 @@ P1_CNTR = \
                                     'region': 'Central America and the Caribbean',
                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:DM',
                                     'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/dominica/'},
-                           'nameset': ['commonwealth of dominica', 'dominica', 'the commonwealth of dominica'],
+                           'nameset': ['commonwealth of dominica', 'dominica'],
                            'tel': { 'code': '1767',
                                     'domestic': [ '10 fixed-line connections per 100 persons',
                                                   'mobile-cellular subscriptions are about 86 per 100 persons',
@@ -4508,8 +4434,7 @@ P1_CNTR = \
                                                   'dominican republic',
                                                   'la dominicana',
                                                   'república dominicana',
-                                                  'the dominican',
-                                                  'the dominican republic'],
+                                                  'the dominican'],
                                      'tel': { 'code': '1809',
                                               'domestic': [ 'fixed-line teledensity is about 10 per 100 persons',
                                                             'mobile cellular subscriptions 88 per 100 persons',
@@ -4581,7 +4506,6 @@ P1_CNTR = \
                                           "republika demokratika timor lorosa'e",
                                           "republika demokratika timor lorosa'e (tetum)/ republica democratica de "
                                           'timor-leste (portuguese)',
-                                          'the democratic republic of timor-leste',
                                           "timor lorosa'e",
                                           "timor lorosa'e (tetum)/ timor-leste (portuguese)",
                                           'timor-leste'],
@@ -4649,10 +4573,7 @@ P1_CNTR = \
                                    'region': 'South America',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:EC',
                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/ecuador/'},
-                          'nameset': [ 'ecuador',
-                                       'republic of ecuador',
-                                       'república del ecuador',
-                                       'the republic of ecuador'],
+                          'nameset': ['ecuador', 'republic of ecuador', 'república del ecuador'],
                           'tel': { 'code': '593',
                                    'domestic': [ 'according to 2021 statistics from the Ministry of Telecommunications '
                                                  'and Information Society, 50 percent of Ecuadorian homes do not have '
@@ -4725,11 +4646,7 @@ P1_CNTR = \
                                  'region': 'Africa',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:EG',
                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/egypt/'},
-                        'nameset': [ 'arab republic of egypt',
-                                     'egypt',
-                                     'jumhuriyat misr al-arabiyah',
-                                     'misr',
-                                     'the arab republic of egypt'],
+                        'nameset': ['arab republic of egypt', 'egypt', 'jumhuriyat misr al-arabiyah', 'misr'],
                         'tel': { 'code': '20',
                                  'domestic': ['fixed-line roughly 10 per 100, mobile-cellular 95 per 100', 2021],
                                  'general': [ 'Egypt’s large telecom market is supported by a population of about 109 '
@@ -4809,10 +4726,7 @@ P1_CNTR = \
                                        'region': 'Central America and the Caribbean',
                                        'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SV',
                                        'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/el-salvador/'},
-                              'nameset': [ 'el salvador',
-                                           'republic of el salvador',
-                                           'república de el salvador',
-                                           'the republic of el salvador'],
+                              'nameset': ['el salvador', 'republic of el salvador', 'república de el salvador'],
                               'tel': { 'code': '503',
                                        'domestic': [ 'fixed-line services, roughly 14 per 100, mobile-cellular '
                                                      'competition now at 175 subscribers per 100 inhabitants',
@@ -4892,12 +4806,12 @@ P1_CNTR = \
                                              'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/equatorial-guinea/'},
                                     'nameset': [ 'equatorial guinea',
                                                  'guinea ecuatorial',
-                                                 'guinea ecuatorial (spanish)/ guinee equatoriale (french)',
+                                                 'guinea ecuatorial (spanish)/guin&eacute;e &eacute;quatoriale '
+                                                 '(french)',
                                                  'republic of equatorial guinea',
                                                  'republica de guinea ecuatorial',
-                                                 'republica de guinea ecuatorial (spanish)/ republique de guinee '
-                                                 'equatoriale (french)',
-                                                 'the republic of equatorial guinea'],
+                                                 'republica de guinea ecuatorial (spanish)/ r&eacute;publique de '
+                                                 'guin&eacute;e &eacute;quatoriale (french)'],
                                     'tel': { 'general': [ 'country code - 240',
                                                           'landing points for the ACE, Ceiba-1, and Ceiba-2 submarine '
                                                           'cables providing communication from Bata and Malabo, '
@@ -4937,7 +4851,7 @@ P1_CNTR = \
                                    'region': 'Africa',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:ER',
                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/eritrea/'},
-                          'nameset': ['eritrea', 'ertra', 'hagere ertra', 'state of eritrea', 'the state of eritrea'],
+                          'nameset': ['eritrea', 'ertra', 'hagere ertra', 'state of eritrea'],
                           'tel': { 'code': '291',
                                    'domestic': [ 'fixed-line subscribership is less than 2 per 100 persons and '
                                                  'mobile-cellular is just over 50 per 100',
@@ -4996,24 +4910,23 @@ P1_CNTR = \
                                    'region': 'Europe',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:EE',
                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/estonia/'},
-                          'nameset': [ 'eesti',
-                                       'eesti vabariik',
-                                       'estonia',
-                                       'republic of estonia',
-                                       'the republic of estonia'],
+                          'nameset': ['eesti', 'eesti vabariik', 'estonia', 'republic of estonia'],
                           'tel': { 'code': '372',
-                                   'domestic': [ '22 per 100 for fixed-line subscribership and approximately 149 per '
+                                   'domestic': [ '20 per 100 for fixed-line subscribership and approximately 155 per '
                                                  '100 for mobile-cellular',
-                                                 2021],
-                                   'general': [ 'the competitive telecom market continues to progress with a range of '
-                                                'regulatory measures which have enabled alternative operators to chip '
-                                                'away at the fixed-line market share',
-                                                'fixed-line infrastructure upgrades have been focused on fiber, and '
-                                                'the legacy DSL network has gradually been replaced',
-                                                'limited commercial 5G deployments have been made though an expansion '
-                                                'of service availability awaits the delayed auction of spectrum in the '
-                                                '3.5GHz band, which is expected to be held later in 2021',
-                                                2021],
+                                                 2022],
+                                   'general': [ 'investment in Estonia’s telecom market has been focused on fixed-line '
+                                                'infrastructure upgrades, and the deployment of 5G services',
+                                                'fixed broadband subscribers are gradually migrating from digital '
+                                                'subscriber lines (DSL) to fiber, with the legacy copper being '
+                                                'replaced',
+                                                'the Mobile Network Operators (MNOs) have comprehensive long-term '
+                                                'evolution (LTE) infrastructure in place, and have in recent years '
+                                                'channeled investment to 5G',
+                                                'several 5G trials have been undertaken in recent years, though '
+                                                'commercial service launches have been restricted by the lack of '
+                                                'available internet services',
+                                                2024],
                                    'intl': [ 'landing points for the EE-S-1, EESF-3, Baltic Sea Submarine Cable, FEC '
                                              'and EESF-2 fiber-optic submarine cables to other Estonia points, '
                                              'Finland, and Sweden',
@@ -5058,6 +4971,7 @@ P1_CNTR = \
                            '24832',
                            '24833',
                            '24834',
+                           '24835',
                            '24871'],
                'msisdn': ['372'],
                'msisdn_url': ['https://en.wikipedia.org/wiki/%2B372'],
@@ -5078,10 +4992,7 @@ P1_CNTR = \
                                     'region': 'Africa',
                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SZ',
                                     'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/eswatini/'},
-                           'nameset': [ 'eswatini',
-                                        'kingdom of eswatini',
-                                        'the kingdom of eswatini',
-                                        'umbuso weswatini'],
+                           'nameset': ['eswatini', 'kingdom of eswatini', 'umbuso weswatini'],
                            'tel': { 'code': '268',
                                     'domestic': [ 'fixed-line stands at nearly 4 per 100 and mobile-cellular '
                                                   'teledensity roughly 120 telephones per 100 persons',
@@ -5150,7 +5061,6 @@ P1_CNTR = \
                            'nameset': [ 'ethiopia',
                                         'federal democratic republic of ethiopia',
                                         "ityop'iya",
-                                        'the federal democratic republic of ethiopia',
                                         "yeityop'iya federalawi demokrasiyawi ripeblik"],
                            'tel': { 'code': '251',
                                     'domestic': [ 'fixed-line subscriptions less than 1 per 100 while mobile-cellular '
@@ -5209,9 +5119,7 @@ P1_CNTR = \
                                             'region': 'South America',
                                             'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:FK',
                                             'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/falkland-islands-islas-malvinas/'},
-                                   'nameset': [ 'falkland islands',
-                                                'falkland islands (islas malvinas)',
-                                                'the falkland islands'],
+                                   'nameset': ['falkland islands', 'falkland islands (islas malvinas)'],
                                    'tel': { 'code': '500',
                                             'domestic': [ 'fixed-line subscriptions approximately 53 per 100, 160 per '
                                                           '100 for mobile-cellular',
@@ -5272,7 +5180,7 @@ P1_CNTR = \
                                          'region': 'Europe',
                                          'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:FO',
                                          'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/faroe-islands/'},
-                                'nameset': ['faroe islands', 'foroyar', 'the faroe islands'],
+                                'nameset': ['faroe islands', 'foroyar'],
                                 'tel': { 'code': '298',
                                          'domestic': [ '29 per 100 teledensity for fixed-line and nearly 110 per 100 '
                                                        'for mobile-cellular',
@@ -5330,8 +5238,7 @@ P1_CNTR = \
                                                           'region': 'Oceania',
                                                           'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:FM',
                                                           'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/micronesia-federated-states-of/'},
-                                                 'nameset': [ 'federated states of micronesia',
-                                                              'the federated states of micronesia'],
+                                                 'nameset': ['federated states of micronesia'],
                                                  'tel': { 'code': '691',
                                                           'domestic': [ 'fixed line teledensity roughly 6 per 100 and '
                                                                         'mobile-cellular nearly 19 per 100',
@@ -5370,7 +5277,7 @@ P1_CNTR = \
                                                           'tld': '.fm',
                                                           'url_tld': 'https://en.wikipedia.org/wiki/.fm'}},
                                       'mcc': ['550'],
-                                      'mccmnc': ['55001'],
+                                      'mccmnc': ['55001', '55002'],
                                       'msisdn': ['691'],
                                       'msisdn_url': ['https://en.wikipedia.org/wiki/%2B691'],
                                       'name': 'Federated States of Micronesia',
@@ -5401,8 +5308,7 @@ P1_CNTR = \
                                     'fiji (english)/ matanitu ko viti (fijian)',
                                     'fiji (english)/ viti (fijian)',
                                     'republic of fiji',
-                                    'republic of fiji (english)/ matanitu ko viti (fijian)',
-                                    'the republic of fiji'],
+                                    'republic of fiji (english)/ matanitu ko viti (fijian)'],
                        'tel': { 'code': '679',
                                 'domestic': [ 'fixed-line nearly 5 per 100 persons and mobile-cellular teledensity '
                                               'roughly 110 per 100 persons',
@@ -5482,8 +5388,7 @@ P1_CNTR = \
                                        'suomen tasavalta',
                                        'suomen tasavalta (finnish)/ republiken finland (swedish)',
                                        'suomi',
-                                       'suomi (finnish)/ finland (swedish)',
-                                       'the republic of finland'],
+                                       'suomi (finnish)/ finland (swedish)'],
                           'tel': { 'code': '358',
                                    'domestic': [ 'fixed-line 4 per 100 subscriptions and nearly 129 per 100 '
                                                  'mobile-cellular',
@@ -5630,7 +5535,10 @@ P1_CNTR = \
                                   'region': 'Europe',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:FR',
                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/france/'},
-                         'nameset': ['france', 'french republic', 'republique francaise', 'the french republic'],
+                         'nameset': [ 'france',
+                                      'french republic',
+                                      'r&eacute;publique fran&ccedil;aise',
+                                      'randeacute;publique franandccedil;aise'],
                          'tel': { 'code': '33',
                                   'domestic': [ 'nearly 59 per 100 persons for fixed-line and over 110 per 100 for '
                                                 'mobile-cellular subscriptions',
@@ -5759,7 +5667,8 @@ P1_CNTR = \
                           '20895',
                           '20896',
                           '20897',
-                          '20898'],
+                          '20898',
+                          '27007'],
               'msisdn': ['33'],
               'msisdn_url': ['https://en.wikipedia.org/wiki/%2B33'],
               'name': 'France',
@@ -5811,7 +5720,8 @@ P1_CNTR = \
                                             'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/french-polynesia/'},
                                    'nameset': [ 'french polynesia',
                                                 'overseas lands of french polynesia',
-                                                "pays d'outre-mer de la polynesie francaise",
+                                                "pays d'outre-mer de la polyn&eacute;sie fran&ccedil;aise",
+                                                "pays d'outre-mer de la polynandeacute;sie franandccedil;aise",
                                                 'polynesie francaise'],
                                    'tel': { 'code': '689',
                                             'domestic': [ 'fixed-line subscriptions nearly 36 per 100 persons and '
@@ -5973,10 +5883,10 @@ P1_CNTR = \
                                                        'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/french-southern-and-antarctic-lands/'},
                                               'nameset': [ 'french southern and antarctic lands',
                                                            'french southern territories',
+                                                           'terres australes et antarctiques fran&ccedil;aises',
+                                                           'terres australes et antarctiques franandccedil;aises',
                                                            'terres australes et antarctiques francaises',
-                                                           'territoire des terres australes et antarctiques francaises',
-                                                           'territory of the french southern and antarctic lands',
-                                                           'the french southern and antarctic lands'],
+                                                           'territory of the french southern and antarctic lands'],
                                               'tel': {'tld': '.tf', 'url_tld': 'https://en.wikipedia.org/wiki/.tf'}},
                                    'mcc': ['208'],
                                    'mccmnc': [],
@@ -6007,7 +5917,10 @@ P1_CNTR = \
                                  'region': 'Africa',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:GA',
                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/gabon/'},
-                        'nameset': ['gabon', 'gabonese republic', 'republique gabonaise', 'the gabonese republic'],
+                        'nameset': [ 'gabon',
+                                     'gabonese republic',
+                                     'r&eacute;publique gabonaise',
+                                     'randeacute;publique gabonaise'],
                         'tel': { 'code': '241',
                                  'domestic': [ 'fixed-line 1 per 100 subscriptions',
                                                'mobile cellular subscriptions are 134 per 100 persons',
@@ -6064,27 +5977,28 @@ P1_CNTR = \
                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/georgia/'},
                           'nameset': ['georgia', 'republic of georgia', "sak'art'velo"],
                           'tel': { 'code': '995',
-                                   'domestic': [ 'fixed-line subscriptions 9 per 100, mobile-cellular teledensity '
-                                                 'roughly 137 per 100 persons',
-                                                 2021],
+                                   'domestic': [ 'fixed-line subscriptions 8 per 100, mobile-cellular tele density '
+                                                 'roughly 156 per 100 persons',
+                                                 2022],
                                    'general': [ 'the telecom sector has been attempting for many years to overcome the '
                                                 'decades of under-investment in its fixed-line infrastructure during '
                                                 'the Soviet era',
                                                 'concerted efforts to privatize state-owned enterprises and open up '
                                                 'the telecom market have been mostly successful, with a large number '
-                                                'of networks now competing in both the fixed-line and the mobile '
+                                                'of operators now competing in both the fixed-line and the mobile '
                                                 'segments',
-                                                'more needs to be done, however, to give investors the confidence to '
-                                                'enter a market that has barely moved in terms of revenue growth over '
-                                                'the last decade, and where regulatory overreach has sometimes come '
-                                                'perilously close to arresting further development',
                                                 'Georgia’s government moved fast following the collapse of the Soviet '
                                                 'Union to liberalize the country’s telecom market',
-                                                'this resulted in a relatively high number of networks competing in '
+                                                'this resulted in a relatively high number of operators competing in '
                                                 'the under-developed fixed-line segment as well as in the emerging '
                                                 'mobile market',
-                                                'both segments remain dominated by just a few companies',
-                                                2022],
+                                                'the mobile and mobile broadband segments have both demonstrated solid '
+                                                'growth in 2021',
+                                                'this upturn follows a significant contraction in subscriber numbers '
+                                                'as well as revenue during 2020 due to the Covid-19 crisis',
+                                                'funding has continued to flow into mobile ventures, with the Mobile '
+                                                'Network Operators (MNOs) preparing for 5G',
+                                                2024],
                                    'intl': [ 'landing points for the Georgia-Russia, Diamond Link Global, and Caucasus '
                                              'Cable System fiber-optic submarine cable that provides connectivity to '
                                              'Russia, Romania and Bulgaria',
@@ -6157,8 +6071,7 @@ P1_CNTR = \
                           'nameset': [ 'bundesrepublik deutschland',
                                        'deutschland',
                                        'federal republic of germany',
-                                       'germany',
-                                       'the federal republic of germany'],
+                                       'germany'],
                           'tel': { 'code': '49',
                                    'domestic': [ '46 per 100 for fixed-line and 128 per 100 for mobile-cellular '
                                                  'subscriptions',
@@ -6252,7 +6165,7 @@ P1_CNTR = \
                                  'region': 'Africa',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:GH',
                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/ghana/'},
-                        'nameset': ['ghana', 'republic of ghana', 'the republic of ghana'],
+                        'nameset': ['ghana', 'republic of ghana'],
                         'tel': { 'code': '233',
                                  'domestic': [ 'fixed-line data less than 1 per 100 subscriptions',
                                                'mobile-cellular subscriptions 123 per 100 persons',
@@ -6379,11 +6292,7 @@ P1_CNTR = \
                                   'region': 'Europe',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:GR',
                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/greece/'},
-                         'nameset': [ 'ellas or ellada',
-                                      'elliniki dimokratia',
-                                      'greece',
-                                      'hellenic republic',
-                                      'the hellenic republic'],
+                         'nameset': ['ellas or ellada', 'elliniki dimokratia', 'greece', 'hellenic republic'],
                          'tel': { 'code': '30',
                                   'domestic': [ '47 per 100 subscribers for fixed-line and 110 per 100 for '
                                                 'mobile-cellular',
@@ -6592,11 +6501,11 @@ P1_CNTR = \
                                 'region': 'Oceania',
                                 'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:GU',
                                 'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/guam/'},
-                       'nameset': ['guahan', 'guam', 'territory of guam', 'the territory of guam'],
+                       'nameset': ['guahan', 'guam'],
                        'tel': { 'code': '1671',
                                 'domestic': [ 'fixed-line subscriptions 41 per 100 and 62 per 100 mobile-cellular '
                                               'subscriptions in 2004',
-                                              2020],
+                                              2021],
                                 'general': [ 'Guam’s telecommunications companies provide important services that '
                                              'allow other businesses on island to operate',
                                              'Guam plays a larger, and growing role, in global telecommunications '
@@ -6608,6 +6517,17 @@ P1_CNTR = \
                                              'to the Asia-Pacific region, are some of the more than 400 cables that '
                                              'are the backbone of global telecommunications, providing nearly all of '
                                              'the world’s internet and phone service',
+                                             "as of January 2024, one of the world's most dominant companies will be "
+                                             'landing two new subsea cables on Guam',
+                                             'in May 2024 a global arm of a leading telecommunications and technology '
+                                             'company, announced its plans to develop a regional network hub in Guam '
+                                             'by establishing a new dedicated point-of-presence (PoP) in Piti at the '
+                                             'carrier-neutral GNC iX data center',
+                                             'this PoP will serve growing connectivity demand in the region and will '
+                                             'be a key connection point for new cable systems including the Echo cable '
+                                             'and central Pacific Connect cable that are being constructed to provide '
+                                             'additional low latency network reliability and redundancy throughout '
+                                             'Asia and between Asia, Australia, and the U.S.',
                                              2021],
                                 'intl': [ 'major landing points for Atisa, HANTRU1, HK-G, JGA-N, JGA-S, PIPE-1, '
                                           'SEA-US, SxS, Tata TGN-Pacific, AJC, GOKI, AAG, AJC and Mariana-Guam Cable '
@@ -6669,10 +6589,7 @@ P1_CNTR = \
                                      'region': 'Central America and the Caribbean',
                                      'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:GT',
                                      'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/guatemala/'},
-                            'nameset': [ 'guatemala',
-                                         'republic of guatemala',
-                                         'república de guatemala',
-                                         'the republic of guatemala'],
+                            'nameset': ['guatemala', 'republic of guatemala', 'república de guatemala'],
                             'tel': { 'code': '502',
                                      'domestic': [ 'fixed-line teledensity roughly 13 per 100 persons',
                                                    'fixed-line investments are concentrating on improving rural '
@@ -6721,7 +6638,7 @@ P1_CNTR = \
                                      'tld': '.gt',
                                      'url_tld': 'https://en.wikipedia.org/wiki/.gt'}},
                  'mcc': ['704'],
-                 'mccmnc': ['70401', '70402', '70403'],
+                 'mccmnc': ['70401', '70402', '70403', '70404', '70405'],
                  'msisdn': ['502'],
                  'msisdn_url': ['https://en.wikipedia.org/wiki/%2B502'],
                  'name': 'Guatemala',
@@ -6748,7 +6665,7 @@ P1_CNTR = \
                                     'region': 'Europe',
                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:GG',
                                     'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/guernsey/'},
-                           'nameset': ['bailiwick of guernsey', 'guernsey', 'the bailiwick of guernsey'],
+                           'nameset': ['bailiwick of guernsey', 'guernsey'],
                            'tel': { 'code': '44',
                                     'domestic': ['fixed-line 53 per 100 and mobile-cellular 112 per 100 persons', 2021],
                                     'general': [ 'fixed network broadband services are those delivered over physical '
@@ -6798,11 +6715,12 @@ P1_CNTR = \
                                   'region': 'Africa',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:GN',
                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/guinea/'},
-                         'nameset': [ 'guinea',
-                                      'guinee',
-                                      'republic of guinea',
-                                      'republique de guinee',
-                                      'the republic of guinea'],
+                         'nameset': [ 'guin&eacute;e',
+                                      'guinandeacute;e',
+                                      'guinea',
+                                      'r&eacute;publique de guin&eacute;e',
+                                      'randeacute;publique de guinandeacute;e',
+                                      'republic of guinea'],
                          'tel': { 'code': '224',
                                   'domestic': [ 'fixed-line teledensity is less than 1 per 100 persons',
                                                 'mobile-cellular subscribership is just over 105 per 100 persons',
@@ -6862,8 +6780,7 @@ P1_CNTR = \
                                 'nameset': [ 'guine-bissau',
                                              'guinea-bissau',
                                              'republic of guinea-bissau',
-                                             'republica da guine-bissau',
-                                             'the republic of guinea-bissau'],
+                                             'republica da guine-bissau'],
                                 'tel': { 'code': '245',
                                          'domestic': [ 'fixed-line teledensity less than 1 per 100 persons',
                                                        'mobile cellular teledensity is just over 109 per 100 persons',
@@ -6912,10 +6829,7 @@ P1_CNTR = \
                                   'region': 'South America',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:GY',
                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/guyana/'},
-                         'nameset': [ 'co-operative republic of guyana',
-                                      'cooperative republic of guyana',
-                                      'guyana',
-                                      'the co-operative republic of guyana'],
+                         'nameset': ['co-operative republic of guyana', 'cooperative republic of guyana', 'guyana'],
                          'tel': { 'code': '592',
                                   'domestic': [ 'fixed-line teledensity is about 16 per 100 persons',
                                                 'mobile-cellular teledensity about 110 per 100 persons',
@@ -6976,10 +6890,9 @@ P1_CNTR = \
                                      'haandiuml;ti',
                                      'haiti',
                                      "r&eacute;publique d'ha&iuml;ti",
-                                     "r&eacute;publique d'ha&iuml;ti (french)/ repiblik d ayiti (haitian creole)",
+                                     "r&eacute;publique d'ha&iuml;ti (french)/repiblik d ayiti (haitian creole)",
                                      "randeacute;publique d'haandiuml;ti",
-                                     'republic of haiti',
-                                     'the republic of haiti'],
+                                     'republic of haiti'],
                         'tel': { 'code': '509',
                                  'domestic': [ 'fixed-line is less than 1 per 100',
                                                'mobile-cellular teledensity is nearly 64 per 100 persons',
@@ -7029,8 +6942,7 @@ P1_CNTR = \
                                                              'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:HM',
                                                              'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/heard-island-and-mcdonald-islands/'},
                                                     'nameset': [ 'heard island and mcdonald islands',
-                                                                 'territory of heard island and mcdonald islands',
-                                                                 'the territory of heard island and mcdonald islands'],
+                                                                 'territory of heard island and mcdonald islands'],
                                                     'tel': { 'tld': '.hm',
                                                              'url_tld': 'https://en.wikipedia.org/wiki/.hm'}},
                                          'mcc': ['505'],
@@ -7068,10 +6980,7 @@ P1_CNTR = \
                                     'region': 'Central America and the Caribbean',
                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:HN',
                                     'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/honduras/'},
-                           'nameset': [ 'honduras',
-                                        'republic of honduras',
-                                        'república de honduras',
-                                        'the republic of honduras'],
+                           'nameset': ['honduras', 'republic of honduras', 'república de honduras'],
                            'tel': { 'general': [ '<p style="background: white',
                                                  'margin: 0in 0in 6.4pt 0in',
                                                  '"> country code - 504',
@@ -7118,8 +7027,7 @@ P1_CNTR = \
                                          'heung kong takpit hangching ku (eitel/dyer-ball)',
                                          'hong kong',
                                          'hong kong special administrative region',
-                                         'hong kong special administrative region of china',
-                                         'the hong kong special administrative region of china'],
+                                         'hong kong special administrative region of china'],
                             'tel': { 'code': '852',
                                      'domestic': [ 'fixed-line is over 51 per 100 and mobile-cellular is 319 '
                                                    'subscriptions per 100',
@@ -7212,30 +7120,25 @@ P1_CNTR = \
                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/hungary/'},
                           'nameset': ['hungary', 'magyarorszag'],
                           'tel': { 'code': '36',
-                                   'domestic': [ 'fixed-line connections, with 30 fixed per 100 persons and 106 '
+                                   'domestic': [ 'fixed-line connections, with 29 fixed per 100 persons and 104 '
                                                  'mobile-cellular subscriptions per 100',
-                                                 2021],
-                                   'general': [ 'Hungary benefits from having a developed telecom infrastructure, with '
-                                                'a focus among operators to develop the 5G sector and upgrade fixed '
-                                                'networks to provide a 1Gb/s service',
-                                                'services based on 5G have been supported by the January 2021 '
-                                                'multi-spectrum auction for spectrum in the 900MHz and 1800MHz bands',
-                                                'the number of fixed-lines continues to fall as subscribers migrate to '
+                                                 2022],
+                                   'general': [ 'Hungary’s telecom infrastructure has been upgraded in recent years '
+                                                'following considerable investments made by telcos as they upgrade '
+                                                'their mobile networks to 5G and deploy more fiber',
+                                                'these developments have helped operators to promote converged fixed '
+                                                'and mobile service',
+                                                'the number of fixed lines continue to fall as subscribers migrate to '
                                                 'the mobile platform for voice and data services',
-                                                'operators have looked to bundled packages to boost revenue and retain '
-                                                'subscribers',
-                                                'the broadband market has effective infrastructure-based competition, '
-                                                'with an extensive cable network competing against DSL services and a '
-                                                'vibrant and rapidly expanding fiber sector',
-                                                'the regulator has also introduced a number of measures aimed at '
-                                                'promoting market competition, which is pushing the drive for higher '
-                                                'speed platforms and encouraging operators to invest in technology '
-                                                'upgrades',
-                                                'as a result, Hungary now has the highest fixed broadband penetration '
-                                                'rate in Eastern Europe',
-                                                'the number of super fast broadband connections (above 30Mb/s) '
-                                                'accounted for 78% of all fixed broadband connections',
-                                                2022],
+                                                'a number of measures aimed at promoting competition in the broadband '
+                                                'market encourage investment in technology upgrades',
+                                                'Hungary has the highest fixed broadband penetration rate in Eastern '
+                                                'Europe',
+                                                'there remains considerable growth in mobile broadband services '
+                                                'delivered via upgraded networks',
+                                                '5G development is supported by the government, universities, other '
+                                                'telcos, and vendors',
+                                                2024],
                                    'intl': [ 'Hungary has fiber-optic cable connections with all neighboring countries',
                                              'the international switch is in Budapest',
                                              'satellite earth stations - 2 Intelsat (Atlantic Ocean and Indian Ocean '
@@ -7249,7 +7152,7 @@ P1_CNTR = \
                                    'tld': '.hu',
                                    'url_tld': 'https://en.wikipedia.org/wiki/.hu'}},
                'mcc': ['216'],
-               'mccmnc': ['21601', '21602', '21603', '21604', '21620', '21630', '21670', '21671', '21699'],
+               'mccmnc': ['21601', '21602', '21603', '21604', '21620', '21625', '21630', '21670', '21671', '21699'],
                'msisdn': ['36'],
                'msisdn_url': ['https://en.wikipedia.org/wiki/%2B36'],
                'name': 'Hungary',
@@ -7366,8 +7269,7 @@ P1_CNTR = \
                                      'india (english)/ bharat (hindi)',
                                      'india (english)/ bharatiya ganarajya (hindi)',
                                      'republic of india',
-                                     'republic of india (english)/ bharatiya ganarajya (hindi)',
-                                     'the republic of india'],
+                                     'republic of india (english)/ bharatiya ganarajya (hindi)'],
                         'tel': { 'code': '91',
                                  'domestic': [ 'fixed-line subscriptions 2 per 100 and mobile-cellular at nearly 82 '
                                                'per 100',
@@ -7776,10 +7678,7 @@ P1_CNTR = \
                                      'region': 'Southeast Asia',
                                      'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:ID',
                                      'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/indonesia/'},
-                            'nameset': [ 'indonesia',
-                                         'republic of indonesia',
-                                         'republik indonesia',
-                                         'the republic of indonesia'],
+                            'nameset': ['indonesia', 'republic of indonesia', 'republik indonesia'],
                             'tel': { 'code': '62',
                                      'domestic': [ 'fixed-line subscribership roughly 3 per 100 and mobile-cellular '
                                                    '134 per 100 persons',
@@ -7874,10 +7773,7 @@ P1_CNTR = \
                                 'region': 'Middle East',
                                 'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:IR',
                                 'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/iran/'},
-                       'nameset': [ 'iran',
-                                    'islamic republic of iran',
-                                    'jomhuri-ye eslami-ye iran',
-                                    'the islamic republic of iran'],
+                       'nameset': ['iran', 'islamic republic of iran', 'jomhuri-ye eslami-ye iran'],
                        'tel': { 'code': '98',
                                 'domestic': [ 'approximately 33 per 100 for fixed-line and 155 per 100 for '
                                               'mobile-cellular subscriptions',
@@ -7979,11 +7875,7 @@ P1_CNTR = \
                                 'region': 'Middle East',
                                 'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:IQ',
                                 'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/iraq/'},
-                       'nameset': [ 'al iraq/eraq',
-                                    'iraq',
-                                    'jumhuriyat al-iraq/komar-i eraq',
-                                    'republic of iraq',
-                                    'the republic of iraq'],
+                       'nameset': ['al iraq/eraq', 'iraq', 'jumhuriyat al-iraq/komar-i eraq', 'republic of iraq'],
                        'tel': { 'code': '964',
                                 'domestic': [ 'about 7 per 100 for fixed-line and 86 per 100 for mobile-cellular '
                                               'subscriptions',
@@ -8023,6 +7915,7 @@ P1_CNTR = \
                         '41848',
                         '41849',
                         '41862',
+                        '41866',
                         '41870',
                         '41880',
                         '41881',
@@ -8062,7 +7955,7 @@ P1_CNTR = \
                                        'region': 'Europe',
                                        'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:IM',
                                        'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/isle-of-man/'},
-                              'nameset': ['isle of man', 'the isle of man'],
+                              'nameset': ['isle of man'],
                               'tel': { 'code': '44',
                                        'domestic': ['landline, telefax, mobile cellular telephone system', 0],
                                        'general': [ 'the Isle of Man has an extensive communications infrastructure '
@@ -8119,11 +8012,7 @@ P1_CNTR = \
                                   'region': 'Middle East',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:IL',
                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/israel/'},
-                         'nameset': [ 'israel',
-                                      "medinat yisra'el",
-                                      'state of israel',
-                                      'the state of israel',
-                                      "yisra'el"],
+                         'nameset': ['israel', "medinat yisra'el", 'state of israel', "yisra'el"],
                          'tel': { 'code': '972',
                                   'domestic': [ 'fixed-line nearly 39 per 100 and nearly 140 per 100 for '
                                                 'mobile-cellular subscriptions',
@@ -8222,11 +8111,7 @@ P1_CNTR = \
                                  'region': 'Europe',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:IT',
                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/italy/'},
-                        'nameset': [ 'italia',
-                                     'italian republic',
-                                     'italy',
-                                     'repubblica italiana',
-                                     'the italian republic'],
+                        'nameset': ['italia', 'italian republic', 'italy', 'repubblica italiana'],
                         'tel': { 'code': '39',
                                  'domestic': [ '34 per 100 for fixed-line and nearly 132 per 100 for mobile-cellular '
                                                'subscriptions',
@@ -8332,10 +8217,9 @@ P1_CNTR = \
                               'nameset': [ "cote d'ivoire",
                                            "côte d'ivoire",
                                            'ivory coast',
-                                           "republic of cote d'ivoire",
-                                           "republic of côte d'ivoire",
-                                           "republique de cote d'ivoire",
-                                           "the republic of côte d'ivoire"],
+                                           "r&eacute;publique de côte d'ivoire",
+                                           "randeacute;publique de côte d'ivoire",
+                                           "republic of côte d'ivoire"],
                               'tel': { 'code': '225',
                                        'domestic': [ '1 per 100 fixed-line teledensity',
                                                      'mobile subscriptions are 162 per 100 persons',
@@ -8619,6 +8503,8 @@ P1_CNTR = \
                          '441212',
                          '441213',
                          '441214',
+                         '441215',
+                         '441216',
                          '44140',
                          '44141',
                          '44142',
@@ -8664,7 +8550,7 @@ P1_CNTR = \
                                   'region': 'Europe',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:JE',
                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/jersey/'},
-                         'nameset': ['bailiwick of jersey', 'jersey', 'the bailiwick of jersey'],
+                         'nameset': ['bailiwick of jersey', 'jersey'],
                          'tel': { 'code': '44',
                                   'domestic': [ 'fixed-line 47 per 100 and mobile-cellular 120 per 100 subscriptions',
                                                 2021],
@@ -8723,8 +8609,7 @@ P1_CNTR = \
                          'nameset': [ 'al mamlakah al urduniyah al hashimiyah',
                                       'al urdun',
                                       'hashemite kingdom of jordan',
-                                      'jordan',
-                                      'the hashemite kingdom of jordan'],
+                                      'jordan'],
                          'tel': { 'code': '962',
                                   'domestic': [ 'fixed-line stands at nearly 4 per 100 persons and mobile cellular '
                                                 'subscriptions at 65 per 100 persons',
@@ -8781,30 +8666,33 @@ P1_CNTR = \
                                       'region': 'Asia',
                                       'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:KZ',
                                       'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/kazakhstan/'},
-                             'nameset': [ 'kazakhstan',
-                                          'qazaqstan',
-                                          'qazaqstan respublikasy',
-                                          'republic of kazakhstan',
-                                          'the republic of kazakhstan'],
+                             'nameset': ['kazakhstan', 'qazaqstan', 'qazaqstan respublikasy', 'republic of kazakhstan'],
                              'tel': { 'code': '7',
-                                      'domestic': [ 'fixed telephone subscriptions are 16 per 100 persons',
-                                                    'mobile-cellular subscriber base 127 per 100 persons',
-                                                    2021],
+                                      'domestic': [ 'fixed telephone subscriptions are 15 per 100 persons',
+                                                    'mobile-cellular subscriber base 130 per 100 persons',
+                                                    2022],
                                       'general': [ 'Kazakhstan has one of the most developed telecommunications '
-                                                   'sectors in the Central Asian region',
-                                                   'this is especially true of the mobile segment',
-                                                   'the principal telcos have successfully generated revenue growth on '
-                                                   'the back of value-added services and the extended each of LTE and '
-                                                   'fiber networks',
-                                                   'this has resulted in strong growth in mobile fixed line traffic',
-                                                   'the mobile segment dominates the telecom sector in Kazakhstan '
-                                                   'overall, there was a drop in the number of subscribers in 2020',
-                                                   'these effects also limited growth in 2021, though the easing of '
-                                                   'restrictions in 2022 resulted in a stronger recovery',
-                                                   'the extensive deployment of LTE networks across the country, and '
-                                                   'the launch of limited 5G services in mid-2023 will provide a '
-                                                   'steady increase mobile broadband services',
-                                                   2021],
+                                                   'sectors in the region',
+                                                   'this is especially true of the mobile segment, where the country '
+                                                   'has the second fastest average mobile data rates in Central Asia '
+                                                   'after Azerbaijan',
+                                                   'the competing Mobile Network Operators (MNOs) have built extensive '
+                                                   'Long Term Evolution (LTE) networks: about 76% of mobile '
+                                                   'subscribers were on LTE as of March 2024, while the company’s LTE '
+                                                   'network provided 89% geographic coverage',
+                                                   'this widespread network coverage, as well as the development of 5G '
+                                                   'networks, has been encouraged by the government with the second '
+                                                   'stage of its Digital Kazakhstan program, by which most settlements '
+                                                   'across the country will be furnished with mobile internet '
+                                                   'connectivity',
+                                                   'the remaining rural villages will be covered by satellite services',
+                                                   'at the turn of the century, Kazakhstan had a relatively high '
+                                                   'fixed-line tele density thanks to efforts to invest in the '
+                                                   'fixed-line infrastructure and in next-generation networks',
+                                                   'the gobal demand for traditional voice services are decreasing as '
+                                                   'customers are increasingly attracted to the flexibility of the '
+                                                   'mobile platform for voice as well as data services',
+                                                   2024],
                                       'intl': [ 'international traffic with other former Soviet republics and China '
                                                 'carried by landline and microwave radio relay and with other '
                                                 'countries by satellite and by the TAE fiber-optic cable',
@@ -8817,7 +8705,7 @@ P1_CNTR = \
                                       'tld': '.kz',
                                       'url_tld': 'https://en.wikipedia.org/wiki/.kz'}},
                   'mcc': ['401'],
-                  'mccmnc': ['40101', '40102', '40107', '40108', '40177'],
+                  'mccmnc': ['40101', '40102', '40107', '40108', '40110', '40177'],
                   'msisdn': ['7', '76', '77'],
                   'msisdn_url': [ 'https://en.wikipedia.org/wiki/%2B7',
                                   'https://en.wikipedia.org/wiki/Telephone_numbers_in_Kazakhstan'],
@@ -8851,8 +8739,7 @@ P1_CNTR = \
                         'nameset': [ 'kenya',
                                      'kenya (english)/ jamhuri ya kenya (swahili)',
                                      'republic of kenya',
-                                     'republic of kenya (english)/ jamhuri ya kenya (swahili)',
-                                     'the republic of kenya'],
+                                     'republic of kenya (english)/ jamhuri ya kenya (swahili)'],
                         'tel': { 'code': '254',
                                  'domestic': [ 'fixed-line subscriptions stand at less than 1 per 100 persons',
                                                'mobile-cellular subscriptions at 123 per 100 persons',
@@ -8925,7 +8812,7 @@ P1_CNTR = \
                                     'region': 'Oceania',
                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:KI',
                                     'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/kiribati/'},
-                           'nameset': ['kiribati', 'republic of kiribati', 'the republic of kiribati'],
+                           'nameset': ['kiribati', 'republic of kiribati'],
                            'tel': { 'code': '686',
                                     'domestic': [ 'fixed-line less than 1 per 100 and mobile-cellular approximately 42 '
                                                   'per 100 subscriptions',
@@ -9027,11 +8914,7 @@ P1_CNTR = \
                                   'region': 'Middle East',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:KW',
                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/kuwait/'},
-                         'nameset': [ 'al kuwayt',
-                                      'dawlat al kuwayt',
-                                      'kuwait',
-                                      'state of kuwait',
-                                      'the state of kuwait'],
+                         'nameset': ['al kuwayt', 'dawlat al kuwayt', 'kuwait', 'state of kuwait'],
                          'tel': { 'code': '965',
                                   'domestic': [ 'fixed-line subscriptions are nearly 13 per 100 and mobile-cellular '
                                                 'stands at nearly 163 per 100 subscriptions',
@@ -9089,11 +8972,11 @@ P1_CNTR = \
                                       'region': 'Asia',
                                       'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:KG',
                                       'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/kyrgyzstan/'},
-                             'nameset': ['kyrgyz republic', 'kyrgyz respublikasy', 'kyrgyzstan', 'the kyrgyz republic'],
+                             'nameset': ['kyrgyz republic', 'kyrgyz respublikasy', 'kyrgyzstan'],
                              'tel': { 'code': '996',
                                       'domestic': [ 'fixed-line subscriptions 5 per 100',
                                                     'mobile-cellular subscribership up to over 130 per 100 persons',
-                                                    2021],
+                                                    2022],
                                       'general': [ 'the country’s telecom sector (specifically the mobile segment) has '
                                                    'been able to prosper',
                                                    'Kyrgyzstan has opened up its telecom market to competition',
@@ -9105,9 +8988,9 @@ P1_CNTR = \
                                                    'COVID-19 crisis',
                                                    'slow-to-moderate growth is expected for both segments in coming '
                                                    'years, supported by the anticipated rollout of 5G services which '
-                                                   'began testing in 2022 with a pilot service to follow some time in '
-                                                   '2023',
-                                                   2022],
+                                                   'began testing in 2022 with a pilot service in 2023 which has been '
+                                                   'delayed into 2024',
+                                                   2024],
                                       'intl': [ 'connections with other CIS (Commonwealth of Independent States, 9 '
                                                 'members post-Soviet Republics in EU) countries by landline or '
                                                 'microwave radio relay and with other countries by leased connections '
@@ -9149,8 +9032,7 @@ P1_CNTR = \
                                     'laos',
                                     'mueang lao',
                                     'mueang lao (unofficial)',
-                                    'sathalanalat paxathipatai paxaxon lao',
-                                    "the lao people's democratic republic"],
+                                    'sathalanalat paxathipatai paxaxon lao'],
                        'tel': { 'code': '856',
                                 'domestic': [ 'fixed-line nearly 18 per 100 and 65 per 100 for mobile-cellular '
                                               'subscriptions',
@@ -9215,22 +9097,31 @@ P1_CNTR = \
                                   'region': 'Europe',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:LV',
                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/latvia/'},
-                         'nameset': [ 'latvia',
-                                      'latvija',
-                                      'latvijas republika',
-                                      'republic of latvia',
-                                      'the republic of latvia'],
+                         'nameset': ['latvia', 'latvija', 'latvijas republika', 'republic of latvia'],
                          'tel': { 'code': '371',
-                                  'domestic': [ 'fixed-line roughly 10 per 100 and mobile-cellular nearly 115 per 100 '
+                                  'domestic': [ 'fixed-line 9 per 100 and mobile-cellular nearly 117 per 100 '
                                                 'subscriptions',
-                                                2021],
+                                                2022],
                                   'general': [ 'the telecom market continues to benefit from investment and from '
                                                'regulatory measures aimed at developing 5G and fiber-based '
                                                'infrastructure',
-                                               'there is effective competition in the mobile market',
+                                               'the mobile market is dominated by three operators and there is '
+                                               'effective competition between them, with the smallest among them '
+                                               'having almost a quarter of the market by subscribers',
                                                'these multi-service operators have focused investment on fiber '
                                                'networks and on expanding the reach of 5G',
-                                               2023],
+                                               'mobile network capacity has been improved since 2022 following the '
+                                               'auction of spectrum in the 700MHz and 1.5GHz bands',
+                                               'operators have entered into agreements with neighboring Estonia and '
+                                               'Lithuania to coordinate the use of spectrum for 5G in border areas, '
+                                               'improving coverage to end-users without interference',
+                                               'in the fixed-line broadband sector, the country is ranked among the '
+                                               'highest in Europe for fiber coverage',
+                                               'it has the second highest rural FttP coverage after Denmark',
+                                               'with this infrastructure in place, the country has also developed a '
+                                               'sophisticated digital economy, with e-commerce and e-government '
+                                               'services widely available',
+                                               2024],
                                   'intl': [ 'the Latvian network is now connected via fiber-optic cable to Estonia, '
                                             'Finland, and Sweden',
                                             0],
@@ -9266,11 +9157,7 @@ P1_CNTR = \
                                    'region': 'Middle East',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:LB',
                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/lebanon/'},
-                          'nameset': [ 'al jumhuriyah al lubnaniyah',
-                                       'lebanese republic',
-                                       'lebanon',
-                                       'lubnan',
-                                       'the lebanese republic'],
+                          'nameset': ['al jumhuriyah al lubnaniyah', 'lebanese republic', 'lebanon', 'lubnan'],
                           'tel': { 'code': '961',
                                    'domestic': [ 'fixed-line is 16 per 100 and 77 per 100 for mobile-cellular '
                                                  'subscriptions',
@@ -9330,7 +9217,7 @@ P1_CNTR = \
                                    'region': 'Africa',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:LS',
                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/lesotho/'},
-                          'nameset': ['kingdom of lesotho', 'lesotho', 'the kingdom of lesotho'],
+                          'nameset': ['kingdom of lesotho', 'lesotho'],
                           'tel': { 'code': '266',
                                    'domestic': [ 'fixed-line is less than 1 per 100 subscriptions',
                                                  'mobile-cellular service subscribership is 80 per 100 persons',
@@ -9393,7 +9280,7 @@ P1_CNTR = \
                                    'region': 'Africa',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:LR',
                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/liberia/'},
-                          'nameset': ['liberia', 'republic of liberia', 'the republic of liberia'],
+                          'nameset': ['liberia', 'republic of liberia'],
                           'tel': { 'code': '231',
                                    'domestic': [ 'fixed-line less than 1 per 100',
                                                  'mobile-cellular subscriptions are 32 per 100 persons',
@@ -9462,7 +9349,7 @@ P1_CNTR = \
                                  'region': 'Africa',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:LY',
                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/libya/'},
-                        'nameset': ['dawlat libiya', 'libiya', 'libya', 'state of libya', 'the state of libya'],
+                        'nameset': ['dawlat libiya', 'libiya', 'libya', 'state of libya'],
                         'tel': { 'code': '218',
                                  'domestic': [ 'nearly 23 per 100 fixed-line and over 43 per 100 mobile-cellular '
                                                'subscriptions',
@@ -9512,8 +9399,7 @@ P1_CNTR = \
                                          'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/liechtenstein/'},
                                 'nameset': [ 'fuerstentum liechtenstein',
                                              'liechtenstein',
-                                             'principality of liechtenstein',
-                                             'the principality of liechtenstein'],
+                                             'principality of liechtenstein'],
                                 'tel': { 'code': '423',
                                          'domestic': [ 'fixed-line roughly 30 per 100 and mobile-cellular services 126 '
                                                        'per 100',
@@ -9567,32 +9453,22 @@ P1_CNTR = \
                                      'region': 'Europe',
                                      'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:LT',
                                      'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/lithuania/'},
-                            'nameset': [ 'lietuva',
-                                         'lietuvos respublika',
-                                         'lithuania',
-                                         'republic of lithuania',
-                                         'the republic of lithuania'],
+                            'nameset': ['lietuva', 'lietuvos respublika', 'lithuania', 'republic of lithuania'],
                             'tel': { 'code': '370',
-                                     'domestic': [ 'nearly 10 per 100 for fixed-line subscriptions',
-                                                   'mobile-cellular subscriptions at 134 per 100 persons',
-                                                   2021],
+                                     'domestic': [ 'nearly 9 per 100 for fixed-line subscriptions',
+                                                   'mobile-cellular subscriptions at 139 per 100 persons',
+                                                   2022],
                                      'general': [ 'Lithuania’s small telecoms market is among the more advanced in '
-                                                  'Europe, particularly given the universal access to LTE '
-                                                  'infrastructure and the extensive fiber footprint',
-                                                  'investment has been focused on fiber broadband and mobile network '
-                                                  'upgrades',
-                                                  'SIM card penetration is relatively high for the region, with a '
-                                                  'growing proportion of subscribers being on higher-Average Revenue '
-                                                  'Per User (ARPU) contract plans',
-                                                  'while LTE services are available nationally, operators have made '
-                                                  'steady investments in 5G',
-                                                  'the regulator has helped the network operators to develop 5G by '
-                                                  'allowing them to repurpose spectrum in the 2.1GHz and 2.4GHz bands',
-                                                  'the regulator in mid-2022 completed auctions of spectrum in the '
-                                                  '700MHz and 3.4GHz bands',
-                                                  'service obligations on the licensees include the provision of '
-                                                  'services to the five main cities by the end of 2023',
-                                                  2023],
+                                                  'Europe, particularly given the universal access to long-term '
+                                                  'evolution (LTE) infrastructure and the extensive fiber footprint',
+                                                  'Operator investment has been focused on fiber broadband and mobile '
+                                                  'network upgrades',
+                                                  'Fiber is now by far the dominant fixed broadband platform, with the '
+                                                  'number of Digital Subscriber Line (DSL) and cable connections in '
+                                                  'steady decline',
+                                                  'LTE services are available nationally, operators have made steady '
+                                                  'investments in 5G',
+                                                  2024],
                                      'intl': [ 'landing points for the BCS East, BCS East-West Interlink and NordBalt '
                                                'connecting Lithuania to Sweden, and Latvia',
                                                'further transmission by satellite',
@@ -9638,10 +9514,10 @@ P1_CNTR = \
                                       'region': 'Europe',
                                       'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:LU',
                                       'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/luxembourg/'},
-                             'nameset': [ 'grand duche de luxembourg',
+                             'nameset': [ 'grand duch&eacute; de luxembourg',
+                                          'grand duchandeacute; de luxembourg',
                                           'grand duchy of luxembourg',
-                                          'luxembourg',
-                                          'the grand duchy of luxembourg'],
+                                          'luxembourg'],
                              'tel': { 'code': '352',
                                       'domestic': [ 'fixed-line teledensity about 42 per 100 persons',
                                                     '140 per 100 mobile-cellular subscriptions',
@@ -9701,8 +9577,7 @@ P1_CNTR = \
                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/macau/'},
                         'nameset': [ 'macao special administrative region of china',
                                      'macau',
-                                     'macau special administrative region',
-                                     'the macao special administrative region of china'],
+                                     'macau special administrative region'],
                         'tel': { 'code': '853',
                                  'domestic': [ 'fixed-line nearly 16 per 100 and mobile-cellular roughly 410 per 100 '
                                                'persons',
@@ -9787,9 +9662,9 @@ P1_CNTR = \
                                       'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/madagascar/'},
                              'nameset': [ 'madagascar',
                                           'madagascar/madagasikara',
-                                          'republic of madagascar',
-                                          "republique de madagascar/repoblikan'i madagasikara",
-                                          'the republic of madagascar'],
+                                          "r&eacute;publique de madagascar/repoblikan'i madagasikara",
+                                          "randeacute;publique de madagascar/repoblikan'i madagasikara",
+                                          'republic of madagascar'],
                              'tel': { 'code': '261',
                                       'domestic': [ 'less than 1 per 100 for fixed-line and mobile-cellular '
                                                     'teledensity about 56 per 100 persons',
@@ -9849,7 +9724,7 @@ P1_CNTR = \
                                   'region': 'Africa',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:MW',
                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/malawi/'},
-                         'nameset': ['dziko la malawi', 'malawi', 'republic of malawi', 'the republic of malawi'],
+                         'nameset': ['dziko la malawi', 'malawi', 'republic of malawi'],
                          'tel': { 'code': '265',
                                   'domestic': [ 'limited fixed-line subscribership less than 1 per 100 households',
                                                 'mobile-cellular subscribership roughly 60 per 100 households',
@@ -10015,8 +9890,7 @@ P1_CNTR = \
                            'nameset': [ 'dhivehi raajje',
                                         'dhivehi raajjeyge jumhooriyyaa',
                                         'maldives',
-                                        'republic of maldives',
-                                        'the republic of maldives'],
+                                        'republic of maldives'],
                            'tel': { 'code': '960',
                                     'domestic': [ 'fixed-line is at nearly 3 per 100 persons and mobile-cellular '
                                                   'subscriptions stands at nearly 135 per 100 persons',
@@ -10079,7 +9953,10 @@ P1_CNTR = \
                                 'region': 'Africa',
                                 'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:ML',
                                 'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/mali/'},
-                       'nameset': ['mali', 'republic of mali', 'republique de mali', 'the republic of mali'],
+                       'nameset': [ 'mali',
+                                    'r&eacute;publique de mali',
+                                    'randeacute;publique de mali',
+                                    'republic of mali'],
                        'tel': { 'code': '223',
                                 'domestic': [ 'fixed-line subscribership is 1 per 100 persons',
                                               'mobile-cellular subscribership has increased sharply to 100 per 100 '
@@ -10131,7 +10008,7 @@ P1_CNTR = \
                                  'region': 'Europe',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:MT',
                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/malta/'},
-                        'nameset': ['malta', "repubblika ta' malta", 'republic of malta', 'the republic of malta'],
+                        'nameset': ['malta', "repubblika ta' malta", 'republic of malta'],
                         'tel': { 'code': '356',
                                  'domestic': [ 'fixed-line approximately 49 per 100 persons and mobile-cellular '
                                                'subscribership 122 per 100 persons',
@@ -10197,8 +10074,7 @@ P1_CNTR = \
                                             'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/marshall-islands/'},
                                    'nameset': [ 'marshall islands',
                                                 'republic of the marshall islands',
-                                                'the marshall islands',
-                                                'the republic of the marshall islands'],
+                                                'the marshall islands'],
                                    'tel': { 'code': '692',
                                             'domestic': [ 'fixed-line roughly 5 per 100 persons and mobile-cellular is '
                                                           'nearly 38 per 100 persons',
@@ -10271,8 +10147,7 @@ P1_CNTR = \
                              'nameset': [ 'al jumhuriyah al islamiyah al muritaniyah',
                                           'islamic republic of mauritania',
                                           'mauritania',
-                                          'muritaniyah',
-                                          'the islamic republic of mauritania'],
+                                          'muritaniyah'],
                              'tel': { 'code': '222',
                                       'domestic': [ 'fixed-line teledensity 1 per 100 persons',
                                                     'mobile-cellular teledensity of roughly 141 per 100 persons',
@@ -10343,7 +10218,7 @@ P1_CNTR = \
                                      'region': 'Africa',
                                      'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:MU',
                                      'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/mauritius/'},
-                            'nameset': ['mauritius', 'republic of mauritius', 'the republic of mauritius'],
+                            'nameset': ['mauritius', 'republic of mauritius'],
                             'tel': { 'code': '230',
                                      'domestic': [ 'fixed-line teledensity over 36 per 100 persons and mobile-cellular '
                                                    'services teledensity 152 per 100 persons',
@@ -10388,7 +10263,7 @@ P1_CNTR = \
                'dep': 'FR',
                'infos': { 'codes': {'cc3': 'MYT', 'ccn': '175', 'genc': 'MYT', 'stan': 'FRA'},
                           'geo': {'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:YT'},
-                          'nameset': ['department of mayotte', 'mayotte', 'the department of mayotte'],
+                          'nameset': ['department of mayotte', 'mayotte'],
                           'tel': {'tld': '.yt', 'url_tld': 'https://en.wikipedia.org/wiki/.yt'}},
                'mcc': ['647'],
                'mccmnc': ['64700', '64701', '64702', '64703', '64704', '64710'],
@@ -10421,10 +10296,7 @@ P1_CNTR = \
                                   'region': 'North America',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:MX',
                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/mexico/'},
-                         'nameset': [ 'estados unidos mexicanos',
-                                      'mexico',
-                                      'the united mexican states',
-                                      'united mexican states'],
+                         'nameset': ['estados unidos mexicanos', 'mexico', 'united mexican states'],
                          'tel': { 'code': '52',
                                   'domestic': [ 'fixed-line teledensity 19 lines per every 100',
                                                 'mobile-cellular teledensity is 98 per 100 persons',
@@ -10516,18 +10388,14 @@ P1_CNTR = \
                                    'region': 'Europe',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:MD',
                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/moldova/'},
-                          'nameset': ['moldova', 'republic of moldova', 'republica moldova', 'the republic of moldova'],
+                          'nameset': ['moldova', 'republic of moldova', 'republica moldova'],
                           'tel': { 'code': '373',
-                                   'domestic': [ 'fixed-line service is 33 per 100',
-                                                 'mobile-cellular teledensity is 127 per 100 persons',
-                                                 2021],
+                                   'domestic': [ 'fixed-line service is 29 per 100',
+                                                 'mobile cellular tele density is 127 per 100 persons',
+                                                 2022],
                                    'general': [ 'the telecom market has been affected by a combination of high '
                                                 'unemployment and economic difficulties which have led to constraints '
                                                 'on consumer spending',
-                                                'this has resulted in telecom revenue having fallen steadily in recent '
-                                                'years',
-                                                'this decline continued into 2020, with a 6.3% in revenue from the '
-                                                'important mobile sector alone, year-on-year',
                                                 'Moldova’s aspirations to join the EU have encouraged the government '
                                                 'and regulator to adopt a range of measures to bring the country’s '
                                                 'telecoms sector into line with EU principles and standards',
@@ -10536,22 +10404,25 @@ P1_CNTR = \
                                                 'amendments were adopted in December 2017 and additional changes were '
                                                 'proposed in 2019',
                                                 'Moldova is also part of the Eastern Partnership group of countries, '
-                                                'and as such has set in train a glide path to reducing roaming '
-                                                'charges, effective between 2022 and 2026',
+                                                'and as such has set in train a glidepath to reducing roaming charges, '
+                                                'effective between 2022 and 2026',
                                                 'the country’s broadband strategy through to 2025 has been supported '
-                                                'by the ITU and industry counterparts from South Korea',
-                                                'the internet market is developing rapidly',
-                                                'the market is highly competitive, with 101 active ISPs as of early '
-                                                '2021',
+                                                'by the ITU and industry counterparts from Korea',
+                                                'the internet market is developing rapidly, and though the penetration '
+                                                'rate is well below the average for most European countries there are '
+                                                'many opportunities for further development',
                                                 'the number of cable broadband subscribers is increasing steadily, '
                                                 'though fiber is now by far the strongest sector',
                                                 'by the end of 2020 fiber accounted for about 72.3% of all fixed '
                                                 'broadband connections',
-                                                'the mobile market has also grown rapidly',
+                                                'the mobile market has also grown rapidly, and the sector accounts for '
+                                                'the majority of total telecoms revenue',
+                                                'the launch of LTE services has opened up a new revenue growth '
+                                                'opportunity centered on mobile broadband',
                                                 'the near comprehensive geographical reach of their mobile networks, '
                                                 'market brand recognition and existing customer relationships will '
                                                 'make for steady subscriber growth in coming years',
-                                                2022],
+                                                2024],
                                    'intl': [ 'service through Romania and Russia via landline',
                                              'satellite earth stations - at least 3 - Intelsat, Eutelsat, and '
                                              'Intersputnik',
@@ -10589,8 +10460,8 @@ P1_CNTR = \
                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/monaco/'},
                          'nameset': [ 'monaco',
                                       'principality of monaco',
-                                      'principaute de monaco',
-                                      'the principality of monaco'],
+                                      'principaut&eacute; de monaco',
+                                      'principautandeacute; de monaco'],
                          'tel': { 'code': '377',
                                   'domestic': [ 'fixed-line a little over 117 per 100 and mobile-cellular teledensity '
                                                 'is 99 per 100 persons',
@@ -10666,7 +10537,7 @@ P1_CNTR = \
                                     'tld': '.mn',
                                     'url_tld': 'https://en.wikipedia.org/wiki/.mn'}},
                 'mcc': ['428'],
-                'mccmnc': ['42800', '42888', '42891', '42898', '42899'],
+                'mccmnc': ['42800', '42833', '42888', '42891', '42898', '42899'],
                 'msisdn': ['976'],
                 'msisdn_url': ['https://en.wikipedia.org/wiki/%2B976'],
                 'name': 'Mongolia',
@@ -10812,11 +10683,7 @@ P1_CNTR = \
                                    'region': 'Africa',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:MA',
                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/morocco/'},
-                          'nameset': [ 'al maghrib',
-                                       'al mamlakah al maghribiyah',
-                                       'kingdom of morocco',
-                                       'morocco',
-                                       'the kingdom of morocco'],
+                          'nameset': ['al maghrib', 'al mamlakah al maghribiyah', 'kingdom of morocco', 'morocco'],
                           'tel': { 'code': '212',
                                    'domestic': [ 'fixed-line teledensity is 7 per 100 persons and mobile-cellular '
                                                  'subscribership is 139 per 100 persons',
@@ -10885,8 +10752,7 @@ P1_CNTR = \
                              'nameset': [ 'mocambique',
                                           'mozambique',
                                           'republic of mozambique',
-                                          'republica de mocambique',
-                                          'the republic of mozambique'],
+                                          'republica de mocambique'],
                              'tel': { 'code': '258',
                                       'domestic': [ 'fixed-line less than 1 per 100 and nearly 43 per 100 '
                                                     'mobile-cellular teledensity',
@@ -10974,7 +10840,6 @@ P1_CNTR = \
                                        'pyidaungzu thammada myanma naingngandaw (translated as the republic of the '
                                        'union of myanmar)',
                                        'republic of the union of myanmar',
-                                       'the republic of the union of myanmar',
                                        'the union of myanmar',
                                        'union of burma'],
                           'tel': { 'code': '95',
@@ -11059,7 +10924,7 @@ P1_CNTR = \
                                    'region': 'Africa',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:NA',
                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/namibia/'},
-                          'nameset': ['namibia', 'republic of namibia', 'the republic of namibia'],
+                          'nameset': ['namibia', 'republic of namibia'],
                           'tel': { 'code': '264',
                                    'domestic': [ 'fixed-line subscribership is 4 per 100 and mobile-cellular roughly '
                                                  '113 per 100 persons',
@@ -11121,7 +10986,7 @@ P1_CNTR = \
                                  'region': 'Oceania',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:NR',
                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/nauru/'},
-                        'nameset': ['nauru', 'republic of nauru', 'the republic of nauru'],
+                        'nameset': ['nauru', 'republic of nauru'],
                         'tel': { 'code': '674',
                                  'domestic': [ 'fixed-line 0 per 100 and mobile-cellular subscribership approximately '
                                                '80 per 100',
@@ -11157,9 +11022,7 @@ P1_CNTR = \
                                  'region': 'Asia',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:NP',
                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/nepal/'},
-                        'nameset': [ 'federal democratic republic of nepal',
-                                     'nepal',
-                                     'the federal democratic republic of nepal'],
+                        'nameset': ['federal democratic republic of nepal', 'nepal'],
                         'tel': { 'code': '977',
                                  'domestic': [ 'fixed-line is 2 per 100 persons and mobile-cellular nearly 130 per 100 '
                                                'persons',
@@ -11228,8 +11091,7 @@ P1_CNTR = \
                               'nameset': [ 'kingdom of the netherlands',
                                            'koninkrijk der nederlanden',
                                            'nederland',
-                                           'netherlands',
-                                           'the kingdom of the netherlands'],
+                                           'netherlands'],
                               'tel': { 'code': '31',
                                        'domestic': [ 'fixed-line is 29 per 100 and mobile-cellular at 125 per 100 '
                                                      'persons',
@@ -11346,8 +11208,10 @@ P1_CNTR = \
                                          'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:NC',
                                          'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/new-caledonia/'},
                                 'nameset': [ 'new caledonia',
-                                             'nouvelle-caledonie',
-                                             'territoire des nouvelle-caledonie et dependances',
+                                             'nouvelle-cal&eacute;donie',
+                                             'nouvelle-calandeacute;donie',
+                                             'territoire des nouvelle-cal&eacute;donie et d&eacute;pendances',
+                                             'territoire des nouvelle-calandeacute;donie et dandeacute;pendances',
                                              'territory of new caledonia and dependencies'],
                                 'tel': { 'code': '687',
                                          'domestic': [ 'fixed-line is 16 per 100 and mobile-cellular telephone '
@@ -11479,10 +11343,7 @@ P1_CNTR = \
                                      'region': 'Central America and the Caribbean',
                                      'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:NI',
                                      'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/nicaragua/'},
-                            'nameset': [ 'nicaragua',
-                                         'republic of nicaragua',
-                                         'república de nicaragua',
-                                         'the republic of nicaragua'],
+                            'nameset': ['nicaragua', 'republic of nicaragua', 'república de nicaragua'],
                             'tel': { 'code': '505',
                                      'domestic': [ 'fixed-line teledensity is 3 per 100 persons',
                                                    'mobile-cellular telephone subscribership is 91 per 100 persons',
@@ -11545,11 +11406,11 @@ P1_CNTR = \
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:NE',
                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/niger/'},
                         'nameset': [ 'niger',
+                                     'r&eacute;publique du niger',
+                                     'randeacute;publique du niger',
                                      'republic of niger',
                                      'republic of the niger',
-                                     'republique du niger',
-                                     'the niger',
-                                     'the republic of the niger'],
+                                     'the niger'],
                         'tel': { 'code': '227',
                                  'domestic': [ 'fixed-line less than 1 per 100 persons and mobile-cellular at nearly '
                                                '56 per 100 persons',
@@ -11603,7 +11464,7 @@ P1_CNTR = \
                                    'region': 'Africa',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:NG',
                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/nigeria/'},
-                          'nameset': ['federal republic of nigeria', 'nigeria', 'the federal republic of nigeria'],
+                          'nameset': ['federal republic of nigeria', 'nigeria'],
                           'tel': { 'code': '234',
                                    'domestic': [ 'fixed-line subscribership remains less than 1 per 100 persons',
                                                  'mobile-cellular subscribership is 91 per 100 persons',
@@ -11736,9 +11597,7 @@ P1_CNTR = \
                                           'region': 'Oceania',
                                           'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:NF',
                                           'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/norfolk-island/'},
-                                 'nameset': [ 'norfolk island',
-                                              'territory of norfolk island',
-                                              'the territory of norfolk island'],
+                                 'nameset': ['norfolk island', 'territory of norfolk island'],
                                  'tel': { 'code': '672',
                                           'domestic': ['free local calls', 0],
                                           'general': [ 'the current infrastructure consists of fixed line telephone '
@@ -11790,8 +11649,7 @@ P1_CNTR = \
                               'nameset': [ 'choson',
                                            'choson-minjujuui-inmin-konghwaguk',
                                            "democratic people's republic of korea",
-                                           'north korea',
-                                           "the democratic people's republic of korea"],
+                                           'north korea'],
                               'tel': { 'code': '850',
                                        'domestic': [ 'fixed-lines are approximately 5 per 100 and mobile-cellular 23 '
                                                      'per 100 persons',
@@ -11865,8 +11723,7 @@ P1_CNTR = \
                                   'nameset': [ 'north macedonia',
                                                'republic of north macedonia',
                                                'republika severna makedonija',
-                                               'severna makedonija',
-                                               'the republic of north macedonia'],
+                                               'severna makedonija'],
                                   'tel': { 'code': '389',
                                            'domestic': [ 'fixed-line roughly 20 per 100 and mobile-cellular 92 per 100 '
                                                          'subscriptions',
@@ -11944,8 +11801,7 @@ P1_CNTR = \
                                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:MP',
                                                     'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/northern-mariana-islands/'},
                                            'nameset': [ 'commonwealth of the northern mariana islands',
-                                                        'northern mariana islands',
-                                                        'the commonwealth of the northern mariana islands'],
+                                                        'northern mariana islands'],
                                            'tel': { 'code': '1670',
                                                     'domestic': [ 'fixed-line teledensity is 40 per 100 persons',
                                                                   'mobile cellular subscriptions are 28 per 100',
@@ -11955,7 +11811,19 @@ P1_CNTR = \
                                                                  'demand for broadband growing given that mobile '
                                                                  'services are the source for Internet across region',
                                                                  'future launch of 5G',
-                                                                 2020],
+                                                                 'as of April 2024 the Northern Mariana Islands '
+                                                                 'Broadband Policy and Development Office (BPD) '
+                                                                 'received an award of $81 million from the National '
+                                                                 'Telecommunications and Information Administration '
+                                                                 '(NTIA) Broadband Equity, Access, and Deployment '
+                                                                 '(BEAD) Program',
+                                                                 'CNMI submitted its BEAD Five-Year Action Plan to '
+                                                                 'NTIA',
+                                                                 'this plan aims to improve Internet services in the '
+                                                                 'Commonwealth by outlining strategies for enhancing '
+                                                                 'Internet accessibility and affordability for all '
+                                                                 'members of the CNMI community',
+                                                                 2024],
                                                     'intl': [ 'landing points for the Atisa and Mariana-Guam submarine '
                                                               'cables linking Mariana islands to Guam',
                                                               'satellite earth stations - 2 Intelsat (Pacific Ocean)',
@@ -12001,11 +11869,7 @@ P1_CNTR = \
                                   'region': 'Europe',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:NO',
                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/norway/'},
-                         'nameset': [ 'kingdom of norway',
-                                      'kongeriket norge',
-                                      'norge',
-                                      'norway',
-                                      'the kingdom of norway'],
+                         'nameset': ['kingdom of norway', 'kongeriket norge', 'norge', 'norway'],
                          'tel': { 'code': '47',
                                   'domestic': ['fixed-line is 7 per 100 and mobile-cellular nearly 110 per 100', 2021],
                                   'general': [ 'Norway has a sophisticated telecom market with high broadband and '
@@ -12087,7 +11951,7 @@ P1_CNTR = \
                                 'region': 'Middle East',
                                 'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:OM',
                                 'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/oman/'},
-                       'nameset': ['oman', 'saltanat uman', 'sultanate of oman', 'the sultanate of oman', 'uman'],
+                       'nameset': ['oman', 'saltanat uman', 'sultanate of oman', 'uman'],
                        'tel': { 'code': '968',
                                 'domestic': ['fixed-line is 13 per 100 and mobile-cellular is 135 per 100', 2021],
                                 'general': [ 'Oman has a modern mobile sector which comprises substantial coverage of '
@@ -12150,10 +12014,7 @@ P1_CNTR = \
                                     'region': 'Asia',
                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:PK',
                                     'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/pakistan/'},
-                           'nameset': [ 'islamic republic of pakistan',
-                                        'jamhuryat islami pakistan',
-                                        'pakistan',
-                                        'the islamic republic of pakistan'],
+                           'nameset': ['islamic republic of pakistan', 'jamhuryat islami pakistan', 'pakistan'],
                            'tel': { 'code': '92',
                                     'domestic': [ 'mobile-cellular subscribership has increased',
                                                   'more than 90% of Pakistanis live within areas that have cell phone '
@@ -12230,7 +12091,7 @@ P1_CNTR = \
                                  'region': 'Oceania',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:PW',
                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/palau/'},
-                        'nameset': ['belau', 'beluu er a belau', 'palau', 'republic of palau', 'the republic of palau'],
+                        'nameset': ['belau', 'beluu er a belau', 'palau', 'republic of palau'],
                         'tel': { 'code': '680',
                                  'domestic': [ 'fixed-line nearly 44 per 100 and mobile-cellular services roughly 130 '
                                                'per 100 persons',
@@ -12285,12 +12146,7 @@ P1_CNTR = \
                                   'region': 'Central America and the Caribbean',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:PA',
                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/panama/'},
-                         'nameset': [ 'panama',
-                                      'panamá',
-                                      'republic of panama',
-                                      'republic of panamá',
-                                      'república de panama',
-                                      'the republic of panamá'],
+                         'nameset': ['panama', 'republic of panama', 'república de panama'],
                          'tel': { 'code': '507',
                                   'domestic': [ 'fixed-line is 18 per 100 and subscribership of mobile-cellular '
                                                 'telephone is 138 per 100',
@@ -12351,8 +12207,7 @@ P1_CNTR = \
                                             'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/papua-new-guinea/'},
                                    'nameset': [ 'independent state of papua new guinea',
                                                 'papua new guinea',
-                                                'papuaniugini',
-                                                'the independent state of papua new guinea'],
+                                                'papuaniugini'],
                                    'tel': { 'code': '675',
                                             'domestic': [ 'fixed-line nearly 2 per 100 and mobile-cellular is 48 per '
                                                           '100 persons',
@@ -12426,7 +12281,7 @@ P1_CNTR = \
                                     'bound': {'bord': {'Argentina': 2531, 'Bolivia': 753, 'Brazil': 1371}, 'len': 4655},
                                     'capital': { 'coord': '25 16 S, 57 40 W',
                                                  'name': 'Asunci&oacute;n',
-                                                 'time_diff': 'UTC-4'},
+                                                 'time_diff': 'UTC-3'},
                                     'coast': {'num': 0},
                                     'coord': ['23 00 S, 58 00 W'],
                                     'popul': {'female': 3753173, 'male': 3769376, 'total': 7522549, 'year': 2024},
@@ -12441,10 +12296,7 @@ P1_CNTR = \
                                     'region': 'South America',
                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:PY',
                                     'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/paraguay/'},
-                           'nameset': [ 'paraguay',
-                                        'republic of paraguay',
-                                        'república del paraguay',
-                                        'the republic of paraguay'],
+                           'nameset': ['paraguay', 'republic of paraguay', 'república del paraguay'],
                            'tel': { 'code': '595',
                                     'domestic': [ 'fixed-line just over 3 per 100 and mobile-cellular is 119 per 100 '
                                                   'of the population',
@@ -12500,12 +12352,7 @@ P1_CNTR = \
                                 'region': 'South America',
                                 'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:PE',
                                 'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/peru/'},
-                       'nameset': [ 'peru',
-                                    'perú',
-                                    'republic of peru',
-                                    'republic of perú',
-                                    'república del perú',
-                                    'the republic of perú'],
+                       'nameset': ['peru', 'perú', 'republic of peru', 'república del perú'],
                        'tel': { 'code': '51',
                                 'domestic': [ 'fixed-line teledensity is 7 per 100 persons',
                                               'mobile-cellular teledensity is 128 telephones per 100 persons',
@@ -12578,8 +12425,7 @@ P1_CNTR = \
                                            'pilipinas',
                                            'republic of the philippines',
                                            'republika ng pilipinas',
-                                           'the philippines',
-                                           'the republic of the philippines'],
+                                           'the philippines'],
                               'tel': { 'code': '63',
                                        'domestic': [ 'fixed-line nearly 4 per 100 and mobile-cellular nearly 143 per '
                                                      '100',
@@ -12651,8 +12497,7 @@ P1_CNTR = \
                                    'nameset': [ 'pitcairn henderson ducie and oeno islands',
                                                 'pitcairn islands',
                                                 'pitcairn, henderson, ducie and oeno islands',
-                                                'pitcairn, henderson, ducie, and oeno islands',
-                                                'the pitcairn, henderson, ducie and oeno islands'],
+                                                'pitcairn, henderson, ducie, and oeno islands'],
                                    'tel': { 'code': '872',
                                             'domestic': [ 'local phone service with international connections via '
                                                           'Internet',
@@ -12701,15 +12546,11 @@ P1_CNTR = \
                                   'region': 'Europe',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:PL',
                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/poland/'},
-                         'nameset': [ 'poland',
-                                      'polska',
-                                      'republic of poland',
-                                      'rzeczpospolita polska',
-                                      'the republic of poland'],
+                         'nameset': ['poland', 'polska', 'republic of poland', 'rzeczpospolita polska'],
                          'tel': { 'code': '48',
-                                  'domestic': [ 'fixed-line is 14 per 100 (service lags in rural areas), '
+                                  'domestic': [ 'fixed-line is 13 per 100 (service lags in rural areas), '
                                                 'mobile-cellular is 132 per 100 persons',
-                                                2021],
+                                                2022],
                                   'general': [ 'the liberalized telecom market has seen considerable development in '
                                                'the broadband and mobile sectors',
                                                'the regulatory environment has encouraged market competition, partly '
@@ -12722,7 +12563,7 @@ P1_CNTR = \
                                                'been delayed, with spectrum in the 5G-suitable 3.4-3.8GHz range having '
                                                'been put back to later in 2023 as a result of the Covid-19 outbreak '
                                                'and changes to legislation',
-                                               2021],
+                                               2024],
                                   'intl': [ 'landing points for the Baltica and the Denmark-Poland2 submarine cables '
                                             'connecting Poland, Denmark and Sweden',
                                             'international direct dialing with automated exchanges',
@@ -12812,10 +12653,7 @@ P1_CNTR = \
                                     'region': 'Europe',
                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:PT',
                                     'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/portugal/'},
-                           'nameset': [ 'portugal',
-                                        'portuguese republic',
-                                        'republica portuguesa',
-                                        'the portuguese republic'],
+                           'nameset': ['portugal', 'portuguese republic', 'republica portuguesa'],
                            'tel': { 'code': '351',
                                     'domestic': [ 'fixed-lineis 52 per 100 persons and mobile-cellular is 121 per 100 '
                                                   'persons',
@@ -12904,9 +12742,7 @@ P1_CNTR = \
                                        'region': 'Central America and the Caribbean',
                                        'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:PR',
                                        'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/puerto-rico/'},
-                              'nameset': [ 'commonwealth of puerto rico',
-                                           'puerto rico',
-                                           'the commonwealth of puerto rico'],
+                              'nameset': ['commonwealth of puerto rico', 'puerto rico'],
                               'tel': { 'code': '1787',
                                        'domestic': [ 'fixed-line is 22 per 100 and mobile-cellular is 112 per 100 '
                                                      'persons',
@@ -12991,7 +12827,7 @@ P1_CNTR = \
                                  'region': 'Middle East',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:QA',
                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/qatar/'},
-                        'nameset': ['dawlat qatar', 'qatar', 'state of qatar', 'the state of qatar'],
+                        'nameset': ['dawlat qatar', 'qatar', 'state of qatar'],
                         'tel': { 'code': '974',
                                  'domestic': [ 'fixed-line is 17 per 100 and mobile-cellular telephone subscribership '
                                                'is 144 telephones per 100 persons',
@@ -13138,10 +12974,10 @@ P1_CNTR = \
                                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/congo-republic-of-the/'},
                                         'nameset': [ 'congo',
                                                      'congo (brazzaville)',
+                                                     'r&eacute;publique du congo',
+                                                     'randeacute;publique du congo',
                                                      'republic of the congo',
-                                                     'republique du congo',
-                                                     'the congo',
-                                                     'the republic of the congo'],
+                                                     'the congo'],
                                         'tel': { 'general': [ 'suffering from economic challenges of stimulating '
                                                               'recovery and reducing poverty',
                                                               'primary network consists of b country code - 242',
@@ -13269,34 +13105,30 @@ P1_CNTR = \
                                   'region': 'Asia',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:RU',
                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/russia/'},
-                         'nameset': [ 'rossiya',
-                                      'rossiyskaya federatsiya',
-                                      'russia',
-                                      'russian federation',
-                                      'the russian federation'],
+                         'nameset': ['rossiya', 'rossiyskaya federatsiya', 'russia', 'russian federation'],
                          'tel': { 'code': '7',
-                                  'domestic': [ '16 per 100 for fixed-line and mobile-cellular is 170 per 100 persons',
-                                                2021],
+                                  'domestic': [ '16 per 100 for fixed-line and mobile-cellular is 169 per 100 persons',
+                                                2022],
                                   'general': [ 'the telecom market is the largest in Europe, supported by a population '
-                                               'approaching 147 million',
+                                               'of about 143 million',
                                                'the overall market is dominated by the western regions, particularly '
                                                'Moscow and St Petersburg which are the main cities and economic '
                                                'centers',
-                                               'all sectors of the market have been liberalized, with competition most '
-                                               'prevalent in the two largest regional markets',
-                                               'the fiber broadband sector has shown considerable growth, supported by '
-                                               'the government’s program to extend the reach of broadband to outlying '
-                                               'regions',
-                                               'the development of 5G services has been stymied by the lack of '
-                                               'spectrum',
-                                               'although MNOs have licenses to use 700MHz spectrum for 5G, this '
-                                               'spectrum has yet to be released by broadcasters',
-                                               'spectrum in the 3.4GHz range commonly used for 5G in Europe has been '
-                                               'restricted for use in Russia by the military and intelligence agencies',
-                                               'despite these limitations, the four principal MNOs each have an equal '
-                                               'share in a joint venture aimed at developing a strategy to deploy 5G '
-                                               'using shared network and spectrum assets',
-                                               2022],
+                                               'many other regions in the east and north of the country were settled '
+                                               'during the Soviet period',
+                                               'the telecommunication companies continue to deploy and modernize '
+                                               'fixed-line network infrastructure to offer improved broadband services '
+                                               'as well as a range of IP-delivered content',
+                                               'the number of Digital Subscriber Line (DSL) connections continues to '
+                                               'decrease as subscribers are migrated to fiber',
+                                               'the development of 5G services has been hindered by the lack of '
+                                               'frequencies',
+                                               'the 3.4GHz range commonly used for 5G in Europe has been restricted '
+                                               'for use in Russia by the military and intelligence agencies',
+                                               'the Mobile Network Operators (MNOs) have an equal share in a joint '
+                                               'venture, New Digital Solutions, aimed at developing a strategy to '
+                                               'deploy 5G using a shared network',
+                                               2024],
                                   'intl': [ 'landing points for the Far East Submarine Cable System, HSCS, '
                                             'Sakhalin-Kuril Island Cable, RSCN, BCS North-Phase 2, Kerch Strait Cable '
                                             'and the Georgia-Russian submarine cable system connecting Russia, Japan, '
@@ -13360,8 +13192,7 @@ P1_CNTR = \
                           '25096',
                           '25097',
                           '25098',
-                          '25099',
-                          '25598'],
+                          '25099'],
               'msisdn': ['7', '71', '73', '74', '75', '78', '79'],
               'msisdn_url': [ 'https://en.wikipedia.org/wiki/%2B7',
                               'https://en.wikipedia.org/wiki/Telephone_numbers_in_Russia'],
@@ -13383,7 +13214,7 @@ P1_CNTR = \
                                   'region': 'Africa',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:RW',
                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/rwanda/'},
-                         'nameset': ['republic of rwanda', "republika y'u rwanda", 'rwanda', 'the republic of rwanda'],
+                         'nameset': ['republic of rwanda', "republika y'u rwanda", 'rwanda'],
                          'tel': { 'code': '250',
                                   'domestic': [ 'fixed-line less than 1 per 100 and mobile-cellular telephone density '
                                                 'is 81 telephones per 100 persons',
@@ -13452,13 +13283,14 @@ P1_CNTR = \
                                             'region': 'Central America and the Caribbean',
                                             'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BL',
                                             'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/saint-barthelemy/'},
-                                   'nameset': [ "collectivite d'outre mer de saint-barthelemy",
+                                   'nameset': [ "collectivit&eacute; d'outre mer de saint-barth&eacute;lemy",
+                                                "collectivitandeacute; d'outre mer de saint-barthandeacute;lemy",
                                                 'collectivity of saint-barthélemy',
                                                 'overseas collectivity of saint barthelemy',
                                                 'saint barthelemy',
                                                 'saint barthélemy',
-                                                'saint-barthelemy',
-                                                'the collectivity of saint-barthélemy'],
+                                                'saint-barth&eacute;lemy',
+                                                'saint-barthandeacute;lemy'],
                                    'tel': { 'code': '590',
                                             'domestic': [ 'direct dial capability with both fixed and wireless '
                                                           'systems, 3 FM channels, no broadcasting',
@@ -13703,12 +13535,12 @@ P1_CNTR = \
                                         'region': 'Central America and the Caribbean',
                                         'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:MF',
                                         'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/saint-martin/'},
-                               'nameset': [ "collectivite d'outre mer de saint-martin",
+                               'nameset': [ "collectivit&eacute; d'outre mer de saint-martin",
+                                            "collectivitandeacute; d'outre mer de saint-martin",
                                             'collectivity of saint-martin',
                                             'overseas collectivity of saint martin',
                                             'saint martin',
-                                            'saint-martin',
-                                            'the collectivity of saint-martin'],
+                                            'saint-martin'],
                                'tel': { 'code': '590',
                                         'domestic': [ 'direct dial capability with both fixed and wireless systems',
                                                       2018],
@@ -13769,12 +13601,12 @@ P1_CNTR = \
                                                      'region': 'North America',
                                                      'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:PM',
                                                      'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/saint-pierre-and-miquelon/'},
-                                            'nameset': [ 'departement de saint-pierre et miquelon',
+                                            'nameset': [ 'd&eacute;partement de saint-pierre et miquelon',
+                                                         'dandeacute;partement de saint-pierre et miquelon',
                                                          'overseas collectivity of saint-pierre and miquelon',
                                                          'saint pierre and miquelon',
                                                          'saint-pierre et miquelon',
-                                                         'territorial collectivity of saint pierre and miquelon',
-                                                         'the overseas collectivity of saint-pierre and miquelon'],
+                                                         'territorial collectivity of saint pierre and miquelon'],
                                             'tel': { 'code': '508',
                                                      'domestic': ['fixed-line teledensity 76 per 100 persons', 2019],
                                                      'general': ['adequate', 2019],
@@ -13878,10 +13710,7 @@ P1_CNTR = \
                                  'region': 'Oceania',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:WS',
                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/samoa/'},
-                        'nameset': [ 'independent state of samoa',
-                                     "malo sa'oloto tuto'atasi o samoa",
-                                     'samoa',
-                                     'the independent state of samoa'],
+                        'nameset': ['independent state of samoa', "malo sa'oloto tuto'atasi o samoa", 'samoa'],
                         'tel': { 'code': '685',
                                  'domestic': [ 'fixed-line is 3 per 100 and mobile-cellular teledensity 32 telephones '
                                                'per 100 persons',
@@ -13942,10 +13771,7 @@ P1_CNTR = \
                                       'region': 'Europe',
                                       'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SM',
                                       'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/san-marino/'},
-                             'nameset': [ 'repubblica di san marino',
-                                          'republic of san marino',
-                                          'san marino',
-                                          'the republic of san marino'],
+                             'nameset': ['repubblica di san marino', 'republic of san marino', 'san marino'],
                              'tel': { 'code': '378',
                                       'domestic': [ 'fixed-line is 47 per 100 and mobile-cellular teledensity is 119 '
                                                     'telephones per 100 persons',
@@ -13995,8 +13821,7 @@ P1_CNTR = \
                                                      'democratic republic of são tomé and príncipe',
                                                      'republica democratica de sao tome e principe',
                                                      'sao tome and principe',
-                                                     'sao tome e principe',
-                                                     'the democratic republic of são tomé and príncipe'],
+                                                     'sao tome e principe'],
                                         'tel': { 'code': '239',
                                                  'domestic': [ 'fixed-line is 1 per 100 and mobile-cellular '
                                                                'teledensity is 85 telephones per 100 persons',
@@ -14060,8 +13885,7 @@ P1_CNTR = \
                                'nameset': [ 'al arabiyah as suudiyah',
                                             'al mamlakah al arabiyah as suudiyah',
                                             'kingdom of saudi arabia',
-                                            'saudi arabia',
-                                            'the kingdom of saudi arabia'],
+                                            'saudi arabia'],
                                'tel': { 'code': '966',
                                         'domestic': [ 'fixed-line are 18 per 100 and mobile-cellular subscribership is '
                                                       '126 per 100 persons',
@@ -14106,7 +13930,16 @@ P1_CNTR = \
                                         'tld': '.sa',
                                         'url_tld': 'https://en.wikipedia.org/wiki/.sa'}},
                     'mcc': ['420'],
-                    'mccmnc': ['42001', '42002', '42003', '42004', '42005', '42006', '42007', '42021'],
+                    'mccmnc': [ '42001',
+                                '42002',
+                                '42003',
+                                '42004',
+                                '42005',
+                                '42006',
+                                '42007',
+                                '42009',
+                                '42010',
+                                '42021'],
                     'msisdn': ['966'],
                     'msisdn_url': ['https://en.wikipedia.org/wiki/%2B966'],
                     'name': 'Saudi Arabia',
@@ -14137,13 +13970,12 @@ P1_CNTR = \
                                    'region': 'Africa',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SN',
                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/senegal/'},
-                          'nameset': [ 'republic of senegal',
-                                       'republique du s&eacute;n&eacute;gal',
-                                       'republique du sandeacute;nandeacute;gal',
+                          'nameset': [ 'r&eacute;publique du s&eacute;n&eacute;gal',
+                                       'randeacute;publique du sandeacute;nandeacute;gal',
+                                       'republic of senegal',
                                        's&eacute;n&eacute;gal',
                                        'sandeacute;nandeacute;gal',
-                                       'senegal',
-                                       'the republic of senegal'],
+                                       'senegal'],
                           'tel': { 'code': '221',
                                    'domestic': [ 'fixed-line is 2 per 100 and mobile-cellular 118 per 100 persons',
                                                  2021],
@@ -14199,11 +14031,7 @@ P1_CNTR = \
                                   'region': 'Europe',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:RS',
                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/serbia/'},
-                         'nameset': [ 'republic of serbia',
-                                      'republika srbija',
-                                      'serbia',
-                                      'srbija',
-                                      'the republic of serbia'],
+                         'nameset': ['republic of serbia', 'republika srbija', 'serbia', 'srbija'],
                          'tel': { 'code': '381',
                                   'domestic': [ 'fixed-line over 37 per 100 and mobile-cellular is 124 per 100 persons',
                                                 2021],
@@ -14266,7 +14094,7 @@ P1_CNTR = \
                                       'region': 'Africa',
                                       'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SC',
                                       'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/seychelles/'},
-                             'nameset': ['republic of seychelles', 'seychelles', 'the republic of seychelles'],
+                             'nameset': ['republic of seychelles', 'seychelles'],
                              'tel': { 'code': '248',
                                       'domestic': [ 'fixed-line is 18 per 100 and mobile-cellular teledensity is 173 '
                                                     'telephones per 100 persons',
@@ -14318,7 +14146,7 @@ P1_CNTR = \
                                         'region': 'Africa',
                                         'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SL',
                                         'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/sierra-leone/'},
-                               'nameset': ['republic of sierra leone', 'sierra leone', 'the republic of sierra leone'],
+                               'nameset': ['republic of sierra leone', 'sierra leone'],
                                'tel': { 'code': '232',
                                         'domestic': [ 'fixed-line less than 0 per 100 and mobile-cellular just over 98 '
                                                       'per 100',
@@ -14393,7 +14221,7 @@ P1_CNTR = \
                                      'region': 'Southeast Asia',
                                      'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SG',
                                      'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/singapore/'},
-                            'nameset': ['republic of singapore', 'singapore', 'the republic of singapore'],
+                            'nameset': ['republic of singapore', 'singapore'],
                             'tel': { 'code': '65',
                                      'domestic': [ 'fixed-line is 32 per 100 and mobile-cellular 146 per 100 '
                                                    'teledensity',
@@ -14533,15 +14361,11 @@ P1_CNTR = \
                                     'region': 'Europe',
                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SK',
                                     'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/slovakia/'},
-                           'nameset': [ 'slovak republic',
-                                        'slovakia',
-                                        'slovenska republika',
-                                        'slovensko',
-                                        'the slovak republic'],
+                           'nameset': ['slovak republic', 'slovakia', 'slovenska republika', 'slovensko'],
                            'tel': { 'code': '421',
-                                    'domestic': [ 'fixed-line is 11 per 100 and mobile-cellular is 135 per 100 '
-                                                  'teledensity',
-                                                  2021],
+                                    'domestic': [ 'fixed-line is 10 per 100 and mobile-cellular is 132 per 100 tele '
+                                                  'density',
+                                                  2022],
                                     'general': [ 'the broadband market has shown steady growth in recent years',
                                                  'fiber has become the principal platform for fixed broadband '
                                                  'services, followed by DSL',
@@ -14554,7 +14378,7 @@ P1_CNTR = \
                                                  'followed by those in the 700MHz, 900MHz and 1800MHz bands',
                                                  '5G was launched in late 2021 and is expected to cover about a fifth '
                                                  'of the population by the end of 2022',
-                                                 2021],
+                                                 2024],
                                     'intl': [ '3 international exchanges (1 in Bratislava and 2 in Banska Bystrica) '
                                               'are available',
                                               'Slovakia is participating in several international telecommunications '
@@ -14606,11 +14430,7 @@ P1_CNTR = \
                                     'region': 'Europe',
                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SI',
                                     'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/slovenia/'},
-                           'nameset': [ 'republic of slovenia',
-                                        'republika slovenija',
-                                        'slovenia',
-                                        'slovenija',
-                                        'the republic of slovenia'],
+                           'nameset': ['republic of slovenia', 'republika slovenija', 'slovenia', 'slovenija'],
                            'tel': { 'code': '386',
                                     'domestic': [ 'fixed-line is 32 per 100 and mobile-cellular is 126 per 100 '
                                                   'teledensity',
@@ -14667,7 +14487,7 @@ P1_CNTR = \
                                            'region': 'Oceania',
                                            'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SB',
                                            'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/solomon-islands/'},
-                                  'nameset': ['solomon islands', 'the solomon islands'],
+                                  'nameset': ['solomon islands'],
                                   'tel': { 'code': '677',
                                            'domestic': [ 'fixed-line is less than 1 per 100 persons and '
                                                          'mobile-cellular telephone density 67 per 100 persons',
@@ -14754,8 +14574,7 @@ P1_CNTR = \
                                        'fidiraliyah (arabic)',
                                        'somalia',
                                        'soomaaliya',
-                                       'soomaaliya (somali)/ as sumal (arabic)',
-                                       'the federal republic of somalia'],
+                                       'soomaaliya (somali)/ as sumal (arabic)'],
                           'tel': { 'code': '252',
                                    'domestic': ['fixed-line is 1 per 100 and mobile-cellular is 50 per 100', 2022],
                                    'general': [ 'Somalia’s economic difficulties in recent years have made it '
@@ -14855,7 +14674,7 @@ P1_CNTR = \
                                         'region': 'Africa',
                                         'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:ZA',
                                         'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/south-africa/'},
-                               'nameset': ['republic of south africa', 'south africa', 'the republic of south africa'],
+                               'nameset': ['republic of south africa', 'south africa'],
                                'tel': { 'code': '27',
                                         'domestic': [ 'fixed-line is 2 per 100 persons and mobile-cellular is 167 '
                                                       'telephones per 100 persons',
@@ -14895,6 +14714,8 @@ P1_CNTR = \
                                 '65505',
                                 '65506',
                                 '65507',
+                                '65508',
+                                '65509',
                                 '65510',
                                 '65511',
                                 '65512',
@@ -14902,6 +14723,7 @@ P1_CNTR = \
                                 '65514',
                                 '65516',
                                 '65517',
+                                '65518',
                                 '65519',
                                 '65521',
                                 '65524',
@@ -15003,12 +14825,7 @@ P1_CNTR = \
                                        'region': 'Asia',
                                        'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:KR',
                                        'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/korea-south/'},
-                              'nameset': [ "han'guk",
-                                           'korea',
-                                           'republic of korea',
-                                           'south korea',
-                                           "taehan-min'guk",
-                                           'the republic of korea'],
+                              'nameset': ["han'guk", 'korea', 'republic of korea', 'south korea', "taehan-min'guk"],
                               'tel': { 'code': '82',
                                        'domestic': [ 'fixed-line approximately 45 per 100 and mobile-cellular services '
                                                      '141 per 100 persons',
@@ -15084,7 +14901,7 @@ P1_CNTR = \
                                        'region': 'Africa',
                                        'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SS',
                                        'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/south-sudan/'},
-                              'nameset': ['republic of south sudan', 'south sudan', 'the republic of south sudan'],
+                              'nameset': ['republic of south sudan', 'south sudan'],
                               'tel': { 'code': '211',
                                        'domestic': [ 'fixed-line less than 1 per 100 subscriptions, mobile-cellular is '
                                                      '30 per 100 persons',
@@ -15168,7 +14985,7 @@ P1_CNTR = \
                                  'region': 'Europe',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:ES',
                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/spain/'},
-                        'nameset': ['espana', 'kingdom of spain', 'reino de espana', 'spain', 'the kingdom of spain'],
+                        'nameset': ['espana', 'kingdom of spain', 'reino de espana', 'spain'],
                         'tel': { 'code': '34',
                                  'domestic': [ 'fixed-line is 39 per 100 and mobile-cellular 124 telephones per 100 '
                                                'persons',
@@ -15255,7 +15072,8 @@ P1_CNTR = \
                          '214703',
                          '214704',
                          '214705',
-                         '214706'],
+                         '214706',
+                         '214707'],
              'msisdn': ['34'],
              'msisdn_url': ['https://en.wikipedia.org/wiki/%2B34'],
              'name': 'Spain',
@@ -15291,8 +15109,7 @@ P1_CNTR = \
                                          'shri lanka prajatantrika samajavadi janarajaya',
                                          'shri lanka prajatantrika samajavadi janarajaya (sinhala)/ ilankai jananayaka '
                                          'choshalichak kutiyarachu (tamil)',
-                                         'sri lanka',
-                                         'the democratic socialist republic of sri lanka'],
+                                         'sri lanka'],
                             'tel': { 'code': '94',
                                      'domestic': ['fixed-line is 12 per 100 and mobile-cellular is 143 per 100', 2022],
                                      'general': [ 'Sri Lanka’s fixed-line telephony market was one of the very few in '
@@ -15353,7 +15170,7 @@ P1_CNTR = \
                           'dep': None,
                           'infos': { 'codes': {'cc3': 'PSE', 'ccn': '275'},
                                      'geo': {'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:PS'},
-                                     'nameset': ['state of palestine', 'the state of palestine'],
+                                     'nameset': ['state of palestine'],
                                      'tel': {'tld': '.ps', 'url_tld': 'https://en.wikipedia.org/wiki/.ps'}},
                           'mcc': ['425'],
                           'mccmnc': ['42505', '42506', '42577'],
@@ -15390,12 +15207,7 @@ P1_CNTR = \
                                  'region': 'Africa',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SD',
                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/sudan/'},
-                        'nameset': [ 'as-sudan',
-                                     'jumhuriyat as-sudan',
-                                     'republic of the sudan',
-                                     'sudan',
-                                     'the republic of the sudan',
-                                     'the sudan'],
+                        'nameset': ['as-sudan', 'jumhuriyat as-sudan', 'republic of the sudan', 'sudan', 'the sudan'],
                         'tel': { 'code': '249',
                                  'domestic': [ 'teledensity fixed-line is 1 per 100 and mobile-cellular is 74 '
                                                'telephones per 100 persons',
@@ -15470,10 +15282,7 @@ P1_CNTR = \
                                     'region': 'South America',
                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SR',
                                     'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/suriname/'},
-                           'nameset': [ 'republic of suriname',
-                                        'republiek suriname',
-                                        'suriname',
-                                        'the republic of suriname'],
+                           'nameset': ['republic of suriname', 'republiek suriname', 'suriname'],
                            'tel': { 'code': '597',
                                     'domestic': [ 'fixed-line is 18 per 100 and mobile-cellular teledensity is 150 '
                                                   'telephones per 100 persons',
@@ -15585,11 +15394,7 @@ P1_CNTR = \
                                   'region': 'Europe',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SE',
                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/sweden/'},
-                         'nameset': [ 'kingdom of sweden',
-                                      'konungariket sverige',
-                                      'sverige',
-                                      'sweden',
-                                      'the kingdom of sweden'],
+                         'nameset': ['kingdom of sweden', 'konungariket sverige', 'sverige', 'sweden'],
                          'tel': { 'code': '46',
                                   'domestic': ['fixed-line is 12 per 100 and mobile-cellular is 125 per 100', 2022],
                                   'general': [ 'Sweden’s telecom market includes mature mobile and broadband sectors '
@@ -15693,6 +15498,7 @@ P1_CNTR = \
                           '24049',
                           '24050',
                           '24051',
+                          '24059',
                           '24060',
                           '24061',
                           '24063',
@@ -15728,8 +15534,7 @@ P1_CNTR = \
                                            'schweizerische eidgenossenschaft (german)/ confederation suisse (french)/ '
                                            'confederazione svizzera (italian)/ confederaziun svizra (romansh)',
                                            'swiss confederation',
-                                           'switzerland',
-                                           'the swiss confederation'],
+                                           'switzerland'],
                               'tel': { 'code': '41',
                                        'domestic': [ 'fixed-line is 33 per 100 and mobile-cellular subscribership is '
                                                      '120 per 100 persons',
@@ -15805,6 +15610,7 @@ P1_CNTR = \
                                '22870',
                                '22871',
                                '22872',
+                               '22873',
                                '22898',
                                '22899'],
                    'msisdn': ['41'],
@@ -15836,11 +15642,7 @@ P1_CNTR = \
                                  'region': 'Middle East',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:SY',
                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/syria/'},
-                        'nameset': [ 'al jumhuriyah al arabiyah as suriyah',
-                                     'suriyah',
-                                     'syria',
-                                     'syrian arab republic',
-                                     'the syrian arab republic'],
+                        'nameset': ['al jumhuriyah al arabiyah as suriyah', 'suriyah', 'syria', 'syrian arab republic'],
                         'tel': { 'code': '963',
                                  'domestic': [ 'the number of fixed-line connections is 13 per 100',
                                                'mobile-cellular service is 80 per 100 persons',
@@ -15885,7 +15687,7 @@ P1_CNTR = \
                                  'tld': '.sy',
                                  'url_tld': 'https://en.wikipedia.org/wiki/.sy'}},
              'mcc': ['417'],
-             'mccmnc': ['41701', '41702', '41703', '41709'],
+             'mccmnc': ['41701', '41702', '41703', '41709', '41750'],
              'msisdn': ['963'],
              'msisdn_url': ['https://en.wikipedia.org/wiki/%2B963'],
              'name': 'Syria',
@@ -15910,7 +15712,7 @@ P1_CNTR = \
                                   'region': 'Southeast Asia',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:TW',
                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/taiwan/'},
-                         'nameset': ['china', 'republic of china', 'taiwan', 'the republic of china'],
+                         'nameset': ['china', 'republic of china', 'taiwan'],
                          'tel': { 'code': '886',
                                   'domestic': [ 'fixed-line over 43 per 100 and mobile-cellular roughly 128 per 100',
                                                 2023],
@@ -16005,14 +15807,10 @@ P1_CNTR = \
                                       'region': 'Asia',
                                       'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:TJ',
                                       'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/tajikistan/'},
-                             'nameset': [ 'jumhurii tojikiston',
-                                          'republic of tajikistan',
-                                          'tajikistan',
-                                          'the republic of tajikistan',
-                                          'tojikiston'],
+                             'nameset': ['jumhurii tojikiston', 'republic of tajikistan', 'tajikistan', 'tojikiston'],
                              'tel': { 'code': '992',
                                       'domestic': [ 'fixed-line over 5 per 100 and mobile-cellular over 119 per 100',
-                                                    2021],
+                                                    2022],
                                       'general': [ 'the size of Tajikistan’s mobile market dwarfs the fixed line '
                                                    'segment, with an estimated penetration rate of nearly 120%',
                                                    'with a number of private sector companies active in the mobile '
@@ -16030,7 +15828,7 @@ P1_CNTR = \
                                                    "People's Republic of China, the Russian Federation, state-owned "
                                                    'enterprises, and telecom systems established by donors and '
                                                    'non-governmental organizations',
-                                                   2021],
+                                                   2024],
                                       'intl': [ 'linked by cable and microwave radio relay to other CIS republics and '
                                                 'by leased connections to the Moscow international gateway switch',
                                                 'Dushanbe linked by Intelsat to international gateway switch in Ankara '
@@ -16081,10 +15879,7 @@ P1_CNTR = \
                                     'region': 'Africa',
                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:TZ',
                                     'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/tanzania/'},
-                           'nameset': [ 'jamhuri ya muungano wa tanzania',
-                                        'tanzania',
-                                        'the united republic of tanzania',
-                                        'united republic of tanzania'],
+                           'nameset': ['jamhuri ya muungano wa tanzania', 'tanzania', 'united republic of tanzania'],
                            'tel': { 'code': '255',
                                     'domestic': [ 'fixed-line telephone network is 2 connections per 100 persons',
                                                   'mobile-cellular service is 92 telephones per 100 persons',
@@ -16171,11 +15966,7 @@ P1_CNTR = \
                                     'region': 'Southeast Asia',
                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:TH',
                                     'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/thailand/'},
-                           'nameset': [ 'kingdom of thailand',
-                                        'prathet thai',
-                                        'ratcha anachak thai',
-                                        'thailand',
-                                        'the kingdom of thailand'],
+                           'nameset': ['kingdom of thailand', 'prathet thai', 'ratcha anachak thai', 'thailand'],
                            'tel': { 'code': '66',
                                     'domestic': ['fixed-line is 19 per 100 and mobile-cellular is 176 per 100', 2022],
                                     'general': [ 'Thailand’s telecom sector is relatively mature and hosts a mix of '
@@ -16269,10 +16060,7 @@ P1_CNTR = \
                                        'region': 'Central America and the Caribbean',
                                        'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:BS',
                                        'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/bahamas-the/'},
-                              'nameset': [ 'bahamas',
-                                           'commonwealth of the bahamas',
-                                           'the bahamas',
-                                           'the commonwealth of the bahamas'],
+                              'nameset': ['bahamas', 'commonwealth of the bahamas', 'the bahamas'],
                               'tel': { 'code': '1242',
                                        'domestic': ['22 per 100 fixed-line, 115 per 100 mobile-cellular', 2020],
                                        'general': [ 'the two local providers ensure good telecoms coverage across the '
@@ -16319,10 +16107,7 @@ P1_CNTR = \
                                       'region': 'Africa',
                                       'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:GM',
                                       'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/gambia-the/'},
-                             'nameset': [ 'gambia',
-                                          'republic of the gambia',
-                                          'the gambia',
-                                          'the republic of the gambia'],
+                             'nameset': ['gambia', 'republic of the gambia', 'the gambia'],
                              'tel': { 'code': '220',
                                       'domestic': [ 'fixed-line subscriptions are 2 per 100 and mobile-cellular '
                                                     'teledensity nearly 110 per 100 persons',
@@ -16379,7 +16164,10 @@ P1_CNTR = \
                                 'region': 'Africa',
                                 'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:TG',
                                 'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/togo/'},
-                       'nameset': ['republique togolaise', 'the togolese republic', 'togo', 'togolese republic'],
+                       'nameset': [ 'r&eacute;publique togolaise',
+                                    'randeacute;publique togolaise',
+                                    'togo',
+                                    'togolese republic'],
                        'tel': { 'code': '228',
                                 'domestic': [ 'fixed-line less than 1 per 100 and mobile-cellular is 74 telephones per '
                                               '100 persons',
@@ -16458,7 +16246,7 @@ P1_CNTR = \
                                  'region': 'Oceania',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:TO',
                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/tonga/'},
-                        'nameset': ['kingdom of tonga', "pule'anga fakatu'i 'o tonga", 'the kingdom of tonga', 'tonga'],
+                        'nameset': ['kingdom of tonga', "pule'anga fakatu'i 'o tonga", 'tonga'],
                         'tel': { 'code': '676',
                                  'domestic': [ 'fixed-line 10 per 100 persons and mobile-cellular teledensity 61 '
                                                'telephones per 100',
@@ -16513,9 +16301,7 @@ P1_CNTR = \
                                                'region': 'Central America and the Caribbean',
                                                'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:TT',
                                                'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/trinidad-and-tobago/'},
-                                      'nameset': [ 'republic of trinidad and tobago',
-                                                   'the republic of trinidad and tobago',
-                                                   'trinidad and tobago'],
+                                      'nameset': ['republic of trinidad and tobago', 'trinidad and tobago'],
                                       'tel': { 'code': '1868',
                                                'domestic': [ 'fixed-line is 21 per 100 persons and mobile-cellular '
                                                              'teledensity 131 per 100 persons',
@@ -16580,11 +16366,7 @@ P1_CNTR = \
                                    'region': 'Africa',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:TN',
                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/tunisia/'},
-                          'nameset': [ 'al jumhuriyah at tunisiyah',
-                                       'republic of tunisia',
-                                       'the republic of tunisia',
-                                       'tunis',
-                                       'tunisia'],
+                          'nameset': ['al jumhuriyah at tunisiyah', 'republic of tunisia', 'tunis', 'tunisia'],
                           'tel': { 'code': '216',
                                    'domestic': [ 'fixed-line is nearly 14 per 100 and mobile-cellular teledensity is '
                                                  '129 telephones per 100 persons',
@@ -16658,7 +16440,6 @@ P1_CNTR = \
                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/turkey-turkiye/'},
                          'nameset': [ 'republic of turkey',
                                       'republic of türkiye',
-                                      'the republic of türkiye',
                                       'turkey',
                                       'turkey cumhuriyeti',
                                       'türkiye'],
@@ -16727,7 +16508,7 @@ P1_CNTR = \
                                'tel': { 'code': '993',
                                         'domestic': [ 'fixed-line is 13 per 100 and mobile-cellular teledensity is 99 '
                                                       'per 100 persons',
-                                                      2021],
+                                                      2022],
                                         'general': [ 'the nation of Turkmenistan, which rivals only North Korea for '
                                                      'its isolationism, continues to keep its telecom sector along '
                                                      'with the broader populace under tight control',
@@ -16740,9 +16521,9 @@ P1_CNTR = \
                                                      'all internet users, however, need to identify themselves before '
                                                      'logging on, and strict censorship over what can be viewed is in '
                                                      'force',
-                                                     'the end result is that Turkmenistan has one of the lowest '
-                                                     'penetration rates for internet access in the world',
-                                                     2022],
+                                                     'the end result is that Turkmenistan has one of the lowest usage '
+                                                     'rates for internet access in the world',
+                                                     2024],
                                         'intl': [ 'linked by fiber-optic cable and microwave radio relay to other CIS '
                                                   'republics and to other countries by leased connections to the '
                                                   'Moscow international gateway switch',
@@ -16789,7 +16570,7 @@ P1_CNTR = \
                                                     'region': 'Central America and the Caribbean',
                                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:TC',
                                                     'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/turks-and-caicos-islands/'},
-                                           'nameset': ['the turks and caicos islands', 'turks and caicos islands'],
+                                           'nameset': ['turks and caicos islands'],
                                            'tel': { 'code': '1649',
                                                     'domestic': ['fixed-line teledensity is 9 per 100 persons', 2021],
                                                     'general': [ 'is connected to the internet via a single submarine '
@@ -16877,7 +16658,7 @@ P1_CNTR = \
                                   'region': 'Africa',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:UG',
                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/uganda/'},
-                         'nameset': ['republic of uganda', 'the republic of uganda', 'uganda'],
+                         'nameset': ['republic of uganda', 'uganda'],
                          'tel': { 'code': '256',
                                   'domestic': [ 'fixed-line less than 1 per 100 and mobile cellular systems '
                                                 'teledensity is 66 per 100 persons',
@@ -16959,12 +16740,29 @@ P1_CNTR = \
                           'nameset': ['ukraina', 'ukraine'],
                           'tel': { 'code': '380',
                                    'domestic': [ 'fixed-line teledensity is 6 per 100',
-                                                 'the mobile-cellular telephone is 140 mobile phones per 100 persons',
-                                                 2021],
+                                                 'the mobile-cellular telephone is 135 mobile phones per 100 persons',
+                                                 2022],
                                    'general': [ 'there has been considerable damage and destruction to the '
                                                 'communications infrastructure in more than 10 out of 24 regions of '
                                                 'Ukraine since the war started',
-                                                2023],
+                                                'Ukraine estimates it will need $4.67 billion (&euro',
+                                                '4.38 billion) over 10 years to repair an overlooked but expensive '
+                                                'casualty in the ongoing Russian invasion: its telecommunications '
+                                                'network',
+                                                'forty-five per cent of the total network damage is felt by fixed '
+                                                'broadband operators, followed closely by mobile operators at 43 '
+                                                'percent',
+                                                '"it will be difficult to restore telecommunications to their pre-war '
+                                                'level until there are "conditions for the safe living of consumers '
+                                                'and service providers"',
+                                                'the World Bank estimates that roughly 12 per cent of all Ukrainian '
+                                                'households have lost mobile service connection: an issue, the report '
+                                                'notes, that "affects not only personal communication but also '
+                                                'critical services and economic activities"',
+                                                'Ukraine is also one of the biggest users of SpaceX’s Starlink, a '
+                                                'series of satellites in space that transmit radio signals to users on '
+                                                'Earth, with 47,000 units being used by the country',
+                                                2024],
                                    'intl': [ 'landing point for the Kerch Strait Cable connecting Ukraine to Russia',
                                              '2 new domestic trunk lines are a part of the fiber-optic TAE system and '
                                              '3 Ukrainian links have been installed in the fiber-optic TEL project '
@@ -17030,9 +16828,7 @@ P1_CNTR = \
                                                 'region': 'Middle East',
                                                 'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:AE',
                                                 'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/united-arab-emirates/'},
-                                       'nameset': [ 'al imarat al arabiyah al muttahidah',
-                                                    'the united arab emirates',
-                                                    'united arab emirates'],
+                                       'nameset': ['al imarat al arabiyah al muttahidah', 'united arab emirates'],
                                        'tel': { 'code': '971',
                                                 'domestic': [ 'fixed-line is 24 per 100 and mobile-cellular is 190 per '
                                                               '100',
@@ -17122,8 +16918,7 @@ P1_CNTR = \
                                           'region': 'Europe',
                                           'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:GB',
                                           'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/united-kingdom/'},
-                                 'nameset': [ 'the united kingdom of great britain and northern ireland',
-                                              'united kingdom',
+                                 'nameset': [ 'united kingdom',
                                               'united kingdom of great britain and northern ireland',
                                               'united kingdom of great britain and northern ireland; note - the island '
                                               'of great britain includes england scotland and wales',
@@ -17280,13 +17075,11 @@ P1_CNTR = \
                                          'region': 'North America',
                                          'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:US',
                                          'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/united-states/'},
-                                'nameset': [ 'the united states of america',
-                                             'united states',
-                                             'united states of america'],
+                                'nameset': ['united states', 'united states of america'],
                                 'tel': { 'code': '1',
-                                         'domestic': [ 'fixed-line just over 29 per 100 and mobile-cellular is 110 per '
+                                         'domestic': [ 'fixed-line just over 27 per 100 and mobile-cellular is 110 per '
                                                        '100',
-                                                       2021],
+                                                       2022],
                                          'general': [ 'the US telecom sector adapted well to the particular demands of '
                                                       'the pandemic, which has led to strong growth in the number of '
                                                       'mobile, mobile broadband, and fixed broadband subscribers since '
@@ -17330,7 +17123,7 @@ P1_CNTR = \
                                                       'being entirely on fiber',
                                                       'service offerings of up to 2Gb/s are becoming more widely '
                                                       'available as the process continues',
-                                                      2022],
+                                                      2024],
                                          'intl': [ 'landing points for the Quintillion Subsea Cable Network, TERRA SW, '
                                                    'AU-Aleutian, KKFL, AKORN, Alaska United -West, & -East & '
                                                    '-Southeast, North Star, Lynn Canal Fiber, KetchCar 1, PC-1, SCCN, '
@@ -17904,8 +17697,9 @@ P1_CNTR = \
                                                                        'Midway Islands, Navassa Island, Palmyra Atoll, '
                                                                        'Wake Island',
                                                                 'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:UM'},
-                                                       'nameset': [ 'baker\xa0island',
-                                                                    'united states minor outlying islands'],
+                                                       'nameset': [ 'united states minor outlying islands',
+                                                                    'united states pacific island wildlife refuges',
+                                                                    'united states pacific island wildlife refuges,'],
                                                        'tel': {}},
                                             'mcc': ['310', '311', '312', '313', '314', '315', '316'],
                                             'mccmnc': [],
@@ -17940,8 +17734,7 @@ P1_CNTR = \
                                                         'region': 'Central America and the Caribbean',
                                                         'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:VI',
                                                         'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/virgin-islands/'},
-                                               'nameset': [ 'the virgin islands of the united states',
-                                                            'united states virgin islands',
+                                               'nameset': [ 'united states virgin islands',
                                                             'virgin islands',
                                                             'virgin islands of the united states'],
                                                'tel': { 'code': '1340',
@@ -17995,10 +17788,7 @@ P1_CNTR = \
                                    'region': 'South America',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:UY',
                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/uruguay/'},
-                          'nameset': [ 'oriental republic of uruguay',
-                                       'república oriental del uruguay',
-                                       'the oriental republic of uruguay',
-                                       'uruguay'],
+                          'nameset': ['oriental republic of uruguay', 'república oriental del uruguay', 'uruguay'],
                           'tel': { 'code': '598',
                                    'domestic': [ 'fixed-line is 36 per 100 and mobile-cellular teledensity 140 per 100 '
                                                  'persons',
@@ -18013,38 +17803,41 @@ P1_CNTR = \
                                                 'the government and telecom regulator have introduced a range of '
                                                 'measures to help develop the deployment of fiber infrastructure, '
                                                 'partly in a bid to encourage economic growth and stimulate e-commerce',
-                                                'fiber accounted for about 77% of all fixed and fixed-wireless '
-                                                'broadband connections as of June 2020',
+                                                'fiber accounted for over 95% of all fixed and fixed-wireless '
+                                                'broadband connections as of December 2023',
                                                 'with investment projected to reach $800 million, the state-owned '
-                                                'incumbent Antel is expected to provide national FttP coverage by '
-                                                'early 2022',
+                                                'incumbent Antel is expected to provide national Fiber to the premises '
+                                                '(FttP) coverage by 2023',
                                                 'together with the FttP network, the opening of the submarine cable '
                                                 'system in early 2012 and August 2017 have helped boost Uruguay’s '
                                                 'internet bandwidth, and increase the data rate available to end-users',
-                                                'Uruguay is one of the very few Latin American countries where the '
-                                                'local fixed-line market is neither privatized nor liberalized',
-                                                'other segments of the telecom market have been opened to competition, '
-                                                'including international long-distance telephony, mobile telephony, '
-                                                'and fixed-wireless broadband',
-                                                'Uruguay is also one of the few countries in the world where broadband '
-                                                'access via cable modem does not exist',
-                                                'although cable networks are well equipped technologically, and '
-                                                'digital cable TV is widely available, telecom legislation prohibits '
-                                                'data transmission over pay TV networks',
-                                                'the government announced in December 2020 that it intended to '
-                                                'introduce changes to the law to permit pay TV providers to offer '
-                                                'internet and telephony packages over their own networks',
+                                                'changes in legislation in 2020 allowed cable companies to provide '
+                                                'home internet service for the first time, ending the state monopoly',
+                                                "Uruguay's regulator authorized five cable companies to provide "
+                                                'broadband service',
+                                                "while the country's broadband network is state owned, other segments "
+                                                'of the telecom market have been opened to competition, including '
+                                                'international long-distance telephony, mobile telephony, and '
+                                                'fixed-wireless broadband',
+                                                'cable networks are well equipped technologically, and digital cable '
+                                                'TV is widely available, telecom legislation prohibits data '
+                                                'transmission over pay TV networks',
                                                 'all three operators offer mobile broadband through 3G and LTE '
                                                 'networks',
                                                 'operators have achieved nationwide 3G coverage and the number of '
                                                 'mobile broadband subscribers continues to grow',
                                                 'at the end of 2019, spectrum in the 5G-suitable range was auctioned, '
                                                 'enabling operators to launch 5G services',
-                                                'the regulator is working on a spectrum and connectivity policy that '
-                                                'emphasizes 5G',
+                                                "Uruguay's regulators held a 5G spectrum auction in June 2023",
+                                                'the three incumbent operators each acquired 100 Ghz in the 3.5 GHz '
+                                                'midband',
+                                                "in 2023, Uruguay's state telecom has deployed hundreds of 5G radio "
+                                                'bases, covering all regional capitals',
                                                 2021],
                                    'intl': [ 'landing points for the Unisor, Tannat, and Bicentenario submarine cable '
                                              'system providing direct connectivity to Brazil and Argentina',
+                                             'the Firmina cable, which landed in 2023, allowed for direct connectivity '
+                                             'to the United States',
                                              'Bicentenario 2012 and Tannat 2017 cables helped end-users with Internet '
                                              'bandwidth',
                                              'satellite earth stations - 2 Intelsat (Atlantic Ocean)',
@@ -18084,12 +17877,11 @@ P1_CNTR = \
                              'nameset': [ "o'zbekiston",
                                           "o'zbekiston respublikasi",
                                           'republic of uzbekistan',
-                                          'the republic of uzbekistan',
                                           'uzbekistan'],
                              'tel': { 'code': '998',
-                                      'domestic': [ 'fixed-line nearly 17 per 100 persons and mobile-cellular '
-                                                    'teledensity of 100 per 100 persons',
-                                                    2021],
+                                      'domestic': [ 'fixed-line nearly 16 per 100 persons and mobile-cellular '
+                                                    'teledensity of 103 per 100 persons',
+                                                    2022],
                                       'general': [ 'Uzbekistan’s telecom markets both wireline and wireless have been '
                                                    'playing "catch up" in terms of their development following the '
                                                    "country's independence from the former Soviet Union",
@@ -18111,9 +17903,7 @@ P1_CNTR = \
                                                    'terms of penetration, revenue, and growth',
                                                    'there are four major operators providing a modicum of competition',
                                                    'three of the four are government owned entities',
-                                                   'the mobile market is expected to reach 100% penetration in 2023 a '
-                                                   '50% increase in the last five years',
-                                                   2022],
+                                                   2024],
                                       'intl': [ 'linked by fiber-optic cable or microwave radio relay with CIS member '
                                                 'states and to other countries by leased connection via the Moscow '
                                                 'international gateway switch',
@@ -18156,10 +17946,7 @@ P1_CNTR = \
                                    'region': 'Oceania',
                                    'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:VU',
                                    'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/vanuatu/'},
-                          'nameset': [ 'republic of vanuatu',
-                                       'ripablik blong vanuatu',
-                                       'the republic of vanuatu',
-                                       'vanuatu'],
+                          'nameset': ['republic of vanuatu', 'ripablik blong vanuatu', 'vanuatu'],
                           'tel': { 'code': '678',
                                    'domestic': [ 'fixed-line teledensity is 1 per 100 and mobile-cellular 78 per 100',
                                                  2021],
@@ -18214,7 +18001,6 @@ P1_CNTR = \
                                        'la santa sede (stato della citta del vaticano)',
                                        'santa sede',
                                        'santa sede (citta del vaticano)',
-                                       'the holy see',
                                        'the holy see (vatican city state)',
                                        'vatican'],
                           'tel': { 'code': '39',
@@ -18264,35 +18050,16 @@ P1_CNTR = \
                                      'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/venezuela/'},
                             'nameset': [ 'bolivarian republic of venezuela',
                                          'república bolivariana de venezuela',
-                                         'the bolivarian republic of venezuela',
                                          'venezuela'],
                             'tel': { 'code': '58',
-                                     'domestic': [ 'fixed-line is 11 per 100 and mobile-cellular telephone '
-                                                   'subscribership is 60 per 100 persons',
+                                     'domestic': [ 'fixed-line is 10 per 100 and mobile-cellular telephone '
+                                                   'subscribership is 67 per 100 persons',
                                                    2021],
-                                     'general': [ 'Venezuela’s fixed-line teledensity was relatively high for the '
-                                                  'region before the steady growth in the number of lines came to an '
-                                                  'end in 2015',
-                                                  'since then, the number of lines has plummeted, and by late 2021 '
-                                                  'teledensity had fallen to about 17.3%',
-                                                  'the cause is largely linked to the country’s ongoing economic '
-                                                  'troubles, which have compelled many people to terminate fixed-line '
-                                                  'telecom services and others still to flee the country',
-                                                  'these pressures have also distorted sector revenue and have placed '
-                                                  'into disarray operators’ investment plans aimed at improving '
-                                                  'networks and expanding the reach and capabilities of new '
-                                                  'technologies and services',
-                                                  'the fixed broadband penetration rate is lower than the regional '
-                                                  'average, while data speeds are also relatively low',
-                                                  'there is no effective competition in the provision of DSL, and as a '
-                                                  'result the state-owned incumbent CANTV has had little incentive to '
-                                                  'improve services from its meager revenue streams',
-                                                  'mobile penetration in Venezuela is also below the regional average',
-                                                  'the number of mobile subscribers fell by an estimated 2.4% in 2020, '
-                                                  'year-on-year, as subscribers terminated services in a bid to reduce '
-                                                  'discretionary spending, this decline is expected to continue into '
-                                                  '2022, with subscriber growth not returning until 2023',
-                                                  2021],
+                                     'general': [ 'Venezuela’s fixed-line penetration was relatively high for the '
+                                                  'region at 7.8 million lines in 2014 but the steady growth in the '
+                                                  'number of lines came to an end in 2015',
+                                                  'since then, the number of fixed lines has plummeted to 2.7 million',
+                                                  2022],
                                      'intl': [ 'landing points for the Venezuela Festoon, ARCOS, PAN-AM, SAC, '
                                                'GlobeNet, ALBA-1 and Americas II submarine cable system providing '
                                                'connectivity to the Caribbean, Central and South America, and US',
@@ -18336,7 +18103,6 @@ P1_CNTR = \
                           'nameset': [ 'cong hoa xa hoi chu nghia viet nam',
                                        'socialist republic of viet nam',
                                        'socialist republic of vietnam',
-                                       'the socialist republic of viet nam',
                                        'viet nam',
                                        'vietnam'],
                           'tel': { 'code': '84',
@@ -18416,7 +18182,6 @@ P1_CNTR = \
                                              'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/wallis-and-futuna/'},
                                     'nameset': [ 'territoire des iles wallis et futuna',
                                                  'territory of the wallis and futuna islands',
-                                                 'the territory of the wallis and futuna islands',
                                                  'wallis and futuna',
                                                  'wallis et futuna'],
                                     'tel': { 'code': '681',
@@ -18451,9 +18216,7 @@ P1_CNTR = \
                       'dep': 'MA',
                       'infos': { 'codes': {'cc3': 'ESH', 'ccn': '732', 'genc': 'WI', 'stan': 'ESH'},
                                  'geo': {'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:EH'},
-                                 'nameset': [ 'sahrawi arab democratic republic',
-                                              'the sahrawi arab democratic republic',
-                                              'western sahara'],
+                                 'nameset': ['sahrawi arab democratic republic', 'western sahara'],
                                  'tel': {}},
                       'mcc': ['604'],
                       'mccmnc': [],
@@ -18482,11 +18245,7 @@ P1_CNTR = \
                                  'region': 'Middle East',
                                  'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:YE',
                                  'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/yemen/'},
-                        'nameset': [ 'al jumhuriyah al yamaniyah',
-                                     'al yaman',
-                                     'republic of yemen',
-                                     'the republic of yemen',
-                                     'yemen'],
+                        'nameset': ['al jumhuriyah al yamaniyah', 'al yaman', 'republic of yemen', 'yemen'],
                         'tel': { 'code': '967',
                                  'domestic': [ 'fixed-line teledensity is 4 per 100 but mobile cellular is 46 per 100',
                                                2021],
@@ -18551,7 +18310,7 @@ P1_CNTR = \
                                   'region': 'Africa',
                                   'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:ZM',
                                   'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/zambia/'},
-                         'nameset': ['republic of zambia', 'the republic of zambia', 'zambia'],
+                         'nameset': ['republic of zambia', 'zambia'],
                          'tel': { 'code': '260',
                                   'domestic': [ 'fixed-line teledensity less than 1 per 100 and mobile-cellular is 100 '
                                                 'per 100',
@@ -18611,7 +18370,7 @@ P1_CNTR = \
                                     'region': 'Africa',
                                     'url_region': 'https://en.wikipedia.org/wiki/ISO_3166-2:ZW',
                                     'url_wfb': 'https://www.cia.gov/the-world-factbook/countries/zimbabwe/'},
-                           'nameset': ['republic of zimbabwe', 'the republic of zimbabwe', 'zimbabwe'],
+                           'nameset': ['republic of zimbabwe', 'zimbabwe'],
                            'tel': { 'code': '263',
                                     'domestic': [ 'fixed-line teledensity is 2 per 100 and mobile-cellular is 89 per '
                                                   '100',

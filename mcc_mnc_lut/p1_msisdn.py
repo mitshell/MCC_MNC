@@ -261,6 +261,7 @@ P1_MSISDN = \
   '88213': ['EMSAT (Mobile Satellite service)'],
   '88216': ['Thuraya (Mobile Satellite service)'],
   '886': ['Taiwan'],
+  '888': [],
   '90': ['Turkey'],
   '90392': ['Northern Cyprus'],
   '91': ['India'],

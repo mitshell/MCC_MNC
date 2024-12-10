@@ -100,8 +100,7 @@
         "nameset": [
           "andorra",
           "principality of andorra",
-          "principat d'andorra",
-          "the principality of andorra"
+          "principat d'andorra"
         ],
         "tel": {
           "code": "376",
@@ -210,7 +209,6 @@
         },
         "nameset": [
           "al imarat al arabiyah al muttahidah",
-          "the united arab emirates",
           "united arab emirates"
         ],
         "tel": {
@@ -330,8 +328,7 @@
           "islamic republic of afghanistan",
           "islamic republic of afghanistan (prior to 15 august 2021); current country name disputed",
           "jamhuri-ye islami-ye afghanistan",
-          "jamhuri-ye islami-ye afghanistan (prior to 15 august 2021; current country name is disputed)",
-          "the islamic republic of afghanistan"
+          "jamhuri-ye islami-ye afghanistan (prior to 15 august 2021; current country name is disputed)"
         ],
         "tel": {
           "code": "93",
@@ -694,8 +691,7 @@
           "albania",
           "republic of albania",
           "republika e shqiperise",
-          "shqiperia",
-          "the republic of albania"
+          "shqiperia"
         ],
         "tel": {
           "code": "355",
@@ -808,22 +804,22 @@
           "armenia",
           "hayastan",
           "hayastani hanrapetut'yun",
-          "republic of armenia",
-          "the republic of armenia"
+          "republic of armenia"
         ],
         "tel": {
           "code": "374",
           "domestic": [
-            "roughly 15 per 100 fixed-line and 129 per 100 mobile-cellular",
+            "roughly 13 per 100 fixed-line and 135 per 100 mobile-cellular",
             "reliable fixed-line and mobile-cellular services are available across Yerevan and in major cities and towns",
             "mobile-cellular coverage available in most rural areas",
-            2021
+            2022
           ],
           "general": [
-            "Armenia\u2019s telecom sector was able to post in the mobile and broadband segments",
-            "its fixed-line penetration continues to slide downwards, with the rollout of fiber networks which have encouraged the increase in bundled services",
-            "the fixed broadband market remains undeveloped due to the lack of underlying infrastructure outside the main cities",
-            2021
+            "the telecom sector was able to post modest gains in the mobile and broadband segments",
+            "fixed-line services continue to decrease with the rollout of fiber networks",
+            "the fixed broadband market remains undeveloped due to the lack of infrastructure outside the main cities",
+            "mobile broadband is expected increase by 2026",
+            2024
           ],
           "intl": [
             "Yerevan is connected to the Caucasus Cable System fiber-optic cable through Georgia and Iran to Europe",
@@ -929,8 +925,7 @@
         "nameset": [
           "angola",
           "republic of angola",
-          "republica de angola",
-          "the republic of angola"
+          "republica de angola"
         ],
         "tel": {
           "code": "244",
@@ -1043,8 +1038,7 @@
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/antarctica/"
         },
         "nameset": [
-          "antarctica",
-          "antarctica (all land and ice shelves south of the"
+          "antarctica"
         ],
         "tel": {
           "domestic": [
@@ -1141,8 +1135,7 @@
         "nameset": [
           "argentina",
           "argentine republic",
-          "rep\u00fablica argentina",
-          "the argentine republic"
+          "rep\u00fablica argentina"
         ],
         "tel": {
           "code": "54",
@@ -1267,15 +1260,13 @@
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/american-samoa/"
         },
         "nameset": [
-          "american samoa",
-          "territory of american samoa",
-          "the territory of american samoa"
+          "american samoa"
         ],
         "tel": {
           "code": "1684",
           "domestic": [
-            "nearly 22 per 100 fixed-line teledensity",
-            2020
+            "nearly 22 per 100 fixed-line tele density",
+            2021
           ],
           "general": [
             "American Samoa Telecommunications Authority, ASTCA, supplies telecommunication services to the residents of the American Samoan islands, a territory of the United States, which are found in a remote area of the Pacific Ocean",
@@ -1378,8 +1369,7 @@
           "austria",
           "oesterreich",
           "republic of austria",
-          "republik oesterreich",
-          "the republic of austria"
+          "republik oesterreich"
         ],
         "tel": {
           "code": "43",
@@ -1523,8 +1513,7 @@
         },
         "nameset": [
           "australia",
-          "commonwealth of australia",
-          "the commonwealth of australia"
+          "commonwealth of australia"
         ],
         "tel": {
           "code": "61",
@@ -1852,25 +1841,24 @@
           "azarbaycan",
           "azarbaycan respublikasi",
           "azerbaijan",
-          "republic of azerbaijan",
-          "the republic of azerbaijan"
+          "republic of azerbaijan"
         ],
         "tel": {
           "code": "994",
           "domestic": [
             "16 fixed-lines subscriptions per 100 persons",
-            "mobile-cellular subscriptions of 105 telephones per 100 persons",
-            2021
+            "mobile-cellular subscriptions of 107 telephones per 100 persons",
+            2022
           ],
           "general": [
-            "in spite of the telecom sector being one of the major contributors to Azerbaijan\u2019s non-oil GDP, overall development, growth, and investment in the sector has been held back by years of political and civil unrest coupled with endemic corruption",
-            "mobile penetration rates reached 100% as far back as 2011 but have largely stagnated since then",
-            "the Mobile Network Operators (MNOs) are slowly extending the reach of their LTE networks around the country, and this increased coverage (along with access to faster data-based services) is expected to produce a moderate resurgence for both mobile and mobile broadband over the next few years as customers migrate from 3G to 4G. 5G services are still some ways off, as the demand for high-speed data and fast broadband can easily be met by existing capacity on LTE networks",
-            "fixed-line teledensity continues to drop down each year as customers consolidate their telecommunications services around the mobile platform",
-            "the rate of decline is comparatively slower than other countries, since Azerbaijan has a relatively high proportion of (87%) of fixed-line broadband customers still on DSL",
-            "fiber is gradually being rolled out in urban areas, and this makes up the bulk of the growth being seen in the overall fixed broadband market",
+            "the telecom sector was one of the major contributors to Azerbaijan\u2019s non-oil GDP, overall development, growth, and investment",
+            "mobile usage rates reached 100% as far back as 2011, but have largely stagnated since then",
+            "the Mobile Network Operators (MNOs) are slowly extending the reach of their long-term evolution (LTE) networks around the country, and this increased coverage (along with access to faster data-based services) is expected to produce a moderate resurgence for both mobile and mobile broadband over the next few years as customers migrate from 3G to 4G. 5G services are still some ways off, as the demand for high-speed data and fast broadband can easily be met by existing capacity on LTE networks",
+            "fixed-line tele density continues to drop down each year as customers consolidate their telecommunications services around the mobile platform",
+            "yet the rate of decline is comparatively slow to other countries, since Azerbaijan has a relatively high proportion of (87%) of fixed-line broadband customers still on DSL",
+            "Fiber (12% of fixed broadband connections) is gradually being rolled out in urban areas, and this makes up the bulk of the (limited) growth being seen in the overall fixed broadband market",
             "DSL\u2019s predominance, however, will serve to keep Azerbaijan\u2019s average access speeds in the sub-10Mbps range for the foreseeable future",
-            2020
+            2024
           ],
           "intl": [
             "Azerbaijan\u2019s largest mobile network operator ( ) launched trial 5G mobile services in Baku on 27 December 2022",
@@ -2213,8 +2201,7 @@
         "nameset": [
           "bangladesh",
           "gana prajatantri bangladesh",
-          "people's republic of bangladesh",
-          "the people's republic of bangladesh"
+          "people's republic of bangladesh"
         ],
         "tel": {
           "code": "880",
@@ -2348,8 +2335,7 @@
           "belgium",
           "kingdom of belgium",
           "royaume de belgique",
-          "royaume de belgique (french)/koninkrijk belgie (dutch)/koenigreich belgien (german)",
-          "the kingdom of belgium"
+          "royaume de belgique (french)/koninkrijk belgie (dutch)/koenigreich belgien (german)"
         ],
         "tel": {
           "code": "32",
@@ -2612,8 +2598,7 @@
         "nameset": [
           "bulgaria",
           "republic of bulgaria",
-          "republika bulgaria",
-          "the republic of bulgaria"
+          "republika bulgaria"
         ],
         "tel": {
           "code": "359",
@@ -2738,8 +2723,7 @@
           "al bahrayn",
           "bahrain",
           "kingdom of bahrain",
-          "mamlakat al bahrayn",
-          "the kingdom of bahrain"
+          "mamlakat al bahrayn"
         ],
         "tel": {
           "code": "973",
@@ -2828,7 +2812,7 @@
           },
           "capital": {
             "coord": "3 25 S, 29 55 E",
-            "name": "Gitega (political capital), Bujumbura (commercial capital); note - in January 2019, the Burundian parliament voted to make Gitega the political capital of the country while Bujumbura would remain its economic capital; as of 2023, the government's move to Gitega remains incomplete",
+            "name": "Gitega (political capital), Bujumbura (commercial capital)",
             "time_diff": "UTC+2"
           },
           "coast": {
@@ -2849,10 +2833,10 @@
         },
         "nameset": [
           "burundi",
-          "republic of burundi",
-          "republique du burundi",
-          "republique du burundi (french)/ republika y'u burundi (kirundi)",
-          "the republic of burundi"
+          "r&eacute;publique du burundi",
+          "r&eacute;publique du burundi (french)/ republika y'u burundi (kirundi)",
+          "randeacute;publique du burundi",
+          "republic of burundi"
         ],
         "tel": {
           "code": "257",
@@ -2982,9 +2966,9 @@
         },
         "nameset": [
           "benin",
-          "republic of benin",
-          "republique du benin",
-          "the republic of benin"
+          "r&eacute;publique du benin",
+          "randeacute;publique du benin",
+          "republic of benin"
         ],
         "tel": {
           "code": "229",
@@ -3090,13 +3074,14 @@
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/saint-barthelemy/"
         },
         "nameset": [
-          "collectivite d'outre mer de saint-barthelemy",
+          "collectivit&eacute; d'outre mer de saint-barth&eacute;lemy",
+          "collectivitandeacute; d'outre mer de saint-barthandeacute;lemy",
           "collectivity of saint-barth\u00e9lemy",
           "overseas collectivity of saint barthelemy",
           "saint barthelemy",
           "saint barth\u00e9lemy",
-          "saint-barthelemy",
-          "the collectivity of saint-barth\u00e9lemy"
+          "saint-barth&eacute;lemy",
+          "saint-barthandeacute;lemy"
         ],
         "tel": {
           "code": "590",
@@ -3323,10 +3308,7 @@
         "nameset": [
           "brunei",
           "brunei darussalam",
-          "nation of brunei the abode of peace",
-          "nation of brunei, the abode of peace",
-          "negara brunei darussalam",
-          "the nation of brunei, the abode of peace"
+          "negara brunei darussalam"
         ],
         "tel": {
           "code": "673",
@@ -3439,8 +3421,7 @@
         "nameset": [
           "bolivia",
           "estado plurinacional de bolivia",
-          "plurinational state of bolivia",
-          "the plurinational state of bolivia"
+          "plurinational state of bolivia"
         ],
         "tel": {
           "code": "591",
@@ -3633,8 +3614,7 @@
           "brasil",
           "brazil",
           "federative republic of brazil",
-          "rep\u00fablica federativa do brasil",
-          "the federative republic of brazil"
+          "rep\u00fablica federativa do brasil"
         ],
         "tel": {
           "code": "55",
@@ -3786,8 +3766,7 @@
         "nameset": [
           "bahamas",
           "commonwealth of the bahamas",
-          "the bahamas",
-          "the commonwealth of the bahamas"
+          "the bahamas"
         ],
         "tel": {
           "code": "1242",
@@ -3893,8 +3872,7 @@
           "bhutan",
           "druk gyalkhap",
           "druk yul",
-          "kingdom of bhutan",
-          "the kingdom of bhutan"
+          "kingdom of bhutan"
         ],
         "tel": {
           "code": "975",
@@ -4048,8 +4026,7 @@
         },
         "nameset": [
           "botswana",
-          "republic of botswana",
-          "the republic of botswana"
+          "republic of botswana"
         ],
         "tel": {
           "code": "267",
@@ -4167,22 +4144,22 @@
           "byelarus' (belarusian)/ belarus' (russian)",
           "republic of belarus",
           "respublika byelarus'",
-          "respublika byelarus' (belarusian)/ respublika belarus' (russian)",
-          "the republic of belarus"
+          "respublika byelarus' (belarusian)/ respublika belarus' (russian)"
         ],
         "tel": {
           "code": "375",
           "domestic": [
-            "fixed-line teledensity is improving although rural areas continue to be underserved, approximately 45 per 100 fixed-line",
-            "mobile-cellular teledensity now roughly 123 telephones per 100 persons",
-            2021
+            "fixed-line tele density 44 per 100 fixed-line",
+            "mobile-cellular tele density 123 telephones per 100 persons",
+            2022
           ],
           "general": [
-            "the Government of Belarus has successfully promoted the migration to an all-IP platform as part of a wider effort towards a digital transformation for the economy",
-            "the state-supported infrastructure operator beCloud has built an extensive fiber network, which reaches all but the smallest settlements in the country",
-            "Belarus has the second-highest fiber subscription rate in Europe, behind only Iceland",
-            "LTE coverage is almost universal, while considerable progress has also been made in developing 5G services",
-            2021
+            "the government of Belarus has successfully promoted the migration to an all-internet protocol (IP) platform as part of a wider effort towards a digital transformation for the economy",
+            "the state-supported infrastructure operator has built an extensive fiber network which reaches all but the smallest settlements in the country",
+            "Belarus has the second highest fiber usage rate in Europe, behind only Iceland",
+            "long-term evolution (LTE) coverage is almost universal, while considerable progress has also been made in developing 5G services",
+            "telcos have had to invest in network infrastructure while managing a significant fall in the value of the local currency (particularly against the euro and the US dollar)",
+            2024
           ],
           "intl": [
             "Belarus is landlocked and therefore a member of the Trans-European Line (TEL), Trans-Asia-Europe (TAE) fiber-optic line, and has access to the Trans-Siberia Line (TSL)",
@@ -4413,8 +4390,8 @@
         "tel": {
           "code": "1",
           "domestic": [
-            "Nearly 34 per 100 fixed-line and 86 per 100 mobile-cellular teledensity",
-            2021
+            "Nearly 29 per 100 fixed-line and 91 per 100 mobile-cellular teledensity",
+            2022
           ],
           "general": [
             "the Canadian telecom market continues to show steady development as operators invest in network upgrades",
@@ -4427,7 +4404,7 @@
             "Canadians have provided for LTE and LTE-A infrastructure",
             "despite topographical challenges and the remoteness of many areas, the major players effectively offer 99% population coverage with LTE",
             "operators now provide up to 70% population coverage with 5G",
-            2022
+            2024
           ],
           "intl": [
             "landing points for the Nunavut Undersea Fiber Optic Network System, Greenland Connect, Persona, GTT Atlantic, and Express, KetchCan 1 Submarine Fiber Cable system, St Pierre and Miquelon Cable submarine cables providing links to the US and Europe",
@@ -4526,6 +4503,9 @@
         "302710",
         "302720",
         "302721",
+        "302722",
+        "302723",
+        "302724",
         "302730",
         "302740",
         "302741",
@@ -4543,6 +4523,8 @@
         "302911",
         "302920",
         "302940",
+        "302970",
+        "302971",
         "302990",
         "302991",
         "302996",
@@ -4603,8 +4585,7 @@
           "cocos (keeling) islands",
           "cocos islands",
           "territory of cocos",
-          "territory of cocos (keeling) islands",
-          "the territory of cocos (keeling) islands"
+          "territory of cocos (keeling) islands"
         ],
         "tel": {
           "domestic": [
@@ -4777,9 +4758,9 @@
         "nameset": [
           "democratic republic of the congo",
           "drc",
-          "rdc",
-          "republique democratique du congo",
-          "the democratic republic of the congo"
+          "r&eacute;publique d&eacute;mocratique du congo",
+          "randeacute;publique dandeacute;mocratique du congo",
+          "rdc"
         ],
         "tel": {
           "code": "243",
@@ -4899,8 +4880,8 @@
         },
         "nameset": [
           "central african republic",
-          "republique centrale africaine",
-          "the central african republic"
+          "r&eacute;publique centrafricaine",
+          "randeacute;publique centrafricaine"
         ],
         "tel": {
           "code": "236",
@@ -5021,10 +5002,10 @@
         "nameset": [
           "congo",
           "congo (brazzaville)",
+          "r&eacute;publique du congo",
+          "randeacute;publique du congo",
           "republic of the congo",
-          "republique du congo",
-          "the congo",
-          "the republic of the congo"
+          "the congo"
         ],
         "tel": {
           "general": [
@@ -5126,8 +5107,7 @@
           "schweizerische eidgenossenschaft",
           "schweizerische eidgenossenschaft (german)/ confederation suisse (french)/ confederazione svizzera (italian)/ confederaziun svizra (romansh)",
           "swiss confederation",
-          "switzerland",
-          "the swiss confederation"
+          "switzerland"
         ],
         "tel": {
           "code": "41",
@@ -5211,6 +5191,7 @@
         "22870",
         "22871",
         "22872",
+        "22873",
         "22898",
         "22899"
       ],
@@ -5283,10 +5264,9 @@
           "cote d'ivoire",
           "c\u00f4te d'ivoire",
           "ivory coast",
-          "republic of cote d'ivoire",
-          "republic of c\u00f4te d'ivoire",
-          "republique de cote d'ivoire",
-          "the republic of c\u00f4te d'ivoire"
+          "r&eacute;publique de c\u00f4te d'ivoire",
+          "randeacute;publique de c\u00f4te d'ivoire",
+          "republic of c\u00f4te d'ivoire"
         ],
         "tel": {
           "code": "225",
@@ -5404,8 +5384,7 @@
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/cook-islands/"
         },
         "nameset": [
-          "cook islands",
-          "the cook islands"
+          "cook islands"
         ],
         "tel": {
           "code": "682",
@@ -5520,8 +5499,7 @@
         "nameset": [
           "chile",
           "republic of chile",
-          "rep\u00fablica de chile",
-          "the republic of chile"
+          "rep\u00fablica de chile"
         ],
         "tel": {
           "code": "56",
@@ -5673,10 +5651,10 @@
         "nameset": [
           "cameroon",
           "cameroun/cameroon",
-          "republic of cameroon",
-          "republique du cameroun",
-          "republique du cameroun (french)/republic of cameroon (english)",
-          "the republic of cameroon"
+          "r&eacute;publique du cameroun",
+          "r&eacute;publique du cameroun (french)/republic of cameroon (english)",
+          "randeacute;publique du cameroun",
+          "republic of cameroon"
         ],
         "tel": {
           "code": "237",
@@ -5808,7 +5786,6 @@
         "nameset": [
           "china",
           "people's republic of china",
-          "the people's republic of china",
           "zhongguo",
           "zhonghua renmin gongheguo"
         ],
@@ -5948,8 +5925,7 @@
         "nameset": [
           "colombia",
           "republic of colombia",
-          "rep\u00fablica de colombia",
-          "the republic of colombia"
+          "rep\u00fablica de colombia"
         ],
         "tel": {
           "code": "57",
@@ -6092,8 +6068,7 @@
         "nameset": [
           "costa rica",
           "republic of costa rica",
-          "rep\u00fablica de costa rica",
-          "the republic of costa rica"
+          "rep\u00fablica de costa rica"
         ],
         "tel": {
           "code": "506",
@@ -6235,8 +6210,7 @@
         "nameset": [
           "cuba",
           "republic of cuba",
-          "rep\u00fablica de cuba",
-          "the republic of cuba"
+          "rep\u00fablica de cuba"
         ],
         "tel": {
           "domestic": [
@@ -6351,8 +6325,7 @@
           "cabo verde",
           "cape verde",
           "republic of cabo verde",
-          "republica de cabo verde",
-          "the republic of cabo verde"
+          "republica de cabo verde"
         ],
         "tel": {
           "code": "238",
@@ -6466,8 +6439,7 @@
           "curacao (dutch)/ korsou (papiamento)",
           "cura\u00e7ao",
           "land curacao",
-          "land curacao (dutch)/ pais korsou (papiamento)",
-          "the country of cura\u00e7ao"
+          "land curacao (dutch)/ pais korsou (papiamento)"
         ],
         "tel": {
           "domestic": [
@@ -6589,8 +6561,7 @@
         },
         "nameset": [
           "christmas island",
-          "territory of christmas island",
-          "the territory of christmas island"
+          "territory of christmas island"
         ],
         "tel": {
           "domestic": [
@@ -6758,8 +6729,7 @@
           "kypriaki dimokratia (greek)/ kibris cumhuriyeti (turkish)",
           "kypros",
           "kypros (greek)/ kibris (turkish)",
-          "republic of cyprus",
-          "the republic of cyprus"
+          "republic of cyprus"
         ],
         "tel": {
           "code": "357",
@@ -6877,21 +6847,18 @@
           "ceska republika",
           "cesko",
           "czech republic",
-          "czechia",
-          "the czech republic"
+          "czechia"
         ],
         "tel": {
           "code": "420",
           "domestic": [
-            "roughly 12 fixed-telephone subscriptions per 100 inhabitants and mobile telephone usage of 125 per 100 inhabitants",
-            2021
+            "roughly 12 fixed-telephone subscriptions per 100 inhabitants and mobile telephone usage of 128 per 100 inhabitants",
+            2022
           ],
           "general": [
-            "the telecom market has attracted investment from among the key regional telcos",
             "telcos in the Czech Republic have become multi-service providers, offering a full range of fixed and mobile services",
-            "this has enabled the reach of their 5G networks",
-            "this process has also been assisted by them closing down 3G networks and reforming spectrum for 5G and LTE use",
-            2023
+            "this has enabled the Mobile Network Operators (MNOs) to expand the reach of their 5G networks while they have been closing down 3G networks and repurposing the internet for 5G and long-term evolution (LTE) use",
+            2024
           ],
           "intl": [
             "satellite earth stations - 6 (2 Intersputnik - Atlantic and Indian Ocean regions, 1 Intelsat, 1 Eutelsat, 1 Inmarsat, 1 Globalstar)",
@@ -7012,8 +6979,7 @@
           "bundesrepublik deutschland",
           "deutschland",
           "federal republic of germany",
-          "germany",
-          "the federal republic of germany"
+          "germany"
         ],
         "tel": {
           "code": "49",
@@ -7167,10 +7133,10 @@
         "nameset": [
           "djibouti",
           "djibouti (french)/ jibuti (arabic)",
-          "republic of djibouti",
-          "republique de djibouti",
-          "republique de djibouti (french)/ jumhuriyat jibuti (arabic)",
-          "the republic of djibouti"
+          "r&eacute;publique de djibouti",
+          "r&eacute;publique de djibouti (french)/ jumhuriyat jibuti (arabic)",
+          "randeacute;publique de djibouti",
+          "republic of djibouti"
         ],
         "tel": {
           "code": "253",
@@ -7285,8 +7251,7 @@
           "danmark",
           "denmark",
           "kingdom of denmark",
-          "kongeriget danmark",
-          "the kingdom of denmark"
+          "kongeriget danmark"
         ],
         "tel": {
           "code": "45",
@@ -7431,8 +7396,7 @@
         },
         "nameset": [
           "commonwealth of dominica",
-          "dominica",
-          "the commonwealth of dominica"
+          "dominica"
         ],
         "tel": {
           "code": "1767",
@@ -7553,8 +7517,7 @@
           "dominican republic",
           "la dominicana",
           "rep\u00fablica dominicana",
-          "the dominican",
-          "the dominican republic"
+          "the dominican"
         ],
         "tel": {
           "code": "1809",
@@ -7683,8 +7646,7 @@
           "al jaza'ir",
           "al jumhuriyah al jaza'iriyah ad dimuqratiyah ash sha'biyah",
           "algeria",
-          "people's democratic republic of algeria",
-          "the people's democratic republic of algeria"
+          "people's democratic republic of algeria"
         ],
         "tel": {
           "code": "213",
@@ -7810,8 +7772,7 @@
         "nameset": [
           "ecuador",
           "republic of ecuador",
-          "rep\u00fablica del ecuador",
-          "the republic of ecuador"
+          "rep\u00fablica del ecuador"
         ],
         "tel": {
           "code": "593",
@@ -7935,20 +7896,20 @@
           "eesti",
           "eesti vabariik",
           "estonia",
-          "republic of estonia",
-          "the republic of estonia"
+          "republic of estonia"
         ],
         "tel": {
           "code": "372",
           "domestic": [
-            "22 per 100 for fixed-line subscribership and approximately 149 per 100 for mobile-cellular",
-            2021
+            "20 per 100 for fixed-line subscribership and approximately 155 per 100 for mobile-cellular",
+            2022
           ],
           "general": [
-            "the competitive telecom market continues to progress with a range of regulatory measures which have enabled alternative operators to chip away at the fixed-line market share",
-            "fixed-line infrastructure upgrades have been focused on fiber, and the legacy DSL network has gradually been replaced",
-            "limited commercial 5G deployments have been made though an expansion of service availability awaits the delayed auction of spectrum in the 3.5GHz band, which is expected to be held later in 2021",
-            2021
+            "investment in Estonia\u2019s telecom market has been focused on fixed-line infrastructure upgrades, and the deployment of 5G services",
+            "fixed broadband subscribers are gradually migrating from digital subscriber lines (DSL) to fiber, with the legacy copper being replaced",
+            "the Mobile Network Operators (MNOs) have comprehensive long-term evolution (LTE) infrastructure in place, and have in recent years channeled investment to 5G",
+            "several 5G trials have been undertaken in recent years, though commercial service launches have been restricted by the lack of available internet services",
+            2024
           ],
           "intl": [
             "landing points for the EE-S-1, EESF-3, Baltic Sea Submarine Cable, FEC and EESF-2 fiber-optic submarine cables to other Estonia points, Finland, and Sweden",
@@ -8013,6 +7974,7 @@
         "24832",
         "24833",
         "24834",
+        "24835",
         "24871"
       ],
       "msisdn": [
@@ -8084,8 +8046,7 @@
           "arab republic of egypt",
           "egypt",
           "jumhuriyat misr al-arabiyah",
-          "misr",
-          "the arab republic of egypt"
+          "misr"
         ],
         "tel": {
           "code": "20",
@@ -8173,7 +8134,6 @@
         },
         "nameset": [
           "sahrawi arab democratic republic",
-          "the sahrawi arab democratic republic",
           "western sahara"
         ],
         "tel": {}
@@ -8249,8 +8209,7 @@
           "eritrea",
           "ertra",
           "hagere ertra",
-          "state of eritrea",
-          "the state of eritrea"
+          "state of eritrea"
         ],
         "tel": {
           "code": "291",
@@ -8370,8 +8329,7 @@
           "espana",
           "kingdom of spain",
           "reino de espana",
-          "spain",
-          "the kingdom of spain"
+          "spain"
         ],
         "tel": {
           "code": "34",
@@ -8467,7 +8425,8 @@
         "214703",
         "214704",
         "214705",
-        "214706"
+        "214706",
+        "214707"
       ],
       "msisdn": [
         "34"
@@ -8529,7 +8488,6 @@
           "ethiopia",
           "federal democratic republic of ethiopia",
           "ityop'iya",
-          "the federal democratic republic of ethiopia",
           "yeityop'iya federalawi demokrasiyawi ripeblik"
         ],
         "tel": {
@@ -8649,8 +8607,7 @@
           "suomen tasavalta",
           "suomen tasavalta (finnish)/ republiken finland (swedish)",
           "suomi",
-          "suomi (finnish)/ finland (swedish)",
-          "the republic of finland"
+          "suomi (finnish)/ finland (swedish)"
         ],
         "tel": {
           "code": "358",
@@ -8825,8 +8782,7 @@
           "fiji (english)/ matanitu ko viti (fijian)",
           "fiji (english)/ viti (fijian)",
           "republic of fiji",
-          "republic of fiji (english)/ matanitu ko viti (fijian)",
-          "the republic of fiji"
+          "republic of fiji (english)/ matanitu ko viti (fijian)"
         ],
         "tel": {
           "code": "679",
@@ -8944,8 +8900,7 @@
         },
         "nameset": [
           "falkland islands",
-          "falkland islands (islas malvinas)",
-          "the falkland islands"
+          "falkland islands (islas malvinas)"
         ],
         "tel": {
           "code": "500",
@@ -9052,8 +9007,7 @@
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/micronesia-federated-states-of/"
         },
         "nameset": [
-          "federated states of micronesia",
-          "the federated states of micronesia"
+          "federated states of micronesia"
         ],
         "tel": {
           "code": "691",
@@ -9099,7 +9053,8 @@
         "550"
       ],
       "mccmnc": [
-        "55001"
+        "55001",
+        "55002"
       ],
       "msisdn": [
         "691"
@@ -9162,8 +9117,7 @@
         },
         "nameset": [
           "faroe islands",
-          "foroyar",
-          "the faroe islands"
+          "foroyar"
         ],
         "tel": {
           "code": "298",
@@ -9310,8 +9264,8 @@
         "nameset": [
           "france",
           "french republic",
-          "republique francaise",
-          "the french republic"
+          "r&eacute;publique fran&ccedil;aise",
+          "randeacute;publique franandccedil;aise"
         ],
         "tel": {
           "code": "33",
@@ -9446,7 +9400,8 @@
         "20895",
         "20896",
         "20897",
-        "20898"
+        "20898",
+        "27007"
       ],
       "msisdn": [
         "33"
@@ -9514,8 +9469,8 @@
         "nameset": [
           "gabon",
           "gabonese republic",
-          "republique gabonaise",
-          "the gabonese republic"
+          "r&eacute;publique gabonaise",
+          "randeacute;publique gabonaise"
         ],
         "tel": {
           "code": "241",
@@ -9632,7 +9587,6 @@
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/united-kingdom/"
         },
         "nameset": [
-          "the united kingdom of great britain and northern ireland",
           "united kingdom",
           "united kingdom of great britain and northern ireland",
           "united kingdom of great britain and northern ireland; note - the island of great britain includes england scotland and wales",
@@ -9952,17 +9906,18 @@
         "tel": {
           "code": "995",
           "domestic": [
-            "fixed-line subscriptions 9 per 100, mobile-cellular teledensity roughly 137 per 100 persons",
-            2021
+            "fixed-line subscriptions 8 per 100, mobile-cellular tele density roughly 156 per 100 persons",
+            2022
           ],
           "general": [
             "the telecom sector has been attempting for many years to overcome the decades of under-investment in its fixed-line infrastructure during the Soviet era",
-            "concerted efforts to privatize state-owned enterprises and open up the telecom market have been mostly successful, with a large number of networks now competing in both the fixed-line and the mobile segments",
-            "more needs to be done, however, to give investors the confidence to enter a market that has barely moved in terms of revenue growth over the last decade, and where regulatory overreach has sometimes come perilously close to arresting further development",
+            "concerted efforts to privatize state-owned enterprises and open up the telecom market have been mostly successful, with a large number of operators now competing in both the fixed-line and the mobile segments",
             "Georgia\u2019s government moved fast following the collapse of the Soviet Union to liberalize the country\u2019s telecom market",
-            "this resulted in a relatively high number of networks competing in the under-developed fixed-line segment as well as in the emerging mobile market",
-            "both segments remain dominated by just a few companies",
-            2022
+            "this resulted in a relatively high number of operators competing in the under-developed fixed-line segment as well as in the emerging mobile market",
+            "the mobile and mobile broadband segments have both demonstrated solid growth in 2021",
+            "this upturn follows a significant contraction in subscriber numbers as well as revenue during 2020 due to the Covid-19 crisis",
+            "funding has continued to flow into mobile ventures, with the Mobile Network Operators (MNOs) preparing for 5G",
+            2024
           ],
           "intl": [
             "landing points for the Georgia-Russia, Diamond Link Global, and Caucasus Cable System fiber-optic submarine cable that provides connectivity to Russia, Romania and Bulgaria",
@@ -10125,8 +10080,7 @@
         },
         "nameset": [
           "bailiwick of guernsey",
-          "guernsey",
-          "the bailiwick of guernsey"
+          "guernsey"
         ],
         "tel": {
           "code": "44",
@@ -10240,8 +10194,7 @@
         },
         "nameset": [
           "ghana",
-          "republic of ghana",
-          "the republic of ghana"
+          "republic of ghana"
         ],
         "tel": {
           "code": "233",
@@ -10601,8 +10554,7 @@
         "nameset": [
           "gambia",
           "republic of the gambia",
-          "the gambia",
-          "the republic of the gambia"
+          "the gambia"
         ],
         "tel": {
           "code": "220",
@@ -10725,11 +10677,12 @@
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/guinea/"
         },
         "nameset": [
+          "guin&eacute;e",
+          "guinandeacute;e",
           "guinea",
-          "guinee",
-          "republic of guinea",
-          "republique de guinee",
-          "the republic of guinea"
+          "r&eacute;publique de guin&eacute;e",
+          "randeacute;publique de guinandeacute;e",
+          "republic of guinea"
         ],
         "tel": {
           "code": "224",
@@ -10894,11 +10847,10 @@
         "nameset": [
           "equatorial guinea",
           "guinea ecuatorial",
-          "guinea ecuatorial (spanish)/ guinee equatoriale (french)",
+          "guinea ecuatorial (spanish)/guin&eacute;e &eacute;quatoriale (french)",
           "republic of equatorial guinea",
           "republica de guinea ecuatorial",
-          "republica de guinea ecuatorial (spanish)/ republique de guinee equatoriale (french)",
-          "the republic of equatorial guinea"
+          "republica de guinea ecuatorial (spanish)/ r&eacute;publique de guin&eacute;e &eacute;quatoriale (french)"
         ],
         "tel": {
           "general": [
@@ -11005,8 +10957,7 @@
           "ellas or ellada",
           "elliniki dimokratia",
           "greece",
-          "hellenic republic",
-          "the hellenic republic"
+          "hellenic republic"
         ],
         "tel": {
           "code": "30",
@@ -11204,8 +11155,7 @@
         "nameset": [
           "guatemala",
           "republic of guatemala",
-          "rep\u00fablica de guatemala",
-          "the republic of guatemala"
+          "rep\u00fablica de guatemala"
         ],
         "tel": {
           "code": "502",
@@ -11263,7 +11213,9 @@
       "mccmnc": [
         "70401",
         "70402",
-        "70403"
+        "70403",
+        "70404",
+        "70405"
       ],
       "msisdn": [
         "502"
@@ -11326,21 +11278,22 @@
         },
         "nameset": [
           "guahan",
-          "guam",
-          "territory of guam",
-          "the territory of guam"
+          "guam"
         ],
         "tel": {
           "code": "1671",
           "domestic": [
             "fixed-line subscriptions 41 per 100 and 62 per 100 mobile-cellular subscriptions in 2004",
-            2020
+            2021
           ],
           "general": [
             "Guam\u2019s telecommunications companies provide important services that allow other businesses on island to operate",
             "Guam plays a larger, and growing role, in global telecommunications infrastructure, the submarine fiber optic cables that land on Guam benefit island residents and the local economy",
             "in the Asia-Pacific region the demand for 4G, 5G, and broadband access is rapidly increasing",
             "the 11 submarine cables that currently land on Guam, connecting the U.S. to the Asia-Pacific region, are some of the more than 400 cables that are the backbone of global telecommunications, providing nearly all of the world\u2019s internet and phone service",
+            "as of January 2024, one of the world's most dominant companies will be landing two new subsea cables on Guam",
+            "in May 2024 a global arm of a leading telecommunications and technology company, announced its plans to develop a regional network hub in Guam by establishing a new dedicated point-of-presence (PoP) in Piti at the carrier-neutral GNC iX data center",
+            "this PoP will serve growing connectivity demand in the region and will be a key connection point for new cable systems including the Echo cable and central Pacific Connect cable that are being constructed to provide additional low latency network reliability and redundancy throughout Asia and between Asia, Australia, and the U.S.",
             2021
           ],
           "intl": [
@@ -11459,8 +11412,7 @@
           "guine-bissau",
           "guinea-bissau",
           "republic of guinea-bissau",
-          "republica da guine-bissau",
-          "the republic of guinea-bissau"
+          "republica da guine-bissau"
         ],
         "tel": {
           "code": "245",
@@ -11577,8 +11529,7 @@
         "nameset": [
           "co-operative republic of guyana",
           "cooperative republic of guyana",
-          "guyana",
-          "the co-operative republic of guyana"
+          "guyana"
         ],
         "tel": {
           "code": "592",
@@ -11696,8 +11647,7 @@
           "heung kong takpit hangching ku (eitel/dyer-ball)",
           "hong kong",
           "hong kong special administrative region",
-          "hong kong special administrative region of china",
-          "the hong kong special administrative region of china"
+          "hong kong special administrative region of china"
         ],
         "tel": {
           "code": "852",
@@ -11820,8 +11770,7 @@
         },
         "nameset": [
           "heard island and mcdonald islands",
-          "territory of heard island and mcdonald islands",
-          "the territory of heard island and mcdonald islands"
+          "territory of heard island and mcdonald islands"
         ],
         "tel": {
           "tld": ".hm",
@@ -11896,8 +11845,7 @@
         "nameset": [
           "honduras",
           "republic of honduras",
-          "rep\u00fablica de honduras",
-          "the republic of honduras"
+          "rep\u00fablica de honduras"
         ],
         "tel": {
           "general": [
@@ -12011,8 +11959,7 @@
           "croatia",
           "hrvatska",
           "republic of croatia",
-          "republika hrvatska",
-          "the republic of croatia"
+          "republika hrvatska"
         ],
         "tel": {
           "code": "385",
@@ -12142,10 +12089,9 @@
           "haandiuml;ti",
           "haiti",
           "r&eacute;publique d'ha&iuml;ti",
-          "r&eacute;publique d'ha&iuml;ti (french)/ repiblik d ayiti (haitian creole)",
+          "r&eacute;publique d'ha&iuml;ti (french)/repiblik d ayiti (haitian creole)",
           "randeacute;publique d'haandiuml;ti",
-          "republic of haiti",
-          "the republic of haiti"
+          "republic of haiti"
         ],
         "tel": {
           "code": "509",
@@ -12264,19 +12210,18 @@
         "tel": {
           "code": "36",
           "domestic": [
-            "fixed-line connections, with 30 fixed per 100 persons and 106 mobile-cellular subscriptions per 100",
-            2021
+            "fixed-line connections, with 29 fixed per 100 persons and 104 mobile-cellular subscriptions per 100",
+            2022
           ],
           "general": [
-            "Hungary benefits from having a developed telecom infrastructure, with a focus among operators to develop the 5G sector and upgrade fixed networks to provide a 1Gb/s service",
-            "services based on 5G have been supported by the January 2021 multi-spectrum auction for spectrum in the 900MHz and 1800MHz bands",
-            "the number of fixed-lines continues to fall as subscribers migrate to the mobile platform for voice and data services",
-            "operators have looked to bundled packages to boost revenue and retain subscribers",
-            "the broadband market has effective infrastructure-based competition, with an extensive cable network competing against DSL services and a vibrant and rapidly expanding fiber sector",
-            "the regulator has also introduced a number of measures aimed at promoting market competition, which is pushing the drive for higher speed platforms and encouraging operators to invest in technology upgrades",
-            "as a result, Hungary now has the highest fixed broadband penetration rate in Eastern Europe",
-            "the number of super fast broadband connections (above 30Mb/s) accounted for 78% of all fixed broadband connections",
-            2022
+            "Hungary\u2019s telecom infrastructure has been upgraded in recent years following considerable investments made by telcos as they upgrade their mobile networks to 5G and deploy more fiber",
+            "these developments have helped operators to promote converged fixed and mobile service",
+            "the number of fixed lines continue to fall as subscribers migrate to the mobile platform for voice and data services",
+            "a number of measures aimed at promoting competition in the broadband market encourage investment in technology upgrades",
+            "Hungary has the highest fixed broadband penetration rate in Eastern Europe",
+            "there remains considerable growth in mobile broadband services delivered via upgraded networks",
+            "5G development is supported by the government, universities, other telcos, and vendors",
+            2024
           ],
           "intl": [
             "Hungary has fiber-optic cable connections with all neighboring countries",
@@ -12315,6 +12260,7 @@
         "21603",
         "21604",
         "21620",
+        "21625",
         "21630",
         "21670",
         "21671",
@@ -12386,8 +12332,7 @@
         "nameset": [
           "indonesia",
           "republic of indonesia",
-          "republik indonesia",
-          "the republic of indonesia"
+          "republik indonesia"
         ],
         "tel": {
           "code": "62",
@@ -12656,7 +12601,6 @@
           "israel",
           "medinat yisra'el",
           "state of israel",
-          "the state of israel",
           "yisra'el"
         ],
         "tel": {
@@ -12795,8 +12739,7 @@
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/isle-of-man/"
         },
         "nameset": [
-          "isle of man",
-          "the isle of man"
+          "isle of man"
         ],
         "tel": {
           "code": "44",
@@ -12898,8 +12841,7 @@
           "india (english)/ bharat (hindi)",
           "india (english)/ bharatiya ganarajya (hindi)",
           "republic of india",
-          "republic of india (english)/ bharatiya ganarajya (hindi)",
-          "the republic of india"
+          "republic of india (english)/ bharatiya ganarajya (hindi)"
         ],
         "tel": {
           "code": "91",
@@ -13338,8 +13280,7 @@
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/british-indian-ocean-territory/"
         },
         "nameset": [
-          "british indian ocean territory",
-          "the british indian ocean territory"
+          "british indian ocean territory"
         ],
         "tel": {
           "domestic": [
@@ -13436,8 +13377,7 @@
           "al iraq/eraq",
           "iraq",
           "jumhuriyat al-iraq/komar-i eraq",
-          "republic of iraq",
-          "the republic of iraq"
+          "republic of iraq"
         ],
         "tel": {
           "code": "964",
@@ -13495,6 +13435,7 @@
         "41848",
         "41849",
         "41862",
+        "41866",
         "41870",
         "41880",
         "41881",
@@ -13581,8 +13522,7 @@
         "nameset": [
           "iran",
           "islamic republic of iran",
-          "jomhuri-ye eslami-ye iran",
-          "the islamic republic of iran"
+          "jomhuri-ye eslami-ye iran"
         ],
         "tel": {
           "code": "98",
@@ -13865,8 +13805,7 @@
           "italia",
           "italian republic",
           "italy",
-          "repubblica italiana",
-          "the italian republic"
+          "repubblica italiana"
         ],
         "tel": {
           "code": "39",
@@ -14004,8 +13943,7 @@
         },
         "nameset": [
           "bailiwick of jersey",
-          "jersey",
-          "the bailiwick of jersey"
+          "jersey"
         ],
         "tel": {
           "code": "44",
@@ -14245,8 +14183,7 @@
           "al mamlakah al urduniyah al hashimiyah",
           "al urdun",
           "hashemite kingdom of jordan",
-          "jordan",
-          "the hashemite kingdom of jordan"
+          "jordan"
         ],
         "tel": {
           "code": "962",
@@ -14526,6 +14463,8 @@
         "441212",
         "441213",
         "441214",
+        "441215",
+        "441216",
         "44140",
         "44141",
         "44142",
@@ -14617,8 +14556,7 @@
           "kenya",
           "kenya (english)/ jamhuri ya kenya (swahili)",
           "republic of kenya",
-          "republic of kenya (english)/ jamhuri ya kenya (swahili)",
-          "the republic of kenya"
+          "republic of kenya (english)/ jamhuri ya kenya (swahili)"
         ],
         "tel": {
           "code": "254",
@@ -14739,23 +14677,22 @@
         "nameset": [
           "kyrgyz republic",
           "kyrgyz respublikasy",
-          "kyrgyzstan",
-          "the kyrgyz republic"
+          "kyrgyzstan"
         ],
         "tel": {
           "code": "996",
           "domestic": [
             "fixed-line subscriptions 5 per 100",
             "mobile-cellular subscribership up to over 130 per 100 persons",
-            2021
+            2022
           ],
           "general": [
             "the country\u2019s telecom sector (specifically the mobile segment) has been able to prosper",
             "Kyrgyzstan has opened up its telecom market to competition",
             "the mobile market has achieved high levels of penetration (140% in 2021) along with a fairly competitive operating environment with four major players",
             "mobile broadband has come along strongly, reaching over 125% penetration in 2019 before falling back slightly during the COVID-19 crisis",
-            "slow-to-moderate growth is expected for both segments in coming years, supported by the anticipated rollout of 5G services which began testing in 2022 with a pilot service to follow some time in 2023",
-            2022
+            "slow-to-moderate growth is expected for both segments in coming years, supported by the anticipated rollout of 5G services which began testing in 2022 with a pilot service in 2023 which has been delayed into 2024",
+            2024
           ],
           "intl": [
             "connections with other CIS (Commonwealth of Independent States, 9 members post-Soviet Republics in EU) countries by landline or microwave radio relay and with other countries by leased connections with Moscow international gateway switch and by satellite",
@@ -14864,8 +14801,7 @@
           "kampuchea",
           "kingdom of cambodia",
           "preahreacheanachakr kampuchea",
-          "preahreacheanachakr kampuchea (phonetic transliteration)",
-          "the kingdom of cambodia"
+          "preahreacheanachakr kampuchea (phonetic transliteration)"
         ],
         "tel": {
           "code": "855",
@@ -14992,8 +14928,7 @@
         },
         "nameset": [
           "kiribati",
-          "republic of kiribati",
-          "the republic of kiribati"
+          "republic of kiribati"
         ],
         "tel": {
           "code": "686",
@@ -15108,7 +15043,6 @@
           "comoros",
           "komori",
           "komori (comorian)/les comores (french)/juzur al qamar (arabic)",
-          "the union of the comoros",
           "udzima wa komori",
           "udzima wa komori (comorian)/union des comores (french)/al ittihad al qumuri (arabic)",
           "union of the comoros"
@@ -15339,8 +15273,7 @@
           "choson",
           "choson-minjujuui-inmin-konghwaguk",
           "democratic people's republic of korea",
-          "north korea",
-          "the democratic people's republic of korea"
+          "north korea"
         ],
         "tel": {
           "code": "850",
@@ -15453,8 +15386,7 @@
           "korea",
           "republic of korea",
           "south korea",
-          "taehan-min'guk",
-          "the republic of korea"
+          "taehan-min'guk"
         ],
         "tel": {
           "code": "82",
@@ -15584,8 +15516,7 @@
           "al kuwayt",
           "dawlat al kuwayt",
           "kuwait",
-          "state of kuwait",
-          "the state of kuwait"
+          "state of kuwait"
         ],
         "tel": {
           "code": "965",
@@ -15700,8 +15631,7 @@
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/cayman-islands/"
         },
         "nameset": [
-          "cayman islands",
-          "the cayman islands"
+          "cayman islands"
         ],
         "tel": {
           "code": "1345",
@@ -15818,25 +15748,24 @@
           "kazakhstan",
           "qazaqstan",
           "qazaqstan respublikasy",
-          "republic of kazakhstan",
-          "the republic of kazakhstan"
+          "republic of kazakhstan"
         ],
         "tel": {
           "code": "7",
           "domestic": [
-            "fixed telephone subscriptions are 16 per 100 persons",
-            "mobile-cellular subscriber base 127 per 100 persons",
-            2021
+            "fixed telephone subscriptions are 15 per 100 persons",
+            "mobile-cellular subscriber base 130 per 100 persons",
+            2022
           ],
           "general": [
-            "Kazakhstan has one of the most developed telecommunications sectors in the Central Asian region",
-            "this is especially true of the mobile segment",
-            "the principal telcos have successfully generated revenue growth on the back of value-added services and the extended each of LTE and fiber networks",
-            "this has resulted in strong growth in mobile fixed line traffic",
-            "the mobile segment dominates the telecom sector in Kazakhstan overall, there was a drop in the number of subscribers in 2020",
-            "these effects also limited growth in 2021, though the easing of restrictions in 2022 resulted in a stronger recovery",
-            "the extensive deployment of LTE networks across the country, and the launch of limited 5G services in mid-2023 will provide a steady increase mobile broadband services",
-            2021
+            "Kazakhstan has one of the most developed telecommunications sectors in the region",
+            "this is especially true of the mobile segment, where the country has the second fastest average mobile data rates in Central Asia after Azerbaijan",
+            "the competing Mobile Network Operators (MNOs) have built extensive Long Term Evolution (LTE) networks: about 76% of mobile subscribers were on LTE as of March 2024, while the company\u2019s LTE network provided 89% geographic coverage",
+            "this widespread network coverage, as well as the development of 5G networks, has been encouraged by the government with the second stage of its Digital Kazakhstan program, by which most settlements across the country will be furnished with mobile internet connectivity",
+            "the remaining rural villages will be covered by satellite services",
+            "at the turn of the century, Kazakhstan had a relatively high fixed-line tele density thanks to efforts to invest in the fixed-line infrastructure and in next-generation networks",
+            "the gobal demand for traditional voice services are decreasing as customers are increasingly attracted to the flexibility of the mobile platform for voice as well as data services",
+            2024
           ],
           "intl": [
             "international traffic with other former Soviet republics and China carried by landline and microwave radio relay and with other countries by satellite and by the TAE fiber-optic cable",
@@ -15873,6 +15802,7 @@
         "40102",
         "40107",
         "40108",
+        "40110",
         "40177"
       ],
       "msisdn": [
@@ -15938,8 +15868,7 @@
           "laos",
           "mueang lao",
           "mueang lao (unofficial)",
-          "sathalanalat paxathipatai paxaxon lao",
-          "the lao people's democratic republic"
+          "sathalanalat paxathipatai paxaxon lao"
         ],
         "tel": {
           "code": "856",
@@ -16062,8 +15991,7 @@
           "al jumhuriyah al lubnaniyah",
           "lebanese republic",
           "lebanon",
-          "lubnan",
-          "the lebanese republic"
+          "lubnan"
         ],
         "tel": {
           "code": "961",
@@ -16291,8 +16219,7 @@
         "nameset": [
           "fuerstentum liechtenstein",
           "liechtenstein",
-          "principality of liechtenstein",
-          "the principality of liechtenstein"
+          "principality of liechtenstein"
         ],
         "tel": {
           "code": "423",
@@ -16411,8 +16338,7 @@
           "shri lanka (sinhala)/ ilankai (tamil)",
           "shri lanka prajatantrika samajavadi janarajaya",
           "shri lanka prajatantrika samajavadi janarajaya (sinhala)/ ilankai jananayaka choshalichak kutiyarachu (tamil)",
-          "sri lanka",
-          "the democratic socialist republic of sri lanka"
+          "sri lanka"
         ],
         "tel": {
           "code": "94",
@@ -16543,8 +16469,7 @@
         },
         "nameset": [
           "liberia",
-          "republic of liberia",
-          "the republic of liberia"
+          "republic of liberia"
         ],
         "tel": {
           "code": "231",
@@ -16653,8 +16578,7 @@
         },
         "nameset": [
           "kingdom of lesotho",
-          "lesotho",
-          "the kingdom of lesotho"
+          "lesotho"
         ],
         "tel": {
           "code": "266",
@@ -16778,25 +16702,21 @@
           "lietuva",
           "lietuvos respublika",
           "lithuania",
-          "republic of lithuania",
-          "the republic of lithuania"
+          "republic of lithuania"
         ],
         "tel": {
           "code": "370",
           "domestic": [
-            "nearly 10 per 100 for fixed-line subscriptions",
-            "mobile-cellular subscriptions at 134 per 100 persons",
-            2021
+            "nearly 9 per 100 for fixed-line subscriptions",
+            "mobile-cellular subscriptions at 139 per 100 persons",
+            2022
           ],
           "general": [
-            "Lithuania\u2019s small telecoms market is among the more advanced in Europe, particularly given the universal access to LTE infrastructure and the extensive fiber footprint",
-            "investment has been focused on fiber broadband and mobile network upgrades",
-            "SIM card penetration is relatively high for the region, with a growing proportion of subscribers being on higher-Average Revenue Per User (ARPU) contract plans",
-            "while LTE services are available nationally, operators have made steady investments in 5G",
-            "the regulator has helped the network operators to develop 5G by allowing them to repurpose spectrum in the 2.1GHz and 2.4GHz bands",
-            "the regulator in mid-2022 completed auctions of spectrum in the 700MHz and 3.4GHz bands",
-            "service obligations on the licensees include the provision of services to the five main cities by the end of 2023",
-            2023
+            "Lithuania\u2019s small telecoms market is among the more advanced in Europe, particularly given the universal access to long-term evolution (LTE) infrastructure and the extensive fiber footprint",
+            "Operator investment has been focused on fiber broadband and mobile network upgrades",
+            "Fiber is now by far the dominant fixed broadband platform, with the number of Digital Subscriber Line (DSL) and cable connections in steady decline",
+            "LTE services are available nationally, operators have made steady investments in 5G",
+            2024
           ],
           "intl": [
             "landing points for the BCS East, BCS East-West Interlink and NordBalt connecting Lithuania to Sweden, and Latvia",
@@ -16900,10 +16820,10 @@
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/luxembourg/"
         },
         "nameset": [
-          "grand duche de luxembourg",
+          "grand duch&eacute; de luxembourg",
+          "grand duchandeacute; de luxembourg",
           "grand duchy of luxembourg",
-          "luxembourg",
-          "the grand duchy of luxembourg"
+          "luxembourg"
         ],
         "tel": {
           "code": "352",
@@ -17028,20 +16948,24 @@
           "latvia",
           "latvija",
           "latvijas republika",
-          "republic of latvia",
-          "the republic of latvia"
+          "republic of latvia"
         ],
         "tel": {
           "code": "371",
           "domestic": [
-            "fixed-line roughly 10 per 100 and mobile-cellular nearly 115 per 100 subscriptions",
-            2021
+            "fixed-line 9 per 100 and mobile-cellular nearly 117 per 100 subscriptions",
+            2022
           ],
           "general": [
             "the telecom market continues to benefit from investment and from regulatory measures aimed at developing 5G and fiber-based infrastructure",
-            "there is effective competition in the mobile market",
+            "the mobile market is dominated by three operators and there is effective competition between them, with the smallest among them having almost a quarter of the market by subscribers",
             "these multi-service operators have focused investment on fiber networks and on expanding the reach of 5G",
-            2023
+            "mobile network capacity has been improved since 2022 following the auction of spectrum in the 700MHz and 1.5GHz bands",
+            "operators have entered into agreements with neighboring Estonia and Lithuania to coordinate the use of spectrum for 5G in border areas, improving coverage to end-users without interference",
+            "in the fixed-line broadband sector, the country is ranked among the highest in Europe for fiber coverage",
+            "it has the second highest rural FttP coverage after Denmark",
+            "with this infrastructure in place, the country has also developed a sophisticated digital economy, with e-commerce and e-government services widely available",
+            2024
           ],
           "intl": [
             "the Latvian network is now connected via fiber-optic cable to Estonia, Finland, and Sweden",
@@ -17157,8 +17081,7 @@
           "dawlat libiya",
           "libiya",
           "libya",
-          "state of libya",
-          "the state of libya"
+          "state of libya"
         ],
         "tel": {
           "code": "218",
@@ -17285,8 +17208,7 @@
           "al maghrib",
           "al mamlakah al maghribiyah",
           "kingdom of morocco",
-          "morocco",
-          "the kingdom of morocco"
+          "morocco"
         ],
         "tel": {
           "code": "212",
@@ -17408,8 +17330,8 @@
         "nameset": [
           "monaco",
           "principality of monaco",
-          "principaute de monaco",
-          "the principality of monaco"
+          "principaut&eacute; de monaco",
+          "principautandeacute; de monaco"
         ],
         "tel": {
           "code": "377",
@@ -17516,31 +17438,28 @@
         "nameset": [
           "moldova",
           "republic of moldova",
-          "republica moldova",
-          "the republic of moldova"
+          "republica moldova"
         ],
         "tel": {
           "code": "373",
           "domestic": [
-            "fixed-line service is 33 per 100",
-            "mobile-cellular teledensity is 127 per 100 persons",
-            2021
+            "fixed-line service is 29 per 100",
+            "mobile cellular tele density is 127 per 100 persons",
+            2022
           ],
           "general": [
             "the telecom market has been affected by a combination of high unemployment and economic difficulties which have led to constraints on consumer spending",
-            "this has resulted in telecom revenue having fallen steadily in recent years",
-            "this decline continued into 2020, with a 6.3% in revenue from the important mobile sector alone, year-on-year",
             "Moldova\u2019s aspirations to join the EU have encouraged the government and regulator to adopt a range of measures to bring the country\u2019s telecoms sector into line with EU principles and standards",
             "in July 2017 the Electronic Communications Act was amended to accommodate the 2009 European regulatory framework, while further amendments were adopted in December 2017 and additional changes were proposed in 2019",
-            "Moldova is also part of the Eastern Partnership group of countries, and as such has set in train a glide path to reducing roaming charges, effective between 2022 and 2026",
-            "the country\u2019s broadband strategy through to 2025 has been supported by the ITU and industry counterparts from South Korea",
-            "the internet market is developing rapidly",
-            "the market is highly competitive, with 101 active ISPs as of early 2021",
+            "Moldova is also part of the Eastern Partnership group of countries, and as such has set in train a glidepath to reducing roaming charges, effective between 2022 and 2026",
+            "the country\u2019s broadband strategy through to 2025 has been supported by the ITU and industry counterparts from Korea",
+            "the internet market is developing rapidly, and though the penetration rate is well below the average for most European countries there are many opportunities for further development",
             "the number of cable broadband subscribers is increasing steadily, though fiber is now by far the strongest sector",
             "by the end of 2020 fiber accounted for about 72.3% of all fixed broadband connections",
-            "the mobile market has also grown rapidly",
+            "the mobile market has also grown rapidly, and the sector accounts for the majority of total telecoms revenue",
+            "the launch of LTE services has opened up a new revenue growth opportunity centered on mobile broadband",
             "the near comprehensive geographical reach of their mobile networks, market brand recognition and existing customer relationships will make for steady subscriber growth in coming years",
-            2022
+            2024
           ],
           "intl": [
             "service through Romania and Russia via landline",
@@ -17755,12 +17674,12 @@
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/saint-martin/"
         },
         "nameset": [
-          "collectivite d'outre mer de saint-martin",
+          "collectivit&eacute; d'outre mer de saint-martin",
+          "collectivitandeacute; d'outre mer de saint-martin",
           "collectivity of saint-martin",
           "overseas collectivity of saint martin",
           "saint martin",
-          "saint-martin",
-          "the collectivity of saint-martin"
+          "saint-martin"
         ],
         "tel": {
           "code": "590",
@@ -17873,9 +17792,9 @@
         "nameset": [
           "madagascar",
           "madagascar/madagasikara",
-          "republic of madagascar",
-          "republique de madagascar/repoblikan'i madagasikara",
-          "the republic of madagascar"
+          "r&eacute;publique de madagascar/repoblikan'i madagasikara",
+          "randeacute;publique de madagascar/repoblikan'i madagasikara",
+          "republic of madagascar"
         ],
         "tel": {
           "code": "261",
@@ -17993,8 +17912,7 @@
         "nameset": [
           "marshall islands",
           "republic of the marshall islands",
-          "the marshall islands",
-          "the republic of the marshall islands"
+          "the marshall islands"
         ],
         "tel": {
           "code": "692",
@@ -18101,8 +18019,7 @@
           "north macedonia",
           "republic of north macedonia",
           "republika severna makedonija",
-          "severna makedonija",
-          "the republic of north macedonia"
+          "severna makedonija"
         ],
         "tel": {
           "code": "389",
@@ -18216,9 +18133,9 @@
         },
         "nameset": [
           "mali",
-          "republic of mali",
-          "republique de mali",
-          "the republic of mali"
+          "r&eacute;publique de mali",
+          "randeacute;publique de mali",
+          "republic of mali"
         ],
         "tel": {
           "code": "223",
@@ -18343,7 +18260,6 @@
           "pyidaungzu thammada myanma naingngandaw",
           "pyidaungzu thammada myanma naingngandaw (translated as the republic of the union of myanmar)",
           "republic of the union of myanmar",
-          "the republic of the union of myanmar",
           "the union of myanmar",
           "union of burma"
         ],
@@ -18512,6 +18428,7 @@
       ],
       "mccmnc": [
         "42800",
+        "42833",
         "42888",
         "42891",
         "42898",
@@ -18576,8 +18493,7 @@
         "nameset": [
           "macao special administrative region of china",
           "macau",
-          "macau special administrative region",
-          "the macao special administrative region of china"
+          "macau special administrative region"
         ],
         "tel": {
           "code": "853",
@@ -18704,8 +18620,7 @@
         },
         "nameset": [
           "commonwealth of the northern mariana islands",
-          "northern mariana islands",
-          "the commonwealth of the northern mariana islands"
+          "northern mariana islands"
         ],
         "tel": {
           "code": "1670",
@@ -18718,7 +18633,10 @@
             "digital fiber-optic cables and satellites connect the islands to worldwide networks",
             "demand for broadband growing given that mobile services are the source for Internet across region",
             "future launch of 5G",
-            2020
+            "as of April 2024 the Northern Mariana Islands Broadband Policy and Development Office (BPD) received an award of $81 million from the National Telecommunications and Information Administration (NTIA) Broadband Equity, Access, and Deployment (BEAD) Program",
+            "CNMI submitted its BEAD Five-Year Action Plan to NTIA",
+            "this plan aims to improve Internet services in the Commonwealth by outlining strategies for enhancing Internet accessibility and affordability for all members of the CNMI community",
+            2024
           ],
           "intl": [
             "landing points for the Atisa and Mariana-Guam submarine cables linking Mariana islands to Guam",
@@ -18870,8 +18788,7 @@
           "al jumhuriyah al islamiyah al muritaniyah",
           "islamic republic of mauritania",
           "mauritania",
-          "muritaniyah",
-          "the islamic republic of mauritania"
+          "muritaniyah"
         ],
         "tel": {
           "code": "222",
@@ -19093,8 +19010,7 @@
         "nameset": [
           "malta",
           "repubblika ta' malta",
-          "republic of malta",
-          "the republic of malta"
+          "republic of malta"
         ],
         "tel": {
           "code": "356",
@@ -19210,8 +19126,7 @@
         },
         "nameset": [
           "mauritius",
-          "republic of mauritius",
-          "the republic of mauritius"
+          "republic of mauritius"
         ],
         "tel": {
           "code": "230",
@@ -19330,8 +19245,7 @@
           "dhivehi raajje",
           "dhivehi raajjeyge jumhooriyyaa",
           "maldives",
-          "republic of maldives",
-          "the republic of maldives"
+          "republic of maldives"
         ],
         "tel": {
           "code": "960",
@@ -19440,8 +19354,7 @@
         "nameset": [
           "dziko la malawi",
           "malawi",
-          "republic of malawi",
-          "the republic of malawi"
+          "republic of malawi"
         ],
         "tel": {
           "code": "265",
@@ -19564,7 +19477,6 @@
         "nameset": [
           "estados unidos mexicanos",
           "mexico",
-          "the united mexican states",
           "united mexican states"
         ],
         "tel": {
@@ -19857,8 +19769,7 @@
           "mocambique",
           "mozambique",
           "republic of mozambique",
-          "republica de mocambique",
-          "the republic of mozambique"
+          "republica de mocambique"
         ],
         "tel": {
           "code": "258",
@@ -19981,8 +19892,7 @@
         },
         "nameset": [
           "namibia",
-          "republic of namibia",
-          "the republic of namibia"
+          "republic of namibia"
         ],
         "tel": {
           "code": "264",
@@ -20101,8 +20011,10 @@
         },
         "nameset": [
           "new caledonia",
-          "nouvelle-caledonie",
-          "territoire des nouvelle-caledonie et dependances",
+          "nouvelle-cal&eacute;donie",
+          "nouvelle-calandeacute;donie",
+          "territoire des nouvelle-cal&eacute;donie et d&eacute;pendances",
+          "territoire des nouvelle-calandeacute;donie et dandeacute;pendances",
           "territory of new caledonia and dependencies"
         ],
         "tel": {
@@ -20213,11 +20125,11 @@
         },
         "nameset": [
           "niger",
+          "r&eacute;publique du niger",
+          "randeacute;publique du niger",
           "republic of niger",
           "republic of the niger",
-          "republique du niger",
-          "the niger",
-          "the republic of the niger"
+          "the niger"
         ],
         "tel": {
           "code": "227",
@@ -20327,8 +20239,7 @@
         },
         "nameset": [
           "norfolk island",
-          "territory of norfolk island",
-          "the territory of norfolk island"
+          "territory of norfolk island"
         ],
         "tel": {
           "code": "672",
@@ -20428,8 +20339,7 @@
         },
         "nameset": [
           "federal republic of nigeria",
-          "nigeria",
-          "the federal republic of nigeria"
+          "nigeria"
         ],
         "tel": {
           "code": "234",
@@ -20566,8 +20476,7 @@
         "nameset": [
           "nicaragua",
           "republic of nicaragua",
-          "rep\u00fablica de nicaragua",
-          "the republic of nicaragua"
+          "rep\u00fablica de nicaragua"
         ],
         "tel": {
           "code": "505",
@@ -20689,8 +20598,7 @@
           "kingdom of the netherlands",
           "koninkrijk der nederlanden",
           "nederland",
-          "netherlands",
-          "the kingdom of the netherlands"
+          "netherlands"
         ],
         "tel": {
           "code": "31",
@@ -20853,8 +20761,7 @@
           "kingdom of norway",
           "kongeriket norge",
           "norge",
-          "norway",
-          "the kingdom of norway"
+          "norway"
         ],
         "tel": {
           "code": "47",
@@ -20984,8 +20891,7 @@
         },
         "nameset": [
           "federal democratic republic of nepal",
-          "nepal",
-          "the federal democratic republic of nepal"
+          "nepal"
         ],
         "tel": {
           "code": "977",
@@ -21102,8 +21008,7 @@
         },
         "nameset": [
           "nauru",
-          "republic of nauru",
-          "the republic of nauru"
+          "republic of nauru"
         ],
         "tel": {
           "code": "674",
@@ -21439,7 +21344,6 @@
           "oman",
           "saltanat uman",
           "sultanate of oman",
-          "the sultanate of oman",
           "uman"
         ],
         "tel": {
@@ -21559,11 +21463,8 @@
         },
         "nameset": [
           "panama",
-          "panam\u00e1",
           "republic of panama",
-          "republic of panam\u00e1",
-          "rep\u00fablica de panama",
-          "the republic of panam\u00e1"
+          "rep\u00fablica de panama"
         ],
         "tel": {
           "code": "507",
@@ -21686,9 +21587,7 @@
           "peru",
           "per\u00fa",
           "republic of peru",
-          "republic of per\u00fa",
-          "rep\u00fablica del per\u00fa",
-          "the republic of per\u00fa"
+          "rep\u00fablica del per\u00fa"
         ],
         "tel": {
           "code": "51",
@@ -21810,7 +21709,8 @@
         "nameset": [
           "french polynesia",
           "overseas lands of french polynesia",
-          "pays d'outre-mer de la polynesie francaise",
+          "pays d'outre-mer de la polyn&eacute;sie fran&ccedil;aise",
+          "pays d'outre-mer de la polynandeacute;sie franandccedil;aise",
           "polynesie francaise"
         ],
         "tel": {
@@ -21933,8 +21833,7 @@
         "nameset": [
           "independent state of papua new guinea",
           "papua new guinea",
-          "papuaniugini",
-          "the independent state of papua new guinea"
+          "papuaniugini"
         ],
         "tel": {
           "code": "675",
@@ -22061,8 +21960,7 @@
           "pilipinas",
           "republic of the philippines",
           "republika ng pilipinas",
-          "the philippines",
-          "the republic of the philippines"
+          "the philippines"
         ],
         "tel": {
           "code": "63",
@@ -22194,8 +22092,7 @@
         "nameset": [
           "islamic republic of pakistan",
           "jamhuryat islami pakistan",
-          "pakistan",
-          "the islamic republic of pakistan"
+          "pakistan"
         ],
         "tel": {
           "code": "92",
@@ -22331,21 +22228,20 @@
           "poland",
           "polska",
           "republic of poland",
-          "rzeczpospolita polska",
-          "the republic of poland"
+          "rzeczpospolita polska"
         ],
         "tel": {
           "code": "48",
           "domestic": [
-            "fixed-line is 14 per 100 (service lags in rural areas), mobile-cellular is 132 per 100 persons",
-            2021
+            "fixed-line is 13 per 100 (service lags in rural areas), mobile-cellular is 132 per 100 persons",
+            2022
           ],
           "general": [
             "the liberalized telecom market has seen considerable development in the broadband and mobile sectors",
             "the regulatory environment has encouraged market competition, partly by encouraging operators to secure spectrum and also by ensuring access to cable and fiber infrastructure",
             "the mobile market in recent years has been characterized by the rapid extension of LTE and 5G networks, and the development of mobile data services based on newly released and re-farmed spectrum",
             "the regulator\u2019s attempts to auction spectrum in a range of bands has been delayed, with spectrum in the 5G-suitable 3.4-3.8GHz range having been put back to later in 2023 as a result of the Covid-19 outbreak and changes to legislation",
-            2021
+            2024
           ],
           "intl": [
             "landing points for the Baltica and the Denmark-Poland2 submarine cables connecting Poland, Denmark and Sweden",
@@ -22493,12 +22389,12 @@
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/saint-pierre-and-miquelon/"
         },
         "nameset": [
-          "departement de saint-pierre et miquelon",
+          "d&eacute;partement de saint-pierre et miquelon",
+          "dandeacute;partement de saint-pierre et miquelon",
           "overseas collectivity of saint-pierre and miquelon",
           "saint pierre and miquelon",
           "saint-pierre et miquelon",
-          "territorial collectivity of saint pierre and miquelon",
-          "the overseas collectivity of saint-pierre and miquelon"
+          "territorial collectivity of saint pierre and miquelon"
         ],
         "tel": {
           "code": "508",
@@ -22586,8 +22482,7 @@
           "pitcairn henderson ducie and oeno islands",
           "pitcairn islands",
           "pitcairn, henderson, ducie and oeno islands",
-          "pitcairn, henderson, ducie, and oeno islands",
-          "the pitcairn, henderson, ducie and oeno islands"
+          "pitcairn, henderson, ducie, and oeno islands"
         ],
         "tel": {
           "code": "872",
@@ -22683,8 +22578,7 @@
         },
         "nameset": [
           "commonwealth of puerto rico",
-          "puerto rico",
-          "the commonwealth of puerto rico"
+          "puerto rico"
         ],
         "tel": {
           "code": "1787",
@@ -22772,8 +22666,7 @@
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:PS"
         },
         "nameset": [
-          "state of palestine",
-          "the state of palestine"
+          "state of palestine"
         ],
         "tel": {
           "tld": ".ps",
@@ -22854,8 +22747,7 @@
         "nameset": [
           "portugal",
           "portuguese republic",
-          "republica portuguesa",
-          "the portuguese republic"
+          "republica portuguesa"
         ],
         "tel": {
           "code": "351",
@@ -22988,8 +22880,7 @@
           "belau",
           "beluu er a belau",
           "palau",
-          "republic of palau",
-          "the republic of palau"
+          "republic of palau"
         ],
         "tel": {
           "code": "680",
@@ -23077,7 +22968,7 @@
           "capital": {
             "coord": "25 16 S, 57 40 W",
             "name": "Asunci&oacute;n",
-            "time_diff": "UTC-4"
+            "time_diff": "UTC-3"
           },
           "coast": {
             "num": 0
@@ -23108,8 +22999,7 @@
         "nameset": [
           "paraguay",
           "republic of paraguay",
-          "rep\u00fablica del paraguay",
-          "the republic of paraguay"
+          "rep\u00fablica del paraguay"
         ],
         "tel": {
           "code": "595",
@@ -23227,8 +23117,7 @@
         "nameset": [
           "dawlat qatar",
           "qatar",
-          "state of qatar",
-          "the state of qatar"
+          "state of qatar"
         ],
         "tel": {
           "code": "974",
@@ -23533,8 +23422,7 @@
           "republic of serbia",
           "republika srbija",
           "serbia",
-          "srbija",
-          "the republic of serbia"
+          "srbija"
         ],
         "tel": {
           "code": "381",
@@ -23673,25 +23561,24 @@
           "rossiya",
           "rossiyskaya federatsiya",
           "russia",
-          "russian federation",
-          "the russian federation"
+          "russian federation"
         ],
         "tel": {
           "code": "7",
           "domestic": [
-            "16 per 100 for fixed-line and mobile-cellular is 170 per 100 persons",
-            2021
+            "16 per 100 for fixed-line and mobile-cellular is 169 per 100 persons",
+            2022
           ],
           "general": [
-            "the telecom market is the largest in Europe, supported by a population approaching 147 million",
+            "the telecom market is the largest in Europe, supported by a population of about 143 million",
             "the overall market is dominated by the western regions, particularly Moscow and St Petersburg which are the main cities and economic centers",
-            "all sectors of the market have been liberalized, with competition most prevalent in the two largest regional markets",
-            "the fiber broadband sector has shown considerable growth, supported by the government\u2019s program to extend the reach of broadband to outlying regions",
-            "the development of 5G services has been stymied by the lack of spectrum",
-            "although MNOs have licenses to use 700MHz spectrum for 5G, this spectrum has yet to be released by broadcasters",
-            "spectrum in the 3.4GHz range commonly used for 5G in Europe has been restricted for use in Russia by the military and intelligence agencies",
-            "despite these limitations, the four principal MNOs each have an equal share in a joint venture aimed at developing a strategy to deploy 5G using shared network and spectrum assets",
-            2022
+            "many other regions in the east and north of the country were settled during the Soviet period",
+            "the telecommunication companies continue to deploy and modernize fixed-line network infrastructure to offer improved broadband services as well as a range of IP-delivered content",
+            "the number of Digital Subscriber Line (DSL) connections continues to decrease as subscribers are migrated to fiber",
+            "the development of 5G services has been hindered by the lack of frequencies",
+            "the 3.4GHz range commonly used for 5G in Europe has been restricted for use in Russia by the military and intelligence agencies",
+            "the Mobile Network Operators (MNOs) have an equal share in a joint venture, New Digital Solutions, aimed at developing a strategy to deploy 5G using a shared network",
+            2024
           ],
           "intl": [
             "landing points for the Far East Submarine Cable System, HSCS, Sakhalin-Kuril Island Cable, RSCN, BCS North-Phase 2, Kerch Strait Cable and the Georgia-Russian submarine cable system connecting Russia, Japan, Finland, Georgia and Ukraine",
@@ -23773,8 +23660,7 @@
         "25096",
         "25097",
         "25098",
-        "25099",
-        "25598"
+        "25099"
       ],
       "msisdn": [
         "7",
@@ -23840,8 +23726,7 @@
         "nameset": [
           "republic of rwanda",
           "republika y'u rwanda",
-          "rwanda",
-          "the republic of rwanda"
+          "rwanda"
         ],
         "tel": {
           "code": "250",
@@ -23972,8 +23857,7 @@
           "al arabiyah as suudiyah",
           "al mamlakah al arabiyah as suudiyah",
           "kingdom of saudi arabia",
-          "saudi arabia",
-          "the kingdom of saudi arabia"
+          "saudi arabia"
         ],
         "tel": {
           "code": "966",
@@ -24031,6 +23915,8 @@
         "42005",
         "42006",
         "42007",
+        "42009",
+        "42010",
         "42021"
       ],
       "msisdn": [
@@ -24093,8 +23979,7 @@
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/solomon-islands/"
         },
         "nameset": [
-          "solomon islands",
-          "the solomon islands"
+          "solomon islands"
         ],
         "tel": {
           "code": "677",
@@ -24214,8 +24099,7 @@
         },
         "nameset": [
           "republic of seychelles",
-          "seychelles",
-          "the republic of seychelles"
+          "seychelles"
         ],
         "tel": {
           "code": "248",
@@ -24341,7 +24225,6 @@
           "jumhuriyat as-sudan",
           "republic of the sudan",
           "sudan",
-          "the republic of the sudan",
           "the sudan"
         ],
         "tel": {
@@ -24472,8 +24355,7 @@
           "kingdom of sweden",
           "konungariket sverige",
           "sverige",
-          "sweden",
-          "the kingdom of sweden"
+          "sweden"
         ],
         "tel": {
           "code": "46",
@@ -24579,6 +24461,7 @@
         "24049",
         "24050",
         "24051",
+        "24059",
         "24060",
         "24061",
         "24063",
@@ -24649,8 +24532,7 @@
         },
         "nameset": [
           "republic of singapore",
-          "singapore",
-          "the republic of singapore"
+          "singapore"
         ],
         "tel": {
           "code": "65",
@@ -24911,8 +24793,7 @@
           "republic of slovenia",
           "republika slovenija",
           "slovenia",
-          "slovenija",
-          "the republic of slovenia"
+          "slovenija"
         ],
         "tel": {
           "code": "386",
@@ -25111,14 +24992,13 @@
           "slovak republic",
           "slovakia",
           "slovenska republika",
-          "slovensko",
-          "the slovak republic"
+          "slovensko"
         ],
         "tel": {
           "code": "421",
           "domestic": [
-            "fixed-line is 11 per 100 and mobile-cellular is 135 per 100 teledensity",
-            2021
+            "fixed-line is 10 per 100 and mobile-cellular is 132 per 100 tele density",
+            2022
           ],
           "general": [
             "the broadband market has shown steady growth in recent years",
@@ -25127,7 +25007,7 @@
             "mobile broadband access and content services are developing rapidly in line with operators having upgraded their networks",
             "the regulator prepared the groundwork for 5G services in line with European Union requirements, with concessions in the 3.5GHz range followed by those in the 700MHz, 900MHz and 1800MHz bands",
             "5G was launched in late 2021 and is expected to cover about a fifth of the population by the end of 2022",
-            2021
+            2024
           ],
           "intl": [
             "3 international exchanges (1 in Bratislava and 2 in Banska Bystrica) are available",
@@ -25239,8 +25119,7 @@
         },
         "nameset": [
           "republic of sierra leone",
-          "sierra leone",
-          "the republic of sierra leone"
+          "sierra leone"
         ],
         "tel": {
           "code": "232",
@@ -25350,8 +25229,7 @@
         "nameset": [
           "repubblica di san marino",
           "republic of san marino",
-          "san marino",
-          "the republic of san marino"
+          "san marino"
         ],
         "tel": {
           "code": "378",
@@ -25461,13 +25339,12 @@
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/senegal/"
         },
         "nameset": [
+          "r&eacute;publique du s&eacute;n&eacute;gal",
+          "randeacute;publique du sandeacute;nandeacute;gal",
           "republic of senegal",
-          "republique du s&eacute;n&eacute;gal",
-          "republique du sandeacute;nandeacute;gal",
           "s&eacute;n&eacute;gal",
           "sandeacute;nandeacute;gal",
-          "senegal",
-          "the republic of senegal"
+          "senegal"
         ],
         "tel": {
           "code": "221",
@@ -25588,8 +25465,7 @@
           "jamhuuriyadda federaalka soomaaliya (somali)/ jumhuriyat as sumal al fidiraliyah (arabic)",
           "somalia",
           "soomaaliya",
-          "soomaaliya (somali)/ as sumal (arabic)",
-          "the federal republic of somalia"
+          "soomaaliya (somali)/ as sumal (arabic)"
         ],
         "tel": {
           "code": "252",
@@ -25723,8 +25599,7 @@
         "nameset": [
           "republic of suriname",
           "republiek suriname",
-          "suriname",
-          "the republic of suriname"
+          "suriname"
         ],
         "tel": {
           "code": "597",
@@ -25836,8 +25711,7 @@
         },
         "nameset": [
           "republic of south sudan",
-          "south sudan",
-          "the republic of south sudan"
+          "south sudan"
         ],
         "tel": {
           "code": "211",
@@ -25960,8 +25834,7 @@
           "democratic republic of s\u00e3o tom\u00e9 and pr\u00edncipe",
           "republica democratica de sao tome e principe",
           "sao tome and principe",
-          "sao tome e principe",
-          "the democratic republic of s\u00e3o tom\u00e9 and pr\u00edncipe"
+          "sao tome e principe"
         ],
         "tel": {
           "code": "239",
@@ -26075,8 +25948,7 @@
         "nameset": [
           "el salvador",
           "republic of el salvador",
-          "rep\u00fablica de el salvador",
-          "the republic of el salvador"
+          "rep\u00fablica de el salvador"
         ],
         "tel": {
           "code": "503",
@@ -26329,8 +26201,7 @@
           "al jumhuriyah al arabiyah as suriyah",
           "suriyah",
           "syria",
-          "syrian arab republic",
-          "the syrian arab republic"
+          "syrian arab republic"
         ],
         "tel": {
           "code": "963",
@@ -26388,7 +26259,8 @@
         "41701",
         "41702",
         "41703",
-        "41709"
+        "41709",
+        "41750"
       ],
       "msisdn": [
         "963"
@@ -26445,7 +26317,6 @@
         "nameset": [
           "eswatini",
           "kingdom of eswatini",
-          "the kingdom of eswatini",
           "umbuso weswatini"
         ],
         "tel": {
@@ -26587,7 +26458,6 @@
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/turks-and-caicos-islands/"
         },
         "nameset": [
-          "the turks and caicos islands",
           "turks and caicos islands"
         ],
         "tel": {
@@ -26693,10 +26563,10 @@
         },
         "nameset": [
           "chad",
+          "r&eacute;publique du tchad/jumhuriyat tshad",
+          "randeacute;publique du tchad/jumhuriyat tshad",
           "republic of chad",
-          "republique du tchad/jumhuriyat tshad",
-          "tchad/tshad",
-          "the republic of chad"
+          "tchad/tshad"
         ],
         "tel": {
           "code": "235",
@@ -26838,10 +26708,10 @@
         "nameset": [
           "french southern and antarctic lands",
           "french southern territories",
+          "terres australes et antarctiques fran&ccedil;aises",
+          "terres australes et antarctiques franandccedil;aises",
           "terres australes et antarctiques francaises",
-          "territoire des terres australes et antarctiques francaises",
-          "territory of the french southern and antarctic lands",
-          "the french southern and antarctic lands"
+          "territory of the french southern and antarctic lands"
         ],
         "tel": {
           "tld": ".tf",
@@ -26916,8 +26786,8 @@
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/togo/"
         },
         "nameset": [
-          "republique togolaise",
-          "the togolese republic",
+          "r&eacute;publique togolaise",
+          "randeacute;publique togolaise",
           "togo",
           "togolese republic"
         ],
@@ -27033,8 +26903,7 @@
           "kingdom of thailand",
           "prathet thai",
           "ratcha anachak thai",
-          "thailand",
-          "the kingdom of thailand"
+          "thailand"
         ],
         "tel": {
           "code": "66",
@@ -27165,14 +27034,13 @@
           "jumhurii tojikiston",
           "republic of tajikistan",
           "tajikistan",
-          "the republic of tajikistan",
           "tojikiston"
         ],
         "tel": {
           "code": "992",
           "domestic": [
             "fixed-line over 5 per 100 and mobile-cellular over 119 per 100",
-            2021
+            2022
           ],
           "general": [
             "the size of Tajikistan\u2019s mobile market dwarfs the fixed line segment, with an estimated penetration rate of nearly 120%",
@@ -27180,7 +27048,7 @@
             "three MNOs have all launched commercial 5G services, initially in areas of the capital city Dushanbe",
             "the move towards higher speed mobile services should further underpin the growth in the nascent mobile broadband market, which is still estimated to be at a relatively low penetration level of 42% (at least relative to most other Asian nations) but is predicted to be a strong compound annual growth rate of more than 8% for at least the next five years",
             "the ICT ecosystem is a complex mix of foreign operators from the People's Republic of China, the Russian Federation, state-owned enterprises, and telecom systems established by donors and non-governmental organizations",
-            2021
+            2024
           ],
           "intl": [
             "linked by cable and microwave radio relay to other CIS republics and by leased connections to the Moscow international gateway switch",
@@ -27370,7 +27238,6 @@
           "east timor",
           "republika demokratika timor lorosa'e",
           "republika demokratika timor lorosa'e (tetum)/ republica democratica de timor-leste (portuguese)",
-          "the democratic republic of timor-leste",
           "timor lorosa'e",
           "timor lorosa'e (tetum)/ timor-leste (portuguese)",
           "timor-leste"
@@ -27492,15 +27359,15 @@
           "code": "993",
           "domestic": [
             "fixed-line is 13 per 100 and mobile-cellular teledensity is 99 per 100 persons",
-            2021
+            2022
           ],
           "general": [
             "the nation of Turkmenistan, which rivals only North Korea for its isolationism, continues to keep its telecom sector along with the broader populace under tight control",
             "the country inched up just one point off the bottom of the world rankings for press and internet freedom in the most recent report from Reporters Without Borders",
             "most social networks in the country are blocked, although locals do have access to the government-developed platform released in 2019",
             "all internet users, however, need to identify themselves before logging on, and strict censorship over what can be viewed is in force",
-            "the end result is that Turkmenistan has one of the lowest penetration rates for internet access in the world",
-            2022
+            "the end result is that Turkmenistan has one of the lowest usage rates for internet access in the world",
+            2024
           ],
           "intl": [
             "linked by fiber-optic cable and microwave radio relay to other CIS republics and to other countries by leased connections to the Moscow international gateway switch",
@@ -27603,7 +27470,6 @@
         "nameset": [
           "al jumhuriyah at tunisiyah",
           "republic of tunisia",
-          "the republic of tunisia",
           "tunis",
           "tunisia"
         ],
@@ -27724,7 +27590,6 @@
         "nameset": [
           "kingdom of tonga",
           "pule'anga fakatu'i 'o tonga",
-          "the kingdom of tonga",
           "tonga"
         ],
         "tel": {
@@ -27845,7 +27710,6 @@
         "nameset": [
           "republic of turkey",
           "republic of t\u00fcrkiye",
-          "the republic of t\u00fcrkiye",
           "turkey",
           "turkey cumhuriyeti",
           "t\u00fcrkiye"
@@ -27965,7 +27829,6 @@
         },
         "nameset": [
           "republic of trinidad and tobago",
-          "the republic of trinidad and tobago",
           "trinidad and tobago"
         ],
         "tel": {
@@ -28193,8 +28056,7 @@
         "nameset": [
           "china",
           "republic of china",
-          "taiwan",
-          "the republic of china"
+          "taiwan"
         ],
         "tel": {
           "code": "886",
@@ -28340,7 +28202,6 @@
         "nameset": [
           "jamhuri ya muungano wa tanzania",
           "tanzania",
-          "the united republic of tanzania",
           "united republic of tanzania"
         ],
         "tel": {
@@ -28480,12 +28341,18 @@
           "code": "380",
           "domestic": [
             "fixed-line teledensity is 6 per 100",
-            "the mobile-cellular telephone is 140 mobile phones per 100 persons",
-            2021
+            "the mobile-cellular telephone is 135 mobile phones per 100 persons",
+            2022
           ],
           "general": [
             "there has been considerable damage and destruction to the communications infrastructure in more than 10 out of 24 regions of Ukraine since the war started",
-            2023
+            "Ukraine estimates it will need $4.67 billion (&euro",
+            "4.38 billion) over 10 years to repair an overlooked but expensive casualty in the ongoing Russian invasion: its telecommunications network",
+            "forty-five per cent of the total network damage is felt by fixed broadband operators, followed closely by mobile operators at 43 percent",
+            "\"it will be difficult to restore telecommunications to their pre-war level until there are \"conditions for the safe living of consumers and service providers\"",
+            "the World Bank estimates that roughly 12 per cent of all Ukrainian households have lost mobile service connection: an issue, the report notes, that \"affects not only personal communication but also critical services and economic activities\"",
+            "Ukraine is also one of the biggest users of SpaceX\u2019s Starlink, a series of satellites in space that transmit radio signals to users on Earth, with 47,000 units being used by the country",
+            2024
           ],
           "intl": [
             "landing point for the Kerch Strait Cable connecting Ukraine to Russia",
@@ -28596,7 +28463,6 @@
         },
         "nameset": [
           "republic of uganda",
-          "the republic of uganda",
           "uganda"
         ],
         "tel": {
@@ -28727,7 +28593,6 @@
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/united-kingdom/"
         },
         "nameset": [
-          "the united kingdom of great britain and northern ireland",
           "united kingdom",
           "united kingdom of great britain and northern ireland",
           "united kingdom of great britain and northern ireland; note - the island of great britain includes england scotland and wales",
@@ -28884,8 +28749,9 @@
           "url_region": "https://en.wikipedia.org/wiki/ISO_3166-2:UM"
         },
         "nameset": [
-          "baker\u00a0island",
-          "united states minor outlying islands"
+          "united states minor outlying islands",
+          "united states pacific island wildlife refuges",
+          "united states pacific island wildlife refuges,"
         ],
         "tel": {}
       },
@@ -28960,15 +28826,14 @@
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/united-states/"
         },
         "nameset": [
-          "the united states of america",
           "united states",
           "united states of america"
         ],
         "tel": {
           "code": "1",
           "domestic": [
-            "fixed-line just over 29 per 100 and mobile-cellular is 110 per 100",
-            2021
+            "fixed-line just over 27 per 100 and mobile-cellular is 110 per 100",
+            2022
           ],
           "general": [
             "the US telecom sector adapted well to the particular demands of the pandemic, which has led to strong growth in the number of mobile, mobile broadband, and fixed broadband subscribers since 2020",
@@ -28985,7 +28850,7 @@
             "the process of migrating from copper (HFC and DSL) to fiber is ongoing, but given the scale of the work involved it will take some years",
             "some operators have investment strategies in place through to 2025, which will see the vast majority of their fixed networks being entirely on fiber",
             "service offerings of up to 2Gb/s are becoming more widely available as the process continues",
-            2022
+            2024
           ],
           "intl": [
             "landing points for the Quintillion Subsea Cable Network, TERRA SW, AU-Aleutian, KKFL, AKORN, Alaska United -West, & -East & -Southeast, North Star, Lynn Canal Fiber, KetchCar 1, PC-1, SCCN, Tat TGN-Pacific & -Atlantic, Jupiter, Hawaiki, NCP, FASTER, HKA, JUS, AAG, BtoBE, Currie, Southern Cross NEXT, SxS, PLCN, Utility EAC-Pacific, SEA-US, Paniolo Cable Network, HICS, HIFN, ASH, Telstra Endeavor, Honotua, AURORA, ARCOS, AMX-1, Americas -I & -II, Columbus IIb & -III, Maya-1, MAC, GTMO-1, BICS, CFX-1, GlobeNet, Monet, SAm-1, Bahamas 2, PCCS, BRUSA, Dunant, MAREA, SAE x1, TAT 14, Apollo, Gemini Bermuda, Havfrue/AEC-2, Seabras-1, WALL-LI, NYNJ-1, FLAG Atalantic-1, Yellow, Atlantic Crossing-1, AE Connect -1, sea2shore, Challenger Bermuda-1, and GTT Atlantic submarine cable systems providing international connectivity to Europe, Africa, the Middle East, Asia, Southeast Asia, Australia, New Zealand, Pacific, & Atlantic, and Indian Ocean Islands, Central and South America, Caribbean, Canada and US",
@@ -29622,7 +29487,6 @@
         "nameset": [
           "oriental republic of uruguay",
           "rep\u00fablica oriental del uruguay",
-          "the oriental republic of uruguay",
           "uruguay"
         ],
         "tel": {
@@ -29636,22 +29500,24 @@
             "fixed-line teledensity is also particularly high for the region, while mobile penetration is the second highest after Panama",
             "in terms of computer penetration, Uruguay tops all other countries in the region by a considerable margin, and this has facilitated growth in fixed-line broadband adoption",
             "the government and telecom regulator have introduced a range of measures to help develop the deployment of fiber infrastructure, partly in a bid to encourage economic growth and stimulate e-commerce",
-            "fiber accounted for about 77% of all fixed and fixed-wireless broadband connections as of June 2020",
-            "with investment projected to reach $800 million, the state-owned incumbent Antel is expected to provide national FttP coverage by early 2022",
+            "fiber accounted for over 95% of all fixed and fixed-wireless broadband connections as of December 2023",
+            "with investment projected to reach $800 million, the state-owned incumbent Antel is expected to provide national Fiber to the premises (FttP) coverage by 2023",
             "together with the FttP network, the opening of the submarine cable system in early 2012 and August 2017 have helped boost Uruguay\u2019s internet bandwidth, and increase the data rate available to end-users",
-            "Uruguay is one of the very few Latin American countries where the local fixed-line market is neither privatized nor liberalized",
-            "other segments of the telecom market have been opened to competition, including international long-distance telephony, mobile telephony, and fixed-wireless broadband",
-            "Uruguay is also one of the few countries in the world where broadband access via cable modem does not exist",
-            "although cable networks are well equipped technologically, and digital cable TV is widely available, telecom legislation prohibits data transmission over pay TV networks",
-            "the government announced in December 2020 that it intended to introduce changes to the law to permit pay TV providers to offer internet and telephony packages over their own networks",
+            "changes in legislation in 2020 allowed cable companies to provide home internet service for the first time, ending the state monopoly",
+            "Uruguay's regulator authorized five cable companies to provide broadband service",
+            "while the country's broadband network is state owned, other segments of the telecom market have been opened to competition, including international long-distance telephony, mobile telephony, and fixed-wireless broadband",
+            "cable networks are well equipped technologically, and digital cable TV is widely available, telecom legislation prohibits data transmission over pay TV networks",
             "all three operators offer mobile broadband through 3G and LTE networks",
             "operators have achieved nationwide 3G coverage and the number of mobile broadband subscribers continues to grow",
             "at the end of 2019, spectrum in the 5G-suitable range was auctioned, enabling operators to launch 5G services",
-            "the regulator is working on a spectrum and connectivity policy that emphasizes 5G",
+            "Uruguay's regulators held a 5G spectrum auction in June 2023",
+            "the three incumbent operators each acquired 100 Ghz in the 3.5 GHz midband",
+            "in 2023, Uruguay's state telecom has deployed hundreds of 5G radio bases, covering all regional capitals",
             2021
           ],
           "intl": [
             "landing points for the Unisor, Tannat, and Bicentenario submarine cable system providing direct connectivity to Brazil and Argentina",
+            "the Firmina cable, which landed in 2023, allowed for direct connectivity to the United States",
             "Bicentenario 2012 and Tannat 2017 cables helped end-users with Internet bandwidth",
             "satellite earth stations - 2 Intelsat (Atlantic Ocean)",
             2020
@@ -29750,14 +29616,13 @@
           "o'zbekiston",
           "o'zbekiston respublikasi",
           "republic of uzbekistan",
-          "the republic of uzbekistan",
           "uzbekistan"
         ],
         "tel": {
           "code": "998",
           "domestic": [
-            "fixed-line nearly 17 per 100 persons and mobile-cellular teledensity of 100 per 100 persons",
-            2021
+            "fixed-line nearly 16 per 100 persons and mobile-cellular teledensity of 103 per 100 persons",
+            2022
           ],
           "general": [
             "Uzbekistan\u2019s telecom markets both wireline and wireless have been playing \"catch up\" in terms of their development following the country's independence from the former Soviet Union",
@@ -29768,8 +29633,7 @@
             "despite the promising signs in the fixed markets, it is the mobile segment that continues to dominate Uzbekistan\u2019s telecoms sector in terms of penetration, revenue, and growth",
             "there are four major operators providing a modicum of competition",
             "three of the four are government owned entities",
-            "the mobile market is expected to reach 100% penetration in 2023 a 50% increase in the last five years",
-            2022
+            2024
           ],
           "intl": [
             "linked by fiber-optic cable or microwave radio relay with CIS member states and to other countries by leased connection via the Moscow international gateway switch",
@@ -29867,7 +29731,6 @@
           "la santa sede (stato della citta del vaticano)",
           "santa sede",
           "santa sede (citta del vaticano)",
-          "the holy see",
           "the holy see (vatican city state)",
           "vatican"
         ],
@@ -30085,25 +29948,18 @@
         "nameset": [
           "bolivarian republic of venezuela",
           "rep\u00fablica bolivariana de venezuela",
-          "the bolivarian republic of venezuela",
           "venezuela"
         ],
         "tel": {
           "code": "58",
           "domestic": [
-            "fixed-line is 11 per 100 and mobile-cellular telephone subscribership is 60 per 100 persons",
+            "fixed-line is 10 per 100 and mobile-cellular telephone subscribership is 67 per 100 persons",
             2021
           ],
           "general": [
-            "Venezuela\u2019s fixed-line teledensity was relatively high for the region before the steady growth in the number of lines came to an end in 2015",
-            "since then, the number of lines has plummeted, and by late 2021 teledensity had fallen to about 17.3%",
-            "the cause is largely linked to the country\u2019s ongoing economic troubles, which have compelled many people to terminate fixed-line telecom services and others still to flee the country",
-            "these pressures have also distorted sector revenue and have placed into disarray operators\u2019 investment plans aimed at improving networks and expanding the reach and capabilities of new technologies and services",
-            "the fixed broadband penetration rate is lower than the regional average, while data speeds are also relatively low",
-            "there is no effective competition in the provision of DSL, and as a result the state-owned incumbent CANTV has had little incentive to improve services from its meager revenue streams",
-            "mobile penetration in Venezuela is also below the regional average",
-            "the number of mobile subscribers fell by an estimated 2.4% in 2020, year-on-year, as subscribers terminated services in a bid to reduce discretionary spending, this decline is expected to continue into 2022, with subscriber growth not returning until 2023",
-            2021
+            "Venezuela\u2019s fixed-line penetration was relatively high for the region at 7.8 million lines in 2014 but the steady growth in the number of lines came to an end in 2015",
+            "since then, the number of fixed lines has plummeted to 2.7 million",
+            2022
           ],
           "intl": [
             "landing points for the Venezuela Festoon, ARCOS, PAN-AM, SAC, GlobeNet, ALBA-1 and Americas II submarine cable system providing connectivity to the Caribbean, Central and South America, and US",
@@ -30204,7 +30060,6 @@
         },
         "nameset": [
           "british virgin islands",
-          "the virgin islands",
           "virgin islands"
         ],
         "tel": {
@@ -30321,7 +30176,6 @@
           "url_wfb": "https://www.cia.gov/the-world-factbook/countries/virgin-islands/"
         },
         "nameset": [
-          "the virgin islands of the united states",
           "united states virgin islands",
           "virgin islands",
           "virgin islands of the united states"
@@ -30440,7 +30294,6 @@
           "cong hoa xa hoi chu nghia viet nam",
           "socialist republic of viet nam",
           "socialist republic of vietnam",
-          "the socialist republic of viet nam",
           "viet nam",
           "vietnam"
         ],
@@ -30567,7 +30420,6 @@
         "nameset": [
           "republic of vanuatu",
           "ripablik blong vanuatu",
-          "the republic of vanuatu",
           "vanuatu"
         ],
         "tel": {
@@ -30684,7 +30536,6 @@
         "nameset": [
           "territoire des iles wallis et futuna",
           "territory of the wallis and futuna islands",
-          "the territory of the wallis and futuna islands",
           "wallis and futuna",
           "wallis et futuna"
         ],
@@ -30794,8 +30645,7 @@
         "nameset": [
           "independent state of samoa",
           "malo sa'oloto tuto'atasi o samoa",
-          "samoa",
-          "the independent state of samoa"
+          "samoa"
         ],
         "tel": {
           "code": "685",
@@ -31018,7 +30868,6 @@
           "al jumhuriyah al yamaniyah",
           "al yaman",
           "republic of yemen",
-          "the republic of yemen",
           "yemen"
         ],
         "tel": {
@@ -31101,8 +30950,7 @@
         },
         "nameset": [
           "department of mayotte",
-          "mayotte",
-          "the department of mayotte"
+          "mayotte"
         ],
         "tel": {
           "tld": ".yt",
@@ -31188,8 +31036,7 @@
         },
         "nameset": [
           "republic of south africa",
-          "south africa",
-          "the republic of south africa"
+          "south africa"
         ],
         "tel": {
           "code": "27",
@@ -31242,6 +31089,8 @@
         "65505",
         "65506",
         "65507",
+        "65508",
+        "65509",
         "65510",
         "65511",
         "65512",
@@ -31249,6 +31098,7 @@
         "65514",
         "65516",
         "65517",
+        "65518",
         "65519",
         "65521",
         "65524",
@@ -31335,7 +31185,6 @@
         },
         "nameset": [
           "republic of zambia",
-          "the republic of zambia",
           "zambia"
         ],
         "tel": {
@@ -31448,7 +31297,6 @@
         },
         "nameset": [
           "republic of zimbabwe",
-          "the republic of zimbabwe",
           "zimbabwe"
         ],
         "tel": {
