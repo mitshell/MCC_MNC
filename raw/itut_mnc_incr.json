@@ -436,6 +436,21 @@
         "Xplore Inc.",
         "302131",
         "LIR"
+      ],
+      [
+        "Rogers Communications Canada Inc. (Wireless)",
+        "302722",
+        "ADD"
+      ],
+      [
+        "Rogers Communications Canada Inc. (Wireless)",
+        "302723",
+        "ADD"
+      ],
+      [
+        "Rogers Communications Canada Inc. (Wireless)",
+        "302724",
+        "ADD"
       ]
     ],
     "Cayman Islands": [
@@ -1050,6 +1065,11 @@
         "HM EI Zrt.",
         "21602",
         "ADD"
+      ],
+      [
+        "Yettel Hungary Ltd.",
+        "21625",
+        "ADD"
       ]
     ],
     "International Mobile, shared code": [
@@ -1387,6 +1407,11 @@
         "Mobile Telecommunications Company K.S.C.P. /Zain Bahrain BSC",
         "90149",
         "LIR"
+      ],
+      [
+        "OQ Technology",
+        "90130",
+        "ADD"
       ]
     ],
     "Iran (Islamic Republic of)": [
@@ -1797,6 +1822,26 @@
         "Vroove Inc.",
         "441214",
         "ADD"
+      ],
+      [
+        "KYOCERA Mirai Envision Co., Ltd.",
+        "441215",
+        "ADD"
+      ],
+      [
+        "Eureka Wireless K.K.",
+        "441216",
+        "ADD"
+      ],
+      [
+        "Japan Communications Inc.",
+        "44024",
+        "ADD"
+      ],
+      [
+        "STARCAT Co., Ltd.",
+        "441211",
+        "LIR"
       ]
     ],
     "Kazakhstan": [
@@ -2837,6 +2882,11 @@
         "Mediafon Carrier Services UAB",
         "24022",
         "ADD"
+      ],
+      [
+        "Telavox AB",
+        "24050",
+        "LIR"
       ]
     ],
     "Switzerland": [
@@ -3000,6 +3050,11 @@
         "Halys SAS (end of temporary assignment for trial on 6.IV.2022)",
         "99103",
         "SUP"
+      ],
+      [
+        "E-Space Inc. (temporary assignment for trial until 17.X.2025)",
+        "99104",
+        "ADD"
       ]
     ],
     "Turks and Caicos Islands": [
