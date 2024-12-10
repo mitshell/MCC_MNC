@@ -259,7 +259,7 @@ WORLD_FB = \
                                  'subs_fixed': {'num': 10000, 'year': 2021},
                                  'subs_mobile': {'num': 2250, 'year': 2009},
                                  'telecom': { 'code': '1684',
-                                              'domestic': ['nearly 22 per 100 fixed-line teledensity', 2020],
+                                              'domestic': ['nearly 22 per 100 fixed-line tele density', 2021],
                                               'general': [ 'American Samoa Telecommunications Authority, ASTCA, '
                                                            'supplies telecommunication services to the residents of '
                                                            'the American Samoan islands, a territory of the United '
@@ -693,19 +693,19 @@ WORLD_FB = \
                           'subs_fixed': {'num': 366000, 'year': 2022},
                           'subs_mobile': {'num': 3761000, 'year': 2022},
                           'telecom': { 'code': '374',
-                                       'domestic': [ 'roughly 15 per 100 fixed-line and 129 per 100 mobile-cellular',
+                                       'domestic': [ 'roughly 13 per 100 fixed-line and 135 per 100 mobile-cellular',
                                                      'reliable fixed-line and mobile-cellular services are available '
                                                      'across Yerevan and in major cities and towns',
                                                      'mobile-cellular coverage available in most rural areas',
-                                                     2021],
-                                       'general': [ 'Armenia’s telecom sector was able to post in the mobile and '
-                                                    'broadband segments',
-                                                    'its fixed-line penetration continues to slide downwards, with the '
-                                                    'rollout of fiber networks which have encouraged the increase in '
-                                                    'bundled services',
+                                                     2022],
+                                       'general': [ 'the telecom sector was able to post modest gains in the mobile '
+                                                    'and broadband segments',
+                                                    'fixed-line services continue to decrease with the rollout of '
+                                                    'fiber networks',
                                                     'the fixed broadband market remains undeveloped due to the lack of '
-                                                    'underlying infrastructure outside the main cities',
-                                                    2021],
+                                                    'infrastructure outside the main cities',
+                                                    'mobile broadband is expected increase by 2026',
+                                                    2024],
                                        'intl': [ 'Yerevan is connected to the Caucasus Cable System fiber-optic cable '
                                                  'through Georgia and Iran to Europe',
                                                  'additional international service is available by microwave radio '
@@ -990,37 +990,37 @@ WORLD_FB = \
                              'subs_mobile': {'num': 11068000, 'year': 2022},
                              'telecom': { 'code': '994',
                                           'domestic': [ '16 fixed-lines subscriptions per 100 persons',
-                                                        'mobile-cellular subscriptions of 105 telephones per 100 '
+                                                        'mobile-cellular subscriptions of 107 telephones per 100 '
                                                         'persons',
-                                                        2021],
-                                          'general': [ 'in spite of the telecom sector being one of the major '
-                                                       'contributors to Azerbaijan’s non-oil GDP, overall development, '
-                                                       'growth, and investment in the sector has been held back by '
-                                                       'years of political and civil unrest coupled with endemic '
-                                                       'corruption',
-                                                       'mobile penetration rates reached 100% as far back as 2011 but '
-                                                       'have largely stagnated since then',
+                                                        2022],
+                                          'general': [ 'the telecom sector was one of the major contributors to '
+                                                       'Azerbaijan’s non-oil GDP, overall development, growth, and '
+                                                       'investment',
+                                                       'mobile usage rates reached 100% as far back as 2011, but have '
+                                                       'largely stagnated since then',
                                                        'the Mobile Network Operators (MNOs) are slowly extending the '
-                                                       'reach of their LTE networks around the country, and this '
-                                                       'increased coverage (along with access to faster data-based '
-                                                       'services) is expected to produce a moderate resurgence for '
-                                                       'both mobile and mobile broadband over the next few years as '
-                                                       'customers migrate from 3G to 4G. 5G services are still some '
-                                                       'ways off, as the demand for high-speed data and fast broadband '
-                                                       'can easily be met by existing capacity on LTE networks',
-                                                       'fixed-line teledensity continues to drop down each year as '
+                                                       'reach of their long-term evolution (LTE) networks around the '
+                                                       'country, and this increased coverage (along with access to '
+                                                       'faster data-based services) is expected to produce a moderate '
+                                                       'resurgence for both mobile and mobile broadband over the next '
+                                                       'few years as customers migrate from 3G to 4G. 5G services are '
+                                                       'still some ways off, as the demand for high-speed data and '
+                                                       'fast broadband can easily be met by existing capacity on LTE '
+                                                       'networks',
+                                                       'fixed-line tele density continues to drop down each year as '
                                                        'customers consolidate their telecommunications services around '
                                                        'the mobile platform',
-                                                       'the rate of decline is comparatively slower than other '
+                                                       'yet the rate of decline is comparatively slow to other '
                                                        'countries, since Azerbaijan has a relatively high proportion '
                                                        'of (87%) of fixed-line broadband customers still on DSL',
-                                                       'fiber is gradually being rolled out in urban areas, and this '
-                                                       'makes up the bulk of the growth being seen in the overall '
-                                                       'fixed broadband market',
+                                                       'Fiber (12% of fixed broadband connections) is gradually being '
+                                                       'rolled out in urban areas, and this makes up the bulk of the '
+                                                       '(limited) growth being seen in the overall fixed broadband '
+                                                       'market',
                                                        'DSL’s predominance, however, will serve to keep Azerbaijan’s '
                                                        'average access speeds in the sub-10Mbps range for the '
                                                        'foreseeable future',
-                                                       2020],
+                                                       2024],
                                           'intl': [ 'Azerbaijan’s largest mobile network operator ( ) launched trial '
                                                     '5G mobile services in Baku on 27 December 2022',
                                                     2023]},
@@ -1378,22 +1378,24 @@ WORLD_FB = \
                           'subs_fixed': {'num': 4230000, 'year': 2022},
                           'subs_mobile': {'num': 11771000, 'year': 2022},
                           'telecom': { 'code': '375',
-                                       'domestic': [ 'fixed-line teledensity is improving although rural areas '
-                                                     'continue to be underserved, approximately 45 per 100 fixed-line',
-                                                     'mobile-cellular teledensity now roughly 123 telephones per 100 '
-                                                     'persons',
-                                                     2021],
-                                       'general': [ 'the Government of Belarus has successfully promoted the migration '
-                                                    'to an all-IP platform as part of a wider effort towards a digital '
-                                                    'transformation for the economy',
-                                                    'the state-supported infrastructure operator beCloud has built an '
-                                                    'extensive fiber network, which reaches all but the smallest '
+                                       'domestic': [ 'fixed-line tele density 44 per 100 fixed-line',
+                                                     'mobile-cellular tele density 123 telephones per 100 persons',
+                                                     2022],
+                                       'general': [ 'the government of Belarus has successfully promoted the migration '
+                                                    'to an all-internet protocol (IP) platform as part of a wider '
+                                                    'effort towards a digital transformation for the economy',
+                                                    'the state-supported infrastructure operator has built an '
+                                                    'extensive fiber network which reaches all but the smallest '
                                                     'settlements in the country',
-                                                    'Belarus has the second-highest fiber subscription rate in Europe, '
-                                                    'behind only Iceland',
-                                                    'LTE coverage is almost universal, while considerable progress has '
-                                                    'also been made in developing 5G services',
-                                                    2021],
+                                                    'Belarus has the second highest fiber usage rate in Europe, behind '
+                                                    'only Iceland',
+                                                    'long-term evolution (LTE) coverage is almost universal, while '
+                                                    'considerable progress has also been made in developing 5G '
+                                                    'services',
+                                                    'telcos have had to invest in network infrastructure while '
+                                                    'managing a significant fall in the value of the local currency '
+                                                    '(particularly against the euro and the US dollar)',
+                                                    2024],
                                        'intl': [ 'Belarus is landlocked and therefore a member of the Trans-European '
                                                  'Line (TEL), Trans-Asia-Europe (TAE) fiber-optic line, and has access '
                                                  'to the Trans-Siberia Line (TSL)',
@@ -1550,7 +1552,7 @@ WORLD_FB = \
                         'coord': ['9 30 N, 2 15 E'],
                         'country_name': { 'conv_long': 'Republic of Benin',
                                           'conv_short': 'Benin',
-                                          'local_long': 'Republique du Benin',
+                                          'local_long': 'R&eacute;publique du Benin',
                                           'local_short': 'Benin'},
                         'population': {'female': 7443794, 'male': 7253258, 'total': 14697052, 'year': 2024},
                         'ports': { 'key ports': 'Cotonou',
@@ -2500,18 +2502,14 @@ WORLD_FB = \
                                                     'Tanzania': 589},
                                           'len': 1140},
                           'capital': { 'coord': '3 25 S, 29 55 E',
-                                       'name': 'Gitega (political capital), Bujumbura (commercial capital); note - in '
-                                               'January 2019, the Burundian parliament voted to make Gitega the '
-                                               'political capital of the country while Bujumbura would remain its '
-                                               "economic capital; as of 2023, the government's move to Gitega remains "
-                                               'incomplete',
+                                       'name': 'Gitega (political capital), Bujumbura (commercial capital)',
                                        'time_diff': 'UTC+2'},
                           'coastline': {'num': 0},
                           'coord': ['3 30 S, 30 00 E'],
                           'country_name': { 'conv_long': 'Republic of Burundi',
                                             'conv_short': 'Burundi',
-                                            'local_long': "Republique du Burundi (French)/ Republika y'u Burundi "
-                                                          '(Kirundi)',
+                                            'local_long': "R&eacute;publique du Burundi (French)/ Republika y'u "
+                                                          'Burundi (Kirundi)',
                                             'local_short': 'Burundi'},
                           'population': {'female': 6834646, 'male': 6755456, 'total': 13590102, 'year': 2024},
                           'region': ['Africa'],
@@ -2726,8 +2724,8 @@ WORLD_FB = \
                            'coord': ['6 00 N, 12 00 E'],
                            'country_name': { 'conv_long': 'Republic of Cameroon',
                                              'conv_short': 'Cameroon',
-                                             'local_long': 'Republique du Cameroun (French)/Republic of Cameroon '
-                                                           '(English)',
+                                             'local_long': 'R&eacute;publique du Cameroun (French)/Republic of '
+                                                           'Cameroon (English)',
                                              'local_short': 'Cameroun/Cameroon'},
                            'heliports': {'num': 1, 'year': 2024},
                            'population': {'female': 15536517, 'male': 15429588, 'total': 30966105, 'year': 2024},
@@ -2814,9 +2812,9 @@ WORLD_FB = \
                          'subs_fixed': {'num': 11312000, 'year': 2022},
                          'subs_mobile': {'num': 35082000, 'year': 2022},
                          'telecom': { 'code': '1',
-                                      'domestic': [ 'Nearly 34 per 100 fixed-line and 86 per 100 mobile-cellular '
+                                      'domestic': [ 'Nearly 29 per 100 fixed-line and 91 per 100 mobile-cellular '
                                                     'teledensity',
-                                                    2021],
+                                                    2022],
                                       'general': [ 'the Canadian telecom market continues to show steady development '
                                                    'as operators invest in network upgrades',
                                                    'much of the investment among telcos has been channeled into LTE '
@@ -2840,7 +2838,7 @@ WORLD_FB = \
                                                    'the major players effectively offer 99% population coverage with '
                                                    'LTE',
                                                    'operators now provide up to 70% population coverage with 5G',
-                                                   2022],
+                                                   2024],
                                       'intl': [ 'landing points for the Nunavut Undersea Fiber Optic Network System, '
                                                 'Greenland Connect, Persona, GTT Atlantic, and Express, KetchCan 1 '
                                                 'Submarine Fiber Cable system, St Pierre and Miquelon Cable submarine '
@@ -2931,7 +2929,7 @@ WORLD_FB = \
                                            'coord': ['7 00 N, 21 00 E'],
                                            'country_name': { 'conv_long': 'Central African Republic',
                                                              'conv_short': 'none',
-                                                             'local_long': 'Republique Centrale Africaine',
+                                                             'local_long': 'R&eacute;publique centrafricaine',
                                                              'local_short': 'none'},
                                            'population': { 'female': 2836460,
                                                            'male': 2814497,
@@ -3002,7 +3000,7 @@ WORLD_FB = \
                        'coord': ['15 00 N, 19 00 E'],
                        'country_name': { 'conv_long': 'Republic of Chad',
                                          'conv_short': 'Chad',
-                                         'local_long': 'Republique du Tchad/Jumhuriyat Tshad',
+                                         'local_long': 'R&eacute;publique du Tchad/Jumhuriyat Tshad',
                                          'local_short': 'Tchad/Tshad'},
                        'population': {'female': 9628896, 'male': 9464699, 'total': 19093595, 'year': 2024},
                        'region': ['Africa'],
@@ -3459,7 +3457,8 @@ WORLD_FB = \
                                                     'coord': ['0 00 N, 25 00 E'],
                                                     'country_name': { 'conv_long': 'Democratic Republic of the Congo',
                                                                       'conv_short': 'DRC',
-                                                                      'local_long': 'Republique Democratique du Congo',
+                                                                      'local_long': 'R&eacute;publique '
+                                                                                    'd&eacute;mocratique du Congo',
                                                                       'local_short': 'RDC'},
                                                     'heliports': {'num': 1, 'year': 2024},
                                                     'population': { 'female': 57714867,
@@ -3561,7 +3560,7 @@ WORLD_FB = \
                                          'coord': ['1 00 S, 15 00 E'],
                                          'country_name': { 'conv_long': 'Republic of the Congo',
                                                            'conv_short': 'Congo (Brazzaville)',
-                                                           'local_long': 'Republique du Congo',
+                                                           'local_long': 'R&eacute;publique du Congo',
                                                            'local_short': 'Congo'},
                                          'population': { 'female': 3051692,
                                                          'male': 3045973,
@@ -3769,9 +3768,9 @@ WORLD_FB = \
                                              'time_diff': 'UTC 0'},
                                 'coastline': {'num': 515},
                                 'coord': ['8 00 N, 5 00 W'],
-                                'country_name': { 'conv_long': "Republic of Cote d'Ivoire",
-                                                  'conv_short': "Cote d'Ivoire",
-                                                  'local_long': "Republique de Cote d'Ivoire",
+                                'country_name': { 'conv_long': "Republic of Côte d'Ivoire",
+                                                  'conv_short': "Côte d'Ivoire",
+                                                  'local_long': "R&eacute;publique de Côte d'Ivoire",
                                                   'local_short': "Cote d'Ivoire"},
                                 'heliports': {'num': 1, 'year': 2024},
                                 'population': {'female': 14941726, 'male': 15040032, 'total': 29981758, 'year': 2024},
@@ -4113,16 +4112,15 @@ WORLD_FB = \
                           'subs_mobile': {'num': 13475000, 'year': 2022},
                           'telecom': { 'code': '420',
                                        'domestic': [ 'roughly 12 fixed-telephone subscriptions per 100 inhabitants and '
-                                                     'mobile telephone usage of 125 per 100 inhabitants',
-                                                     2021],
-                                       'general': [ 'the telecom market has attracted investment from among the key '
-                                                    'regional telcos',
-                                                    'telcos in the Czech Republic have become multi-service providers, '
+                                                     'mobile telephone usage of 128 per 100 inhabitants',
+                                                     2022],
+                                       'general': [ 'telcos in the Czech Republic have become multi-service providers, '
                                                     'offering a full range of fixed and mobile services',
-                                                    'this has enabled the reach of their 5G networks',
-                                                    'this process has also been assisted by them closing down 3G '
-                                                    'networks and reforming spectrum for 5G and LTE use',
-                                                    2023],
+                                                    'this has enabled the Mobile Network Operators (MNOs) to expand '
+                                                    'the reach of their 5G networks while they have been closing down '
+                                                    '3G networks and repurposing the internet for 5G and long-term '
+                                                    'evolution (LTE) use',
+                                                    2024],
                                        'intl': [ 'satellite earth stations - 6 (2 Intersputnik - Atlantic and Indian '
                                                  'Ocean regions, 1 Intelsat, 1 Eutelsat, 1 Inmarsat, 1 Globalstar)',
                                                  2019]},
@@ -4254,7 +4252,7 @@ WORLD_FB = \
                            'coord': ['11 30 N, 43 00 E'],
                            'country_name': { 'conv_long': 'Republic of Djibouti',
                                              'conv_short': 'Djibouti',
-                                             'local_long': 'Republique de Djibouti (French)/ Jumhuriyat Jibuti '
+                                             'local_long': 'R&eacute;publique de Djibouti (French)/ Jumhuriyat Jibuti '
                                                            '(Arabic)',
                                              'local_short': 'Djibouti (French)/ Jibuti (Arabic)'},
                            'heliports': {'num': 6, 'year': 2024},
@@ -4696,9 +4694,10 @@ WORLD_FB = \
                                     'country_name': { 'conv_long': 'Republic of Equatorial Guinea',
                                                       'conv_short': 'Equatorial Guinea',
                                                       'local_long': 'Republica de Guinea Ecuatorial (Spanish)/ '
-                                                                    'Republique de Guinee Equatoriale (French)',
-                                                      'local_short': 'Guinea Ecuatorial (Spanish)/ Guinee Equatoriale '
-                                                                     '(French)'},
+                                                                    'R&eacute;publique de Guin&eacute;e '
+                                                                    '&eacute;quatoriale (French)',
+                                                      'local_short': 'Guinea Ecuatorial (Spanish)/Guin&eacute;e '
+                                                                     '&eacute;quatoriale (French)'},
                                     'population': {'female': 833449, 'male': 962385, 'total': 1795834, 'year': 2024},
                                     'ports': { 'key ports': 'Bata, Ceiba Terminal, Cogo, Luba, Malabo, Punta Europa '
                                                             'Terminal, Serpentina Terminal',
@@ -4822,19 +4821,22 @@ WORLD_FB = \
                           'subs_fixed': {'num': 266000, 'year': 2022},
                           'subs_mobile': {'num': 2056000, 'year': 2022},
                           'telecom': { 'code': '372',
-                                       'domestic': [ '22 per 100 for fixed-line subscribership and approximately 149 '
+                                       'domestic': [ '20 per 100 for fixed-line subscribership and approximately 155 '
                                                      'per 100 for mobile-cellular',
-                                                     2021],
-                                       'general': [ 'the competitive telecom market continues to progress with a range '
-                                                    'of regulatory measures which have enabled alternative operators '
-                                                    'to chip away at the fixed-line market share',
-                                                    'fixed-line infrastructure upgrades have been focused on fiber, '
-                                                    'and the legacy DSL network has gradually been replaced',
-                                                    'limited commercial 5G deployments have been made though an '
-                                                    'expansion of service availability awaits the delayed auction of '
-                                                    'spectrum in the 3.5GHz band, which is expected to be held later '
-                                                    'in 2021',
-                                                    2021],
+                                                     2022],
+                                       'general': [ 'investment in Estonia’s telecom market has been focused on '
+                                                    'fixed-line infrastructure upgrades, and the deployment of 5G '
+                                                    'services',
+                                                    'fixed broadband subscribers are gradually migrating from digital '
+                                                    'subscriber lines (DSL) to fiber, with the legacy copper being '
+                                                    'replaced',
+                                                    'the Mobile Network Operators (MNOs) have comprehensive long-term '
+                                                    'evolution (LTE) infrastructure in place, and have in recent years '
+                                                    'channeled investment to 5G',
+                                                    'several 5G trials have been undertaken in recent years, though '
+                                                    'commercial service launches have been restricted by the lack of '
+                                                    'available internet services',
+                                                    2024],
                                        'intl': [ 'landing points for the EE-S-1, EESF-3, Baltic Sea Submarine Cable, '
                                                  'FEC and EESF-2 fiber-optic submarine cables to other Estonia points, '
                                                  'Finland, and Sweden',
@@ -5311,7 +5313,7 @@ WORLD_FB = \
                                     ('Reunion', '21 06 S, 55 36 E')],
                          'country_name': { 'conv_long': 'French Republic',
                                            'conv_short': 'France',
-                                           'local_long': 'Republique francaise',
+                                           'local_long': 'R&eacute;publique fran&ccedil;aise',
                                            'local_short': 'France'},
                          'heliports': {'num': 290, 'year': 2024},
                          'population': {'female': 34817497, 'male': 33557094, 'total': 68374591, 'year': 2024},
@@ -5430,7 +5432,8 @@ WORLD_FB = \
                                    'coord': ['15 00 S, 140 00 W'],
                                    'country_name': { 'conv_long': 'Overseas Lands of French Polynesia',
                                                      'conv_short': 'French Polynesia',
-                                                     'local_long': "Pays d'outre-mer de la Polynesie Francaise",
+                                                     'local_long': "Pays d'outre-mer de la Polyn&eacute;sie "
+                                                                   'fran&ccedil;aise',
                                                      'local_short': 'Polynesie Francaise'},
                                    'population': {'female': 148402, 'male': 155138, 'total': 303540, 'year': 2024},
                                    'ports': { 'key ports': 'Atuona, Baie Taiohae, Papeete, Port Rikitea, Uturoa, '
@@ -5578,8 +5581,8 @@ WORLD_FB = \
                                                                                      'and Antarctic Lands',
                                                                         'conv_short': 'French Southern and Antarctic '
                                                                                       'Lands',
-                                                                        'local_long': 'Territoire des Terres Australes '
-                                                                                      'et Antarctiques Francaises',
+                                                                        'local_long': 'Terres australes et '
+                                                                                      'antarctiques fran&ccedil;aises',
                                                                         'local_short': 'Terres Australes et '
                                                                                        'Antarctiques Francaises'},
                                                       'heliports': {'num': 3, 'year': 2024},
@@ -5681,7 +5684,7 @@ WORLD_FB = \
                         'coord': ['1 00 S, 11 45 E'],
                         'country_name': { 'conv_long': 'Gabonese Republic',
                                           'conv_short': 'Gabon',
-                                          'local_long': 'Republique Gabonaise',
+                                          'local_long': 'R&eacute;publique Gabonaise',
                                           'local_short': 'Gabon'},
                         'population': {'female': 1185082, 'male': 1270023, 'total': 2455105, 'year': 2024},
                         'ports': { 'key ports': 'Libreville, Oguendjo Terminal, Port Gentil, Port Owendo',
@@ -5868,27 +5871,28 @@ WORLD_FB = \
                           'subs_fixed': {'num': 301000, 'year': 2022},
                           'subs_mobile': {'num': 5844000, 'year': 2022},
                           'telecom': { 'code': '995',
-                                       'domestic': [ 'fixed-line subscriptions 9 per 100, mobile-cellular teledensity '
-                                                     'roughly 137 per 100 persons',
-                                                     2021],
+                                       'domestic': [ 'fixed-line subscriptions 8 per 100, mobile-cellular tele density '
+                                                     'roughly 156 per 100 persons',
+                                                     2022],
                                        'general': [ 'the telecom sector has been attempting for many years to overcome '
                                                     'the decades of under-investment in its fixed-line infrastructure '
                                                     'during the Soviet era',
                                                     'concerted efforts to privatize state-owned enterprises and open '
                                                     'up the telecom market have been mostly successful, with a large '
-                                                    'number of networks now competing in both the fixed-line and the '
+                                                    'number of operators now competing in both the fixed-line and the '
                                                     'mobile segments',
-                                                    'more needs to be done, however, to give investors the confidence '
-                                                    'to enter a market that has barely moved in terms of revenue '
-                                                    'growth over the last decade, and where regulatory overreach has '
-                                                    'sometimes come perilously close to arresting further development',
                                                     'Georgia’s government moved fast following the collapse of the '
                                                     'Soviet Union to liberalize the country’s telecom market',
-                                                    'this resulted in a relatively high number of networks competing '
+                                                    'this resulted in a relatively high number of operators competing '
                                                     'in the under-developed fixed-line segment as well as in the '
                                                     'emerging mobile market',
-                                                    'both segments remain dominated by just a few companies',
-                                                    2022],
+                                                    'the mobile and mobile broadband segments have both demonstrated '
+                                                    'solid growth in 2021',
+                                                    'this upturn follows a significant contraction in subscriber '
+                                                    'numbers as well as revenue during 2020 due to the Covid-19 crisis',
+                                                    'funding has continued to flow into mobile ventures, with the '
+                                                    'Mobile Network Operators (MNOs) preparing for 5G',
+                                                    2024],
                                        'intl': [ 'landing points for the Georgia-Russia, Diamond Link Global, and '
                                                  'Caucasus Cable System fiber-optic submarine cable that provides '
                                                  'connectivity to Russia, Romania and Bulgaria',
@@ -6326,7 +6330,7 @@ WORLD_FB = \
                        'telecom': { 'code': '1671',
                                     'domestic': [ 'fixed-line subscriptions 41 per 100 and 62 per 100 mobile-cellular '
                                                   'subscriptions in 2004',
-                                                  2020],
+                                                  2021],
                                     'general': [ 'Guam’s telecommunications companies provide important services that '
                                                  'allow other businesses on island to operate',
                                                  'Guam plays a larger, and growing role, in global telecommunications '
@@ -6338,6 +6342,19 @@ WORLD_FB = \
                                                  'U.S. to the Asia-Pacific region, are some of the more than 400 '
                                                  'cables that are the backbone of global telecommunications, providing '
                                                  'nearly all of the world’s internet and phone service',
+                                                 "as of January 2024, one of the world's most dominant companies will "
+                                                 'be landing two new subsea cables on Guam',
+                                                 'in May 2024 a global arm of a leading telecommunications and '
+                                                 'technology company, announced its plans to develop a regional '
+                                                 'network hub in Guam by establishing a new dedicated '
+                                                 'point-of-presence (PoP) in Piti at the carrier-neutral GNC iX data '
+                                                 'center',
+                                                 'this PoP will serve growing connectivity demand in the region and '
+                                                 'will be a key connection point for new cable systems including the '
+                                                 'Echo cable and central Pacific Connect cable that are being '
+                                                 'constructed to provide additional low latency network reliability '
+                                                 'and redundancy throughout Asia and between Asia, Australia, and the '
+                                                 'U.S.',
                                                  2021],
                                     'intl': [ 'major landing points for Atisa, HANTRU1, HK-G, JGA-N, JGA-S, PIPE-1, '
                                               'SEA-US, SxS, Tata TGN-Pacific, AJC, GOKI, AAG, AJC and Mariana-Guam '
@@ -6501,8 +6518,8 @@ WORLD_FB = \
                          'coord': ['11 00 N, 10 00 W'],
                          'country_name': { 'conv_long': 'Republic of Guinea',
                                            'conv_short': 'Guinea',
-                                           'local_long': 'Republique de Guinee',
-                                           'local_short': 'Guinee'},
+                                           'local_long': 'R&eacute;publique de Guin&eacute;e',
+                                           'local_short': 'Guin&eacute;e'},
                          'heliports': {'num': 1, 'year': 2024},
                          'population': {'female': 7000573, 'male': 6985606, 'total': 13986179, 'year': 2024},
                          'ports': { 'key ports': 'Benti, Conakry, Kamsar, Victoria',
@@ -6665,7 +6682,7 @@ WORLD_FB = \
                         'coord': ['19 00 N, 72 25 W'],
                         'country_name': { 'conv_long': 'Republic of Haiti',
                                           'conv_short': 'Haiti',
-                                          'local_long': "R&eacute;publique d'Ha&iuml;ti (French)/ Repiblik d Ayiti "
+                                          'local_long': "R&eacute;publique d'Ha&iuml;ti (French)/Repiblik d Ayiti "
                                                         '(Haitian Creole)',
                                           'local_short': 'Ha&iuml;ti (French)/ Ayiti (Haitian Creole)'},
                         'heliports': {'num': 1, 'year': 2024},
@@ -6988,31 +7005,25 @@ WORLD_FB = \
                           'subs_fixed': {'num': 2845000, 'year': 2022},
                           'subs_mobile': {'num': 10372000, 'year': 2022},
                           'telecom': { 'code': '36',
-                                       'domestic': [ 'fixed-line connections, with 30 fixed per 100 persons and 106 '
+                                       'domestic': [ 'fixed-line connections, with 29 fixed per 100 persons and 104 '
                                                      'mobile-cellular subscriptions per 100',
-                                                     2021],
-                                       'general': [ 'Hungary benefits from having a developed telecom infrastructure, '
-                                                    'with a focus among operators to develop the 5G sector and upgrade '
-                                                    'fixed networks to provide a 1Gb/s service',
-                                                    'services based on 5G have been supported by the January 2021 '
-                                                    'multi-spectrum auction for spectrum in the 900MHz and 1800MHz '
-                                                    'bands',
-                                                    'the number of fixed-lines continues to fall as subscribers '
-                                                    'migrate to the mobile platform for voice and data services',
-                                                    'operators have looked to bundled packages to boost revenue and '
-                                                    'retain subscribers',
-                                                    'the broadband market has effective infrastructure-based '
-                                                    'competition, with an extensive cable network competing against '
-                                                    'DSL services and a vibrant and rapidly expanding fiber sector',
-                                                    'the regulator has also introduced a number of measures aimed at '
-                                                    'promoting market competition, which is pushing the drive for '
-                                                    'higher speed platforms and encouraging operators to invest in '
-                                                    'technology upgrades',
-                                                    'as a result, Hungary now has the highest fixed broadband '
-                                                    'penetration rate in Eastern Europe',
-                                                    'the number of super fast broadband connections (above 30Mb/s) '
-                                                    'accounted for 78% of all fixed broadband connections',
-                                                    2022],
+                                                     2022],
+                                       'general': [ 'Hungary’s telecom infrastructure has been upgraded in recent '
+                                                    'years following considerable investments made by telcos as they '
+                                                    'upgrade their mobile networks to 5G and deploy more fiber',
+                                                    'these developments have helped operators to promote converged '
+                                                    'fixed and mobile service',
+                                                    'the number of fixed lines continue to fall as subscribers migrate '
+                                                    'to the mobile platform for voice and data services',
+                                                    'a number of measures aimed at promoting competition in the '
+                                                    'broadband market encourage investment in technology upgrades',
+                                                    'Hungary has the highest fixed broadband penetration rate in '
+                                                    'Eastern Europe',
+                                                    'there remains considerable growth in mobile broadband services '
+                                                    'delivered via upgraded networks',
+                                                    '5G development is supported by the government, universities, '
+                                                    'other telcos, and vendors',
+                                                    2024],
                                        'intl': [ 'Hungary has fiber-optic cable connections with all neighboring '
                                                  'countries',
                                                  'the international switch is in Budapest',
@@ -8119,25 +8130,32 @@ WORLD_FB = \
                              'subs_fixed': {'num': 2888000, 'year': 2022},
                              'subs_mobile': {'num': 25299000, 'year': 2022},
                              'telecom': { 'code': '7',
-                                          'domestic': [ 'fixed telephone subscriptions are 16 per 100 persons',
-                                                        'mobile-cellular subscriber base 127 per 100 persons',
-                                                        2021],
+                                          'domestic': [ 'fixed telephone subscriptions are 15 per 100 persons',
+                                                        'mobile-cellular subscriber base 130 per 100 persons',
+                                                        2022],
                                           'general': [ 'Kazakhstan has one of the most developed telecommunications '
-                                                       'sectors in the Central Asian region',
-                                                       'this is especially true of the mobile segment',
-                                                       'the principal telcos have successfully generated revenue '
-                                                       'growth on the back of value-added services and the extended '
-                                                       'each of LTE and fiber networks',
-                                                       'this has resulted in strong growth in mobile fixed line '
-                                                       'traffic',
-                                                       'the mobile segment dominates the telecom sector in Kazakhstan '
-                                                       'overall, there was a drop in the number of subscribers in 2020',
-                                                       'these effects also limited growth in 2021, though the easing '
-                                                       'of restrictions in 2022 resulted in a stronger recovery',
-                                                       'the extensive deployment of LTE networks across the country, '
-                                                       'and the launch of limited 5G services in mid-2023 will provide '
-                                                       'a steady increase mobile broadband services',
-                                                       2021],
+                                                       'sectors in the region',
+                                                       'this is especially true of the mobile segment, where the '
+                                                       'country has the second fastest average mobile data rates in '
+                                                       'Central Asia after Azerbaijan',
+                                                       'the competing Mobile Network Operators (MNOs) have built '
+                                                       'extensive Long Term Evolution (LTE) networks: about 76% of '
+                                                       'mobile subscribers were on LTE as of March 2024, while the '
+                                                       'company’s LTE network provided 89% geographic coverage',
+                                                       'this widespread network coverage, as well as the development '
+                                                       'of 5G networks, has been encouraged by the government with the '
+                                                       'second stage of its Digital Kazakhstan program, by which most '
+                                                       'settlements across the country will be furnished with mobile '
+                                                       'internet connectivity',
+                                                       'the remaining rural villages will be covered by satellite '
+                                                       'services',
+                                                       'at the turn of the century, Kazakhstan had a relatively high '
+                                                       'fixed-line tele density thanks to efforts to invest in the '
+                                                       'fixed-line infrastructure and in next-generation networks',
+                                                       'the gobal demand for traditional voice services are decreasing '
+                                                       'as customers are increasingly attracted to the flexibility of '
+                                                       'the mobile platform for voice as well as data services',
+                                                       2024],
                                           'intl': [ 'international traffic with other former Soviet republics and '
                                                     'China carried by landline and microwave radio relay and with '
                                                     'other countries by satellite and by the TAE fiber-optic cable',
@@ -8637,7 +8655,7 @@ WORLD_FB = \
                              'telecom': { 'code': '996',
                                           'domestic': [ 'fixed-line subscriptions 5 per 100',
                                                         'mobile-cellular subscribership up to over 130 per 100 persons',
-                                                        2021],
+                                                        2022],
                                           'general': [ 'the country’s telecom sector (specifically the mobile segment) '
                                                        'has been able to prosper',
                                                        'Kyrgyzstan has opened up its telecom market to competition',
@@ -8649,9 +8667,9 @@ WORLD_FB = \
                                                        'COVID-19 crisis',
                                                        'slow-to-moderate growth is expected for both segments in '
                                                        'coming years, supported by the anticipated rollout of 5G '
-                                                       'services which began testing in 2022 with a pilot service to '
-                                                       'follow some time in 2023',
-                                                       2022],
+                                                       'services which began testing in 2022 with a pilot service in '
+                                                       '2023 which has been delayed into 2024',
+                                                       2024],
                                           'intl': [ 'connections with other CIS (Commonwealth of Independent States, 9 '
                                                     'members post-Soviet Republics in EU) countries by landline or '
                                                     'microwave radio relay and with other countries by leased '
@@ -8761,16 +8779,29 @@ WORLD_FB = \
                          'subs_fixed': {'num': 174000, 'year': 2022},
                          'subs_mobile': {'num': 2167000, 'year': 2022},
                          'telecom': { 'code': '371',
-                                      'domestic': [ 'fixed-line roughly 10 per 100 and mobile-cellular nearly 115 per '
-                                                    '100 subscriptions',
-                                                    2021],
+                                      'domestic': [ 'fixed-line 9 per 100 and mobile-cellular nearly 117 per 100 '
+                                                    'subscriptions',
+                                                    2022],
                                       'general': [ 'the telecom market continues to benefit from investment and from '
                                                    'regulatory measures aimed at developing 5G and fiber-based '
                                                    'infrastructure',
-                                                   'there is effective competition in the mobile market',
+                                                   'the mobile market is dominated by three operators and there is '
+                                                   'effective competition between them, with the smallest among them '
+                                                   'having almost a quarter of the market by subscribers',
                                                    'these multi-service operators have focused investment on fiber '
                                                    'networks and on expanding the reach of 5G',
-                                                   2023],
+                                                   'mobile network capacity has been improved since 2022 following the '
+                                                   'auction of spectrum in the 700MHz and 1.5GHz bands',
+                                                   'operators have entered into agreements with neighboring Estonia '
+                                                   'and Lithuania to coordinate the use of spectrum for 5G in border '
+                                                   'areas, improving coverage to end-users without interference',
+                                                   'in the fixed-line broadband sector, the country is ranked among '
+                                                   'the highest in Europe for fiber coverage',
+                                                   'it has the second highest rural FttP coverage after Denmark',
+                                                   'with this infrastructure in place, the country has also developed '
+                                                   'a sophisticated digital economy, with e-commerce and e-government '
+                                                   'services widely available',
+                                                   2024],
                                       'intl': [ 'the Latvian network is now connected via fiber-optic cable to '
                                                 'Estonia, Finland, and Sweden',
                                                 0]},
@@ -9097,27 +9128,21 @@ WORLD_FB = \
                             'subs_fixed': {'num': 250000, 'year': 2022},
                             'subs_mobile': {'num': 3826000, 'year': 2022},
                             'telecom': { 'code': '370',
-                                         'domestic': [ 'nearly 10 per 100 for fixed-line subscriptions',
-                                                       'mobile-cellular subscriptions at 134 per 100 persons',
-                                                       2021],
+                                         'domestic': [ 'nearly 9 per 100 for fixed-line subscriptions',
+                                                       'mobile-cellular subscriptions at 139 per 100 persons',
+                                                       2022],
                                          'general': [ 'Lithuania’s small telecoms market is among the more advanced in '
-                                                      'Europe, particularly given the universal access to LTE '
-                                                      'infrastructure and the extensive fiber footprint',
-                                                      'investment has been focused on fiber broadband and mobile '
-                                                      'network upgrades',
-                                                      'SIM card penetration is relatively high for the region, with a '
-                                                      'growing proportion of subscribers being on higher-Average '
-                                                      'Revenue Per User (ARPU) contract plans',
-                                                      'while LTE services are available nationally, operators have '
-                                                      'made steady investments in 5G',
-                                                      'the regulator has helped the network operators to develop 5G by '
-                                                      'allowing them to repurpose spectrum in the 2.1GHz and 2.4GHz '
-                                                      'bands',
-                                                      'the regulator in mid-2022 completed auctions of spectrum in the '
-                                                      '700MHz and 3.4GHz bands',
-                                                      'service obligations on the licensees include the provision of '
-                                                      'services to the five main cities by the end of 2023',
-                                                      2023],
+                                                      'Europe, particularly given the universal access to long-term '
+                                                      'evolution (LTE) infrastructure and the extensive fiber '
+                                                      'footprint',
+                                                      'Operator investment has been focused on fiber broadband and '
+                                                      'mobile network upgrades',
+                                                      'Fiber is now by far the dominant fixed broadband platform, with '
+                                                      'the number of Digital Subscriber Line (DSL) and cable '
+                                                      'connections in steady decline',
+                                                      'LTE services are available nationally, operators have made '
+                                                      'steady investments in 5G',
+                                                      2024],
                                          'intl': [ 'landing points for the BCS East, BCS East-West Interlink and '
                                                    'NordBalt connecting Lithuania to Sweden, and Latvia',
                                                    'further transmission by satellite',
@@ -9142,7 +9167,7 @@ WORLD_FB = \
                              'coord': ['49 45 N, 6 10 E'],
                              'country_name': { 'conv_long': 'Grand Duchy of Luxembourg',
                                                'conv_short': 'Luxembourg',
-                                               'local_long': 'Grand Duche de Luxembourg',
+                                               'local_long': 'Grand Duch&eacute; de Luxembourg',
                                                'local_short': 'Luxembourg'},
                              'heliports': {'num': 11, 'year': 2024},
                              'population': {'female': 332552, 'male': 338702, 'total': 671254, 'year': 2024},
@@ -9265,7 +9290,8 @@ WORLD_FB = \
                              'coord': ['20 00 S, 47 00 E'],
                              'country_name': { 'conv_long': 'Republic of Madagascar',
                                                'conv_short': 'Madagascar',
-                                               'local_long': "Republique de Madagascar/Repoblikan'i Madagasikara",
+                                               'local_long': "R&eacute;publique de Madagascar/Repoblikan'i "
+                                                             'Madagasikara',
                                                'local_short': 'Madagascar/Madagasikara'},
                              'population': {'female': 14692213, 'male': 14760501, 'total': 29452714, 'year': 2024},
                              'ports': { 'key ports': 'Andoany, Antsiranana, Antsohim Bondrona, Iharana, Mahajanga, '
@@ -9562,7 +9588,7 @@ WORLD_FB = \
                        'coord': ['17 00 N, 4 00 W'],
                        'country_name': { 'conv_long': 'Republic of Mali',
                                          'conv_short': 'Mali',
-                                         'local_long': 'Republique de Mali',
+                                         'local_long': 'R&eacute;publique de Mali',
                                          'local_short': 'Mali'},
                        'heliports': {'num': 3, 'year': 2024},
                        'population': {'female': 11301852, 'male': 10688755, 'total': 21990607, 'year': 2024},
@@ -10139,16 +10165,12 @@ WORLD_FB = \
                           'subs_fixed': {'num': 951000, 'year': 2022},
                           'subs_mobile': {'num': 4170000, 'year': 2022},
                           'telecom': { 'code': '373',
-                                       'domestic': [ 'fixed-line service is 33 per 100',
-                                                     'mobile-cellular teledensity is 127 per 100 persons',
-                                                     2021],
+                                       'domestic': [ 'fixed-line service is 29 per 100',
+                                                     'mobile cellular tele density is 127 per 100 persons',
+                                                     2022],
                                        'general': [ 'the telecom market has been affected by a combination of high '
                                                     'unemployment and economic difficulties which have led to '
                                                     'constraints on consumer spending',
-                                                    'this has resulted in telecom revenue having fallen steadily in '
-                                                    'recent years',
-                                                    'this decline continued into 2020, with a 6.3% in revenue from the '
-                                                    'important mobile sector alone, year-on-year',
                                                     'Moldova’s aspirations to join the EU have encouraged the '
                                                     'government and regulator to adopt a range of measures to bring '
                                                     'the country’s telecoms sector into line with EU principles and '
@@ -10158,23 +10180,26 @@ WORLD_FB = \
                                                     'amendments were adopted in December 2017 and additional changes '
                                                     'were proposed in 2019',
                                                     'Moldova is also part of the Eastern Partnership group of '
-                                                    'countries, and as such has set in train a glide path to reducing '
+                                                    'countries, and as such has set in train a glidepath to reducing '
                                                     'roaming charges, effective between 2022 and 2026',
                                                     'the country’s broadband strategy through to 2025 has been '
-                                                    'supported by the ITU and industry counterparts from South Korea',
-                                                    'the internet market is developing rapidly',
-                                                    'the market is highly competitive, with 101 active ISPs as of '
-                                                    'early 2021',
+                                                    'supported by the ITU and industry counterparts from Korea',
+                                                    'the internet market is developing rapidly, and though the '
+                                                    'penetration rate is well below the average for most European '
+                                                    'countries there are many opportunities for further development',
                                                     'the number of cable broadband subscribers is increasing steadily, '
                                                     'though fiber is now by far the strongest sector',
                                                     'by the end of 2020 fiber accounted for about 72.3% of all fixed '
                                                     'broadband connections',
-                                                    'the mobile market has also grown rapidly',
+                                                    'the mobile market has also grown rapidly, and the sector accounts '
+                                                    'for the majority of total telecoms revenue',
+                                                    'the launch of LTE services has opened up a new revenue growth '
+                                                    'opportunity centered on mobile broadband',
                                                     'the near comprehensive geographical reach of their mobile '
                                                     'networks, market brand recognition and existing customer '
                                                     'relationships will make for steady subscriber growth in coming '
                                                     'years',
-                                                    2022],
+                                                    2024],
                                        'intl': [ 'service through Romania and Russia via landline',
                                                  'satellite earth stations - at least 3 - Intelsat, Eutelsat, and '
                                                  'Intersputnik',
@@ -10197,7 +10222,7 @@ WORLD_FB = \
                          'coord': ['43 44 N, 7 24 E'],
                          'country_name': { 'conv_long': 'Principality of Monaco',
                                            'conv_short': 'Monaco',
-                                           'local_long': 'Principaute de Monaco',
+                                           'local_long': 'Principaut&eacute; de Monaco',
                                            'local_short': 'Monaco'},
                          'heliports': {'num': 3, 'year': 2024},
                          'population': {'female': 16447, 'male': 15366, 'total': 31813, 'year': 2024},
@@ -10851,8 +10876,9 @@ WORLD_FB = \
                                 'coord': ['21 30 S, 165 30 E'],
                                 'country_name': { 'conv_long': 'Territory of New Caledonia and Dependencies',
                                                   'conv_short': 'New Caledonia',
-                                                  'local_long': 'Territoire des Nouvelle-Caledonie et Dependances',
-                                                  'local_short': 'Nouvelle-Caledonie'},
+                                                  'local_long': 'Territoire des Nouvelle-Cal&eacute;donie et '
+                                                                'd&eacute;pendances',
+                                                  'local_short': 'Nouvelle-Cal&eacute;donie'},
                                 'heliports': {'num': 2, 'year': 2024},
                                 'population': {'female': 152778, 'male': 151389, 'total': 304167, 'year': 2024},
                                 'ports': { 'key ports': 'Baie de Kouaoua, Baie Ugue, Noumea',
@@ -11049,7 +11075,7 @@ WORLD_FB = \
                         'coord': ['16 00 N, 8 00 E'],
                         'country_name': { 'conv_long': 'Republic of Niger',
                                           'conv_short': 'Niger',
-                                          'local_long': 'Republique du Niger',
+                                          'local_long': 'R&eacute;publique du Niger',
                                           'local_short': 'Niger'},
                         'population': {'female': 13286581, 'male': 13056203, 'total': 26342784, 'year': 2024},
                         'region': ['Africa'],
@@ -11355,7 +11381,20 @@ WORLD_FB = \
                                                                      'services are the source for Internet across '
                                                                      'region',
                                                                      'future launch of 5G',
-                                                                     2020],
+                                                                     'as of April 2024 the Northern Mariana Islands '
+                                                                     'Broadband Policy and Development Office (BPD) '
+                                                                     'received an award of $81 million from the '
+                                                                     'National Telecommunications and Information '
+                                                                     'Administration (NTIA) Broadband Equity, Access, '
+                                                                     'and Deployment (BEAD) Program',
+                                                                     'CNMI submitted its BEAD Five-Year Action Plan to '
+                                                                     'NTIA',
+                                                                     'this plan aims to improve Internet services in '
+                                                                     'the Commonwealth by outlining strategies for '
+                                                                     'enhancing Internet accessibility and '
+                                                                     'affordability for all members of the CNMI '
+                                                                     'community',
+                                                                     2024],
                                                         'intl': [ 'landing points for the Atisa and Mariana-Guam '
                                                                   'submarine cables linking Mariana islands to Guam',
                                                                   'satellite earth stations - 2 Intelsat (Pacific '
@@ -11868,7 +11907,7 @@ WORLD_FB = \
                 'infos': { 'airports': {'num': 83, 'year': 2024},
                            'area': {'land': 397302, 'total': 406752, 'water': 9450},
                            'boundaries': {'bord': {'Argentina': 2531, 'Bolivia': 753, 'Brazil': 1371}, 'len': 4655},
-                           'capital': {'coord': '25 16 S, 57 40 W', 'name': 'Asunci&oacute;n', 'time_diff': 'UTC-4'},
+                           'capital': {'coord': '25 16 S, 57 40 W', 'name': 'Asunci&oacute;n', 'time_diff': 'UTC-3'},
                            'coastline': {'num': 0},
                            'coord': ['23 00 S, 58 00 W'],
                            'country_name': { 'conv_long': 'Republic of Paraguay',
@@ -12143,9 +12182,9 @@ WORLD_FB = \
                          'subs_fixed': {'num': 5277000, 'year': 2022},
                          'subs_mobile': {'num': 52589000, 'year': 2022},
                          'telecom': { 'code': '48',
-                                      'domestic': [ 'fixed-line is 14 per 100 (service lags in rural areas), '
+                                      'domestic': [ 'fixed-line is 13 per 100 (service lags in rural areas), '
                                                     'mobile-cellular is 132 per 100 persons',
-                                                    2021],
+                                                    2022],
                                       'general': [ 'the liberalized telecom market has seen considerable development '
                                                    'in the broadband and mobile sectors',
                                                    'the regulatory environment has encouraged market competition, '
@@ -12159,7 +12198,7 @@ WORLD_FB = \
                                                    'has been delayed, with spectrum in the 5G-suitable 3.4-3.8GHz '
                                                    'range having been put back to later in 2023 as a result of the '
                                                    'Covid-19 outbreak and changes to legislation',
-                                                   2021],
+                                                   2024],
                                       'intl': [ 'landing points for the Baltica and the Denmark-Poland2 submarine '
                                                 'cables connecting Poland, Denmark and Sweden',
                                                 'international direct dialing with automated exchanges',
@@ -12513,30 +12552,30 @@ WORLD_FB = \
                          'subs_fixed': {'num': 23864000, 'year': 2021},
                          'subs_mobile': {'num': 245267000, 'year': 2022},
                          'telecom': { 'code': '7',
-                                      'domestic': [ '16 per 100 for fixed-line and mobile-cellular is 170 per 100 '
+                                      'domestic': [ '16 per 100 for fixed-line and mobile-cellular is 169 per 100 '
                                                     'persons',
-                                                    2021],
+                                                    2022],
                                       'general': [ 'the telecom market is the largest in Europe, supported by a '
-                                                   'population approaching 147 million',
+                                                   'population of about 143 million',
                                                    'the overall market is dominated by the western regions, '
                                                    'particularly Moscow and St Petersburg which are the main cities '
                                                    'and economic centers',
-                                                   'all sectors of the market have been liberalized, with competition '
-                                                   'most prevalent in the two largest regional markets',
-                                                   'the fiber broadband sector has shown considerable growth, '
-                                                   'supported by the government’s program to extend the reach of '
-                                                   'broadband to outlying regions',
-                                                   'the development of 5G services has been stymied by the lack of '
-                                                   'spectrum',
-                                                   'although MNOs have licenses to use 700MHz spectrum for 5G, this '
-                                                   'spectrum has yet to be released by broadcasters',
-                                                   'spectrum in the 3.4GHz range commonly used for 5G in Europe has '
-                                                   'been restricted for use in Russia by the military and intelligence '
+                                                   'many other regions in the east and north of the country were '
+                                                   'settled during the Soviet period',
+                                                   'the telecommunication companies continue to deploy and modernize '
+                                                   'fixed-line network infrastructure to offer improved broadband '
+                                                   'services as well as a range of IP-delivered content',
+                                                   'the number of Digital Subscriber Line (DSL) connections continues '
+                                                   'to decrease as subscribers are migrated to fiber',
+                                                   'the development of 5G services has been hindered by the lack of '
+                                                   'frequencies',
+                                                   'the 3.4GHz range commonly used for 5G in Europe has been '
+                                                   'restricted for use in Russia by the military and intelligence '
                                                    'agencies',
-                                                   'despite these limitations, the four principal MNOs each have an '
-                                                   'equal share in a joint venture aimed at developing a strategy to '
-                                                   'deploy 5G using shared network and spectrum assets',
-                                                   2022],
+                                                   'the Mobile Network Operators (MNOs) have an equal share in a joint '
+                                                   'venture, New Digital Solutions, aimed at developing a strategy to '
+                                                   'deploy 5G using a shared network',
+                                                   2024],
                                       'intl': [ 'landing points for the Far East Submarine Cable System, HSCS, '
                                                 'Sakhalin-Kuril Island Cable, RSCN, BCS North-Phase 2, Kerch Strait '
                                                 'Cable and the Georgia-Russian submarine cable system connecting '
@@ -12624,8 +12663,9 @@ WORLD_FB = \
                                    'coord': ['17 90 N, 62 85 W'],
                                    'country_name': { 'conv_long': 'Overseas Collectivity of Saint Barthelemy',
                                                      'conv_short': 'Saint Barthelemy',
-                                                     'local_long': "Collectivite d'outre mer de Saint-Barthelemy",
-                                                     'local_short': 'Saint-Barthelemy'},
+                                                     'local_long': "Collectivit&eacute; d'outre mer de "
+                                                                   'Saint-Barth&eacute;lemy',
+                                                     'local_short': 'Saint-Barth&eacute;lemy'},
                                    'population': {'female': 3349, 'male': 3737, 'total': 7086, 'year': 2024},
                                    'region': ['Central America and the Caribbean'],
                                    'roadways': {'total': 40},
@@ -12857,7 +12897,7 @@ WORLD_FB = \
                                'coord': ['18 05 N, 63 57 W'],
                                'country_name': { 'conv_long': 'Overseas Collectivity of Saint Martin',
                                                  'conv_short': 'Saint Martin',
-                                                 'local_long': "Collectivite d'outre mer de Saint-Martin",
+                                                 'local_long': "Collectivit&eacute; d'outre mer de Saint-Martin",
                                                  'local_short': 'Saint-Martin'},
                                'population': {'female': 17205, 'male': 15791, 'total': 32996, 'year': 2024},
                                'region': ['Central America and the Caribbean'],
@@ -12903,7 +12943,8 @@ WORLD_FB = \
                                             'country_name': { 'conv_long': 'Territorial Collectivity of Saint Pierre '
                                                                            'and Miquelon',
                                                               'conv_short': 'Saint Pierre and Miquelon',
-                                                              'local_long': 'Departement de Saint-Pierre et Miquelon',
+                                                              'local_long': 'D&eacute;partement de Saint-Pierre et '
+                                                                            'Miquelon',
                                                               'local_short': 'Saint-Pierre et Miquelon'},
                                             'population': {'female': 2656, 'male': 2476, 'total': 5132, 'year': 2024},
                                             'ports': { 'key ports': 'Miquelon, St. Pierre',
@@ -13259,7 +13300,7 @@ WORLD_FB = \
                           'coord': ['14 00 N, 14 00 W'],
                           'country_name': { 'conv_long': 'Republic of Senegal',
                                             'conv_short': 'Senegal',
-                                            'local_long': 'Republique du S&eacute;n&eacute;gal',
+                                            'local_long': 'R&eacute;publique du S&eacute;n&eacute;gal',
                                             'local_short': 'S&eacute;n&eacute;gal'},
                           'population': {'female': 9564205, 'male': 9283314, 'total': 18847519, 'year': 2024},
                           'ports': { 'key ports': "Dakar, Karabane, Lyndiane, M'bao Oil Terminal, Rufisque, St. Louis",
@@ -13638,9 +13679,9 @@ WORLD_FB = \
                            'subs_fixed': {'num': 541000, 'year': 2022},
                            'subs_mobile': {'num': 7445000, 'year': 2022},
                            'telecom': { 'code': '421',
-                                        'domestic': [ 'fixed-line is 11 per 100 and mobile-cellular is 135 per 100 '
-                                                      'teledensity',
-                                                      2021],
+                                        'domestic': [ 'fixed-line is 10 per 100 and mobile-cellular is 132 per 100 '
+                                                      'tele density',
+                                                      2022],
                                         'general': [ 'the broadband market has shown steady growth in recent years',
                                                      'fiber has become the principal platform for fixed broadband '
                                                      'services, followed by DSL',
@@ -13653,7 +13694,7 @@ WORLD_FB = \
                                                      'range followed by those in the 700MHz, 900MHz and 1800MHz bands',
                                                      '5G was launched in late 2021 and is expected to cover about a '
                                                      'fifth of the population by the end of 2022',
-                                                     2021],
+                                                     2024],
                                         'intl': [ '3 international exchanges (1 in Bratislava and 2 in Banska '
                                                   'Bystrica) are available',
                                                   'Slovakia is participating in several international '
@@ -14826,7 +14867,7 @@ WORLD_FB = \
                              'telecom': { 'code': '992',
                                           'domestic': [ 'fixed-line over 5 per 100 and mobile-cellular over 119 per '
                                                         '100',
-                                                        2021],
+                                                        2022],
                                           'general': [ 'the size of Tajikistan’s mobile market dwarfs the fixed line '
                                                        'segment, with an estimated penetration rate of nearly 120%',
                                                        'with a number of private sector companies active in the mobile '
@@ -14844,7 +14885,7 @@ WORLD_FB = \
                                                        "the People's Republic of China, the Russian Federation, "
                                                        'state-owned enterprises, and telecom systems established by '
                                                        'donors and non-governmental organizations',
-                                                       2021],
+                                                       2024],
                                           'intl': [ 'linked by cable and microwave radio relay to other CIS republics '
                                                     'and by leased connections to the Moscow international gateway '
                                                     'switch',
@@ -15116,7 +15157,7 @@ WORLD_FB = \
                        'coord': ['8 00 N, 1 10 E'],
                        'country_name': { 'conv_long': 'Togolese Republic',
                                          'conv_short': 'Togo',
-                                         'local_long': 'Republique Togolaise',
+                                         'local_long': 'R&eacute;publique Togolaise',
                                          'local_short': 'none'},
                        'population': {'female': 4522723, 'male': 4395271, 'total': 8917994, 'year': 2024},
                        'ports': { 'key ports': 'Kpeme, Lome',
@@ -15489,7 +15530,7 @@ WORLD_FB = \
                                'telecom': { 'code': '993',
                                             'domestic': [ 'fixed-line is 13 per 100 and mobile-cellular teledensity is '
                                                           '99 per 100 persons',
-                                                          2021],
+                                                          2022],
                                             'general': [ 'the nation of Turkmenistan, which rivals only North Korea '
                                                          'for its isolationism, continues to keep its telecom sector '
                                                          'along with the broader populace under tight control',
@@ -15503,8 +15544,8 @@ WORLD_FB = \
                                                          'before logging on, and strict censorship over what can be '
                                                          'viewed is in force',
                                                          'the end result is that Turkmenistan has one of the lowest '
-                                                         'penetration rates for internet access in the world',
-                                                         2022],
+                                                         'usage rates for internet access in the world',
+                                                         2024],
                                             'intl': [ 'linked by fiber-optic cable and microwave radio relay to other '
                                                       'CIS republics and to other countries by leased connections to '
                                                       'the Moscow international gateway switch',
@@ -15713,13 +15754,30 @@ WORLD_FB = \
                           'subs_mobile': {'num': 49304000, 'year': 2022},
                           'telecom': { 'code': '380',
                                        'domestic': [ 'fixed-line teledensity is 6 per 100',
-                                                     'the mobile-cellular telephone is 140 mobile phones per 100 '
+                                                     'the mobile-cellular telephone is 135 mobile phones per 100 '
                                                      'persons',
-                                                     2021],
+                                                     2022],
                                        'general': [ 'there has been considerable damage and destruction to the '
                                                     'communications infrastructure in more than 10 out of 24 regions '
                                                     'of Ukraine since the war started',
-                                                    2023],
+                                                    'Ukraine estimates it will need $4.67 billion (&euro',
+                                                    '4.38 billion) over 10 years to repair an overlooked but expensive '
+                                                    'casualty in the ongoing Russian invasion: its telecommunications '
+                                                    'network',
+                                                    'forty-five per cent of the total network damage is felt by fixed '
+                                                    'broadband operators, followed closely by mobile operators at 43 '
+                                                    'percent',
+                                                    '"it will be difficult to restore telecommunications to their '
+                                                    'pre-war level until there are "conditions for the safe living of '
+                                                    'consumers and service providers"',
+                                                    'the World Bank estimates that roughly 12 per cent of all '
+                                                    'Ukrainian households have lost mobile service connection: an '
+                                                    'issue, the report notes, that "affects not only personal '
+                                                    'communication but also critical services and economic activities"',
+                                                    'Ukraine is also one of the biggest users of SpaceX’s Starlink, a '
+                                                    'series of satellites in space that transmit radio signals to '
+                                                    'users on Earth, with 47,000 units being used by the country',
+                                                    2024],
                                        'intl': [ 'landing point for the Kerch Strait Cable connecting Ukraine to '
                                                  'Russia',
                                                  '2 new domestic trunk lines are a part of the fiber-optic TAE system '
@@ -15947,9 +16005,9 @@ WORLD_FB = \
                                 'subs_fixed': {'num': 91623000, 'year': 2022},
                                 'subs_mobile': {'num': 372682000, 'year': 2022},
                                 'telecom': { 'code': '1',
-                                             'domestic': [ 'fixed-line just over 29 per 100 and mobile-cellular is 110 '
+                                             'domestic': [ 'fixed-line just over 27 per 100 and mobile-cellular is 110 '
                                                            'per 100',
-                                                           2021],
+                                                           2022],
                                              'general': [ 'the US telecom sector adapted well to the particular '
                                                           'demands of the pandemic, which has led to strong growth in '
                                                           'the number of mobile, mobile broadband, and fixed broadband '
@@ -15993,7 +16051,7 @@ WORLD_FB = \
                                                           'networks being entirely on fiber',
                                                           'service offerings of up to 2Gb/s are becoming more widely '
                                                           'available as the process continues',
-                                                          2022],
+                                                          2024],
                                              'intl': [ 'landing points for the Quintillion Subsea Cable Network, TERRA '
                                                        'SW, AU-Aleutian, KKFL, AKORN, Alaska United -West, & -East & '
                                                        '-Southeast, North Star, Lynn Canal Fiber, KetchCar 1, PC-1, '
@@ -16081,39 +16139,43 @@ WORLD_FB = \
                                                     'measures to help develop the deployment of fiber infrastructure, '
                                                     'partly in a bid to encourage economic growth and stimulate '
                                                     'e-commerce',
-                                                    'fiber accounted for about 77% of all fixed and fixed-wireless '
-                                                    'broadband connections as of June 2020',
+                                                    'fiber accounted for over 95% of all fixed and fixed-wireless '
+                                                    'broadband connections as of December 2023',
                                                     'with investment projected to reach $800 million, the state-owned '
-                                                    'incumbent Antel is expected to provide national FttP coverage by '
-                                                    'early 2022',
+                                                    'incumbent Antel is expected to provide national Fiber to the '
+                                                    'premises (FttP) coverage by 2023',
                                                     'together with the FttP network, the opening of the submarine '
                                                     'cable system in early 2012 and August 2017 have helped boost '
                                                     'Uruguay’s internet bandwidth, and increase the data rate '
                                                     'available to end-users',
-                                                    'Uruguay is one of the very few Latin American countries where the '
-                                                    'local fixed-line market is neither privatized nor liberalized',
-                                                    'other segments of the telecom market have been opened to '
-                                                    'competition, including international long-distance telephony, '
-                                                    'mobile telephony, and fixed-wireless broadband',
-                                                    'Uruguay is also one of the few countries in the world where '
-                                                    'broadband access via cable modem does not exist',
-                                                    'although cable networks are well equipped technologically, and '
-                                                    'digital cable TV is widely available, telecom legislation '
-                                                    'prohibits data transmission over pay TV networks',
-                                                    'the government announced in December 2020 that it intended to '
-                                                    'introduce changes to the law to permit pay TV providers to offer '
-                                                    'internet and telephony packages over their own networks',
+                                                    'changes in legislation in 2020 allowed cable companies to provide '
+                                                    'home internet service for the first time, ending the state '
+                                                    'monopoly',
+                                                    "Uruguay's regulator authorized five cable companies to provide "
+                                                    'broadband service',
+                                                    "while the country's broadband network is state owned, other "
+                                                    'segments of the telecom market have been opened to competition, '
+                                                    'including international long-distance telephony, mobile '
+                                                    'telephony, and fixed-wireless broadband',
+                                                    'cable networks are well equipped technologically, and digital '
+                                                    'cable TV is widely available, telecom legislation prohibits data '
+                                                    'transmission over pay TV networks',
                                                     'all three operators offer mobile broadband through 3G and LTE '
                                                     'networks',
                                                     'operators have achieved nationwide 3G coverage and the number of '
                                                     'mobile broadband subscribers continues to grow',
                                                     'at the end of 2019, spectrum in the 5G-suitable range was '
                                                     'auctioned, enabling operators to launch 5G services',
-                                                    'the regulator is working on a spectrum and connectivity policy '
-                                                    'that emphasizes 5G',
+                                                    "Uruguay's regulators held a 5G spectrum auction in June 2023",
+                                                    'the three incumbent operators each acquired 100 Ghz in the 3.5 '
+                                                    'GHz midband',
+                                                    "in 2023, Uruguay's state telecom has deployed hundreds of 5G "
+                                                    'radio bases, covering all regional capitals',
                                                     2021],
                                        'intl': [ 'landing points for the Unisor, Tannat, and Bicentenario submarine '
                                                  'cable system providing direct connectivity to Brazil and Argentina',
+                                                 'the Firmina cable, which landed in 2023, allowed for direct '
+                                                 'connectivity to the United States',
                                                  'Bicentenario 2012 and Tannat 2017 cables helped end-users with '
                                                  'Internet bandwidth',
                                                  'satellite earth stations - 2 Intelsat (Atlantic Ocean)',
@@ -16155,9 +16217,9 @@ WORLD_FB = \
                              'subs_fixed': {'num': 5686000, 'year': 2022},
                              'subs_mobile': {'num': 35690000, 'year': 2022},
                              'telecom': { 'code': '998',
-                                          'domestic': [ 'fixed-line nearly 17 per 100 persons and mobile-cellular '
-                                                        'teledensity of 100 per 100 persons',
-                                                        2021],
+                                          'domestic': [ 'fixed-line nearly 16 per 100 persons and mobile-cellular '
+                                                        'teledensity of 103 per 100 persons',
+                                                        2022],
                                           'general': [ 'Uzbekistan’s telecom markets both wireline and wireless have '
                                                        'been playing "catch up" in terms of their development '
                                                        "following the country's independence from the former Soviet "
@@ -16182,9 +16244,7 @@ WORLD_FB = \
                                                        'there are four major operators providing a modicum of '
                                                        'competition',
                                                        'three of the four are government owned entities',
-                                                       'the mobile market is expected to reach 100% penetration in '
-                                                       '2023 a 50% increase in the last five years',
-                                                       2022],
+                                                       2024],
                                           'intl': [ 'linked by fiber-optic cable or microwave radio relay with CIS '
                                                     'member states and to other countries by leased connection via the '
                                                     'Moscow international gateway switch',
@@ -16297,35 +16357,15 @@ WORLD_FB = \
                             'subs_fixed': {'num': 3147000, 'year': 2022},
                             'subs_mobile': {'num': 17949000, 'year': 2022},
                             'telecom': { 'code': '58',
-                                         'domestic': [ 'fixed-line is 11 per 100 and mobile-cellular telephone '
-                                                       'subscribership is 60 per 100 persons',
+                                         'domestic': [ 'fixed-line is 10 per 100 and mobile-cellular telephone '
+                                                       'subscribership is 67 per 100 persons',
                                                        2021],
-                                         'general': [ 'Venezuela’s fixed-line teledensity was relatively high for the '
-                                                      'region before the steady growth in the number of lines came to '
-                                                      'an end in 2015',
-                                                      'since then, the number of lines has plummeted, and by late 2021 '
-                                                      'teledensity had fallen to about 17.3%',
-                                                      'the cause is largely linked to the country’s ongoing economic '
-                                                      'troubles, which have compelled many people to terminate '
-                                                      'fixed-line telecom services and others still to flee the '
-                                                      'country',
-                                                      'these pressures have also distorted sector revenue and have '
-                                                      'placed into disarray operators’ investment plans aimed at '
-                                                      'improving networks and expanding the reach and capabilities of '
-                                                      'new technologies and services',
-                                                      'the fixed broadband penetration rate is lower than the regional '
-                                                      'average, while data speeds are also relatively low',
-                                                      'there is no effective competition in the provision of DSL, and '
-                                                      'as a result the state-owned incumbent CANTV has had little '
-                                                      'incentive to improve services from its meager revenue streams',
-                                                      'mobile penetration in Venezuela is also below the regional '
-                                                      'average',
-                                                      'the number of mobile subscribers fell by an estimated 2.4% in '
-                                                      '2020, year-on-year, as subscribers terminated services in a bid '
-                                                      'to reduce discretionary spending, this decline is expected to '
-                                                      'continue into 2022, with subscriber growth not returning until '
-                                                      '2023',
-                                                      2021],
+                                         'general': [ 'Venezuela’s fixed-line penetration was relatively high for the '
+                                                      'region at 7.8 million lines in 2014 but the steady growth in '
+                                                      'the number of lines came to an end in 2015',
+                                                      'since then, the number of fixed lines has plummeted to 2.7 '
+                                                      'million',
+                                                      2022],
                                          'intl': [ 'landing points for the Venezuela Festoon, ARCOS, PAN-AM, SAC, '
                                                    'GlobeNet, ALBA-1 and Americas II submarine cable system providing '
                                                    'connectivity to the Caribbean, Central and South America, and US',
@@ -16717,11 +16757,9 @@ WORLD_FB = \
                         'boundaries': {'bord': {}, 'len': 0},
                         'capital': {},
                         'coastline': {'num': 356000},
-                        'country_name': {},
                         'heliports': {'num': 20316, 'year': 2024},
                         'population': {'female': 4010381789, 'male': 4046854454, 'total': 8057236243, 'year': 2024},
-                        'region': ['Physical Map of the World'],
-                        'subs_broadband': {'num': 1, 'year': 2020},
+                        'subs_broadband': {'num': 1, 'year': 2021},
                         'subs_fixed': {'num': 840736000, 'year': 2022},
                         'subs_mobile': {'num': 8, 'year': 2022},
                         'telecom': { 'general': [ 'Information, Communications, and Technology (ICT) is tied to '
@@ -16744,22 +16782,9 @@ WORLD_FB = \
                                                'channels<br /><br />broadcasting typically refers to transmission of '
                                                'information to all devices in a network without any acknowledgment by '
                                                'the receivers',
-                                               'data processing parts and accessories includes many supporting '
+                                               'data-processing parts and accessories includes many supporting '
                                                'elements to broadcasting equipment, such as monitors, keyboards, '
-                                               'printers, etc.<br /><br />in terms of market size, broadcasting '
-                                               'equipment constituted $413 billion in global trade, making it the '
-                                               'fifth most traded commodity in 2019',
-                                               'similarly, data processing equipment equaled $230 billion, the eighth '
-                                               'most traded commodity globally',
-                                               'the chief exporters and importers of telecommunications commodities '
-                                               'remain largely the same: 1) China leads in both broadcasting and data '
-                                               'processing equipment exports, $208 billion and $81.5 billion '
-                                               'respectively and 2) the United States, conversely, receives the most '
-                                               'of both commodities, importing $81.1 billion in broadcasting equipment '
-                                               'and $38.3 billion in data processing equipment in 2019<br /><br '
-                                               '/><em>infrastructure</em> - as of 2021, 428 submarine cables have been '
-                                               'laid worldwide with a further 36 planned',
-                                               'the undersea cables connect to 1,245 landing stations',
+                                               'printers, etc.',
                                                0]},
                         'users_internet': {'num': 5, 'year': 2022}},
              'json': 'https://www.cia.gov/the-world-factbook/page-data/countries/world/page-data.json',
