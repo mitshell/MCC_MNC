@@ -3910,10 +3910,12 @@
       {
         "bands": "GSM 900 / LTE 800 / LTE 1500 / LTE 1800 / LTE 2600",
         "brand": "TIM",
-        "codes_alpha_2": [],
-        "country_name": "/wiki/Vatican_City_State",
+        "codes_alpha_2": [
+          "IT"
+        ],
+        "country_name": "Italy",
         "country_sub": null,
-        "country_url": "",
+        "country_url": "https://en.wikipedia.org/wiki/Italy",
         "mcc": "222",
         "mnc": "01",
         "notes": "",
@@ -3923,10 +3925,12 @@
       {
         "bands": "Satellite (Globalstar)",
         "brand": "Elsacom",
-        "codes_alpha_2": [],
-        "country_name": "/wiki/Vatican_City_State",
+        "codes_alpha_2": [
+          "IT"
+        ],
+        "country_name": "Italy",
         "country_sub": null,
-        "country_url": "",
+        "country_url": "https://en.wikipedia.org/wiki/Italy",
         "mcc": "222",
         "mnc": "02",
         "notes": "Retired",
@@ -3936,10 +3940,12 @@
       {
         "bands": "Unknown",
         "brand": "Intermatica",
-        "codes_alpha_2": [],
-        "country_name": "/wiki/Vatican_City_State",
+        "codes_alpha_2": [
+          "IT"
+        ],
+        "country_name": "Italy",
         "country_sub": null,
-        "country_url": "",
+        "country_url": "https://en.wikipedia.org/wiki/Italy",
         "mcc": "222",
         "mnc": "04",
         "notes": "",
@@ -3949,10 +3955,12 @@
       {
         "bands": "Unknown",
         "brand": "Telespazio",
-        "codes_alpha_2": [],
-        "country_name": "/wiki/Vatican_City_State",
+        "codes_alpha_2": [
+          "IT"
+        ],
+        "country_name": "Italy",
         "country_sub": null,
-        "country_url": "",
+        "country_url": "https://en.wikipedia.org/wiki/Italy",
         "mcc": "222",
         "mnc": "05",
         "notes": "",
@@ -3962,10 +3970,12 @@
       {
         "bands": "Unknown",
         "brand": "Vodafone",
-        "codes_alpha_2": [],
-        "country_name": "/wiki/Vatican_City_State",
+        "codes_alpha_2": [
+          "IT"
+        ],
+        "country_name": "Italy",
         "country_sub": null,
-        "country_url": "",
+        "country_url": "https://en.wikipedia.org/wiki/Italy",
         "mcc": "222",
         "mnc": "06",
         "notes": "Unknown",
@@ -3975,10 +3985,12 @@
       {
         "bands": "MVNO",
         "brand": "Kena Mobile",
-        "codes_alpha_2": [],
-        "country_name": "/wiki/Vatican_City_State",
+        "codes_alpha_2": [
+          "IT"
+        ],
+        "country_name": "Italy",
         "country_sub": null,
-        "country_url": "",
+        "country_url": "https://en.wikipedia.org/wiki/Italy",
         "mcc": "222",
         "mnc": "07",
         "notes": "Uses TIM Network",
@@ -3988,10 +4000,12 @@
       {
         "bands": "MVNO",
         "brand": "FASTWEB",
-        "codes_alpha_2": [],
-        "country_name": "/wiki/Vatican_City_State",
+        "codes_alpha_2": [
+          "IT"
+        ],
+        "country_name": "Italy",
         "country_sub": null,
-        "country_url": "",
+        "country_url": "https://en.wikipedia.org/wiki/Italy",
         "mcc": "222",
         "mnc": "08",
         "notes": "Uses TIM and Wind Tre Networks",
@@ -4001,10 +4015,12 @@
       {
         "bands": "GSM 900 / LTE 800  / LTE 1500 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 2100 / 5G 3500",
         "brand": "Vodafone",
-        "codes_alpha_2": [],
-        "country_name": "/wiki/Vatican_City_State",
+        "codes_alpha_2": [
+          "IT"
+        ],
+        "country_name": "Italy",
         "country_sub": null,
-        "country_url": "",
+        "country_url": "https://en.wikipedia.org/wiki/Italy",
         "mcc": "222",
         "mnc": "10",
         "notes": "",
@@ -4014,10 +4030,12 @@
       {
         "bands": "GSM-R 900",
         "brand": "RFI",
-        "codes_alpha_2": [],
-        "country_name": "/wiki/Vatican_City_State",
+        "codes_alpha_2": [
+          "IT"
+        ],
+        "country_name": "Italy",
         "country_sub": null,
-        "country_url": "",
+        "country_url": "https://en.wikipedia.org/wiki/Italy",
         "mcc": "222",
         "mnc": "30",
         "notes": "Railways communication",
@@ -4027,10 +4045,12 @@
       {
         "bands": "MVNO",
         "brand": "PosteMobile",
-        "codes_alpha_2": [],
-        "country_name": "/wiki/Vatican_City_State",
+        "codes_alpha_2": [
+          "IT"
+        ],
+        "country_name": "Italy",
         "country_sub": null,
-        "country_url": "",
+        "country_url": "https://en.wikipedia.org/wiki/Italy",
         "mcc": "222",
         "mnc": "33",
         "notes": "uses Wind Network",
@@ -4040,10 +4060,12 @@
       {
         "bands": "MVNO",
         "brand": "BT",
-        "codes_alpha_2": [],
-        "country_name": "/wiki/Vatican_City_State",
+        "codes_alpha_2": [
+          "IT"
+        ],
+        "country_name": "Italy",
         "country_sub": null,
-        "country_url": "",
+        "country_url": "https://en.wikipedia.org/wiki/Italy",
         "mcc": "222",
         "mnc": "34",
         "notes": "uses TIM Network",
@@ -4053,10 +4075,12 @@
       {
         "bands": "MVNO",
         "brand": "Lycamobile",
-        "codes_alpha_2": [],
-        "country_name": "/wiki/Vatican_City_State",
+        "codes_alpha_2": [
+          "IT"
+        ],
+        "country_name": "Italy",
         "country_sub": null,
-        "country_url": "",
+        "country_url": "https://en.wikipedia.org/wiki/Italy",
         "mcc": "222",
         "mnc": "35",
         "notes": "uses Vodafone Network",
@@ -4066,10 +4090,12 @@
       {
         "bands": "MVNO",
         "brand": "Digi Mobil",
-        "codes_alpha_2": [],
-        "country_name": "/wiki/Vatican_City_State",
+        "codes_alpha_2": [
+          "IT"
+        ],
+        "country_name": "Italy",
         "country_sub": null,
-        "country_url": "",
+        "country_url": "https://en.wikipedia.org/wiki/Italy",
         "mcc": "222",
         "mnc": "36",
         "notes": "uses TIM Network",
@@ -4079,10 +4105,12 @@
       {
         "bands": "Unknown",
         "brand": "Wind Tre",
-        "codes_alpha_2": [],
-        "country_name": "/wiki/Vatican_City_State",
+        "codes_alpha_2": [
+          "IT"
+        ],
+        "country_name": "Italy",
         "country_sub": null,
-        "country_url": "",
+        "country_url": "https://en.wikipedia.org/wiki/Italy",
         "mcc": "222",
         "mnc": "37",
         "notes": "Former 3 Italia",
@@ -4092,10 +4120,12 @@
       {
         "bands": "TD-LTE 3500 / 5G 3500 / 5G 26000",
         "brand": "Linkem",
-        "codes_alpha_2": [],
-        "country_name": "/wiki/Vatican_City_State",
+        "codes_alpha_2": [
+          "IT"
+        ],
+        "country_name": "Italy",
         "country_sub": null,
-        "country_url": "",
+        "country_url": "https://en.wikipedia.org/wiki/Italy",
         "mcc": "222",
         "mnc": "38",
         "notes": "",
@@ -4105,10 +4135,12 @@
       {
         "bands": "Unknown",
         "brand": "SMS Italia",
-        "codes_alpha_2": [],
-        "country_name": "/wiki/Vatican_City_State",
+        "codes_alpha_2": [
+          "IT"
+        ],
+        "country_name": "Italy",
         "country_sub": null,
-        "country_url": "",
+        "country_url": "https://en.wikipedia.org/wiki/Italy",
         "mcc": "222",
         "mnc": "39",
         "notes": "",
@@ -4118,10 +4150,12 @@
       {
         "bands": "TD-LTE 3500 / 5G 3500",
         "brand": "GO Internet",
-        "codes_alpha_2": [],
-        "country_name": "/wiki/Vatican_City_State",
+        "codes_alpha_2": [
+          "IT"
+        ],
+        "country_name": "Italy",
         "country_sub": null,
-        "country_url": "",
+        "country_url": "https://en.wikipedia.org/wiki/Italy",
         "mcc": "222",
         "mnc": "41",
         "notes": "spectrum available only in Marche and Emilia-Romagna, roams on Linkem otherwise",
@@ -4131,10 +4165,12 @@
       {
         "bands": "5G 700 / 5G 2100 / 5G 3500 / 5G 26000",
         "brand": "TIM",
-        "codes_alpha_2": [],
-        "country_name": "/wiki/Vatican_City_State",
+        "codes_alpha_2": [
+          "IT"
+        ],
+        "country_name": "Italy",
         "country_sub": null,
-        "country_url": "",
+        "country_url": "https://en.wikipedia.org/wiki/Italy",
         "mcc": "222",
         "mnc": "43",
         "notes": "",
@@ -4144,10 +4180,12 @@
       {
         "bands": "TD-LTE 3500 / 5G 3500 / 5G 26000",
         "brand": "FASTWEB",
-        "codes_alpha_2": [],
-        "country_name": "/wiki/Vatican_City_State",
+        "codes_alpha_2": [
+          "IT"
+        ],
+        "country_name": "Italy",
         "country_sub": null,
-        "country_url": "",
+        "country_url": "https://en.wikipedia.org/wiki/Italy",
         "mcc": "222",
         "mnc": "47",
         "notes": "Former Tiscali,",
@@ -4157,10 +4195,12 @@
       {
         "bands": "Unknown",
         "brand": "TIM",
-        "codes_alpha_2": [],
-        "country_name": "/wiki/Vatican_City_State",
+        "codes_alpha_2": [
+          "IT"
+        ],
+        "country_name": "Italy",
         "country_sub": null,
-        "country_url": "",
+        "country_url": "https://en.wikipedia.org/wiki/Italy",
         "mcc": "222",
         "mnc": "48",
         "notes": "",
@@ -4170,10 +4210,12 @@
       {
         "bands": "MVNO",
         "brand": "Vianova",
-        "codes_alpha_2": [],
-        "country_name": "/wiki/Vatican_City_State",
+        "codes_alpha_2": [
+          "IT"
+        ],
+        "country_name": "Italy",
         "country_sub": null,
-        "country_url": "",
+        "country_url": "https://en.wikipedia.org/wiki/Italy",
         "mcc": "222",
         "mnc": "49",
         "notes": "",
@@ -4183,10 +4225,12 @@
       {
         "bands": "UMTS 900 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 700 / 5G 3500",
         "brand": "Iliad",
-        "codes_alpha_2": [],
-        "country_name": "/wiki/Vatican_City_State",
+        "codes_alpha_2": [
+          "IT"
+        ],
+        "country_name": "Italy",
         "country_sub": null,
-        "country_url": "",
+        "country_url": "https://en.wikipedia.org/wiki/Italy",
         "mcc": "222",
         "mnc": "50",
         "notes": "",
@@ -4196,10 +4240,12 @@
       {
         "bands": "MVNO",
         "brand": "CoopVoce",
-        "codes_alpha_2": [],
-        "country_name": "/wiki/Vatican_City_State",
+        "codes_alpha_2": [
+          "IT"
+        ],
+        "country_name": "Italy",
         "country_sub": null,
-        "country_url": "",
+        "country_url": "https://en.wikipedia.org/wiki/Italy",
         "mcc": "222",
         "mnc": "53",
         "notes": "MNC used from Jan, 2020",
@@ -4209,10 +4255,12 @@
       {
         "bands": "MVNO",
         "brand": "Plintron",
-        "codes_alpha_2": [],
-        "country_name": "/wiki/Vatican_City_State",
+        "codes_alpha_2": [
+          "IT"
+        ],
+        "country_name": "Italy",
         "country_sub": null,
-        "country_url": "",
+        "country_url": "https://en.wikipedia.org/wiki/Italy",
         "mcc": "222",
         "mnc": "54",
         "notes": "Operates only as MVNE for Rabona, NoiTel and NT Mobile on Vodafone network",
@@ -4222,10 +4270,12 @@
       {
         "bands": "MVNO",
         "brand": "spusu",
-        "codes_alpha_2": [],
-        "country_name": "/wiki/Vatican_City_State",
+        "codes_alpha_2": [
+          "IT"
+        ],
+        "country_name": "Italy",
         "country_sub": null,
-        "country_url": "",
+        "country_url": "https://en.wikipedia.org/wiki/Italy",
         "mcc": "222",
         "mnc": "56",
         "notes": "",
@@ -4235,10 +4285,12 @@
       {
         "bands": "UMTS 2100",
         "brand": "IPSE 2000",
-        "codes_alpha_2": [],
-        "country_name": "/wiki/Vatican_City_State",
+        "codes_alpha_2": [
+          "IT"
+        ],
+        "country_name": "Italy",
         "country_sub": null,
-        "country_url": "",
+        "country_url": "https://en.wikipedia.org/wiki/Italy",
         "mcc": "222",
         "mnc": "77",
         "notes": "Retired",
@@ -4248,10 +4300,12 @@
       {
         "bands": "GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600 / 5G 1800 / 5G 2600 / 5G 3500",
         "brand": "Wind Tre",
-        "codes_alpha_2": [],
-        "country_name": "/wiki/Vatican_City_State",
+        "codes_alpha_2": [
+          "IT"
+        ],
+        "country_name": "Italy",
         "country_sub": null,
-        "country_url": "",
+        "country_url": "https://en.wikipedia.org/wiki/Italy",
         "mcc": "222",
         "mnc": "88",
         "notes": "Former Wind",
@@ -4261,10 +4315,12 @@
       {
         "bands": "GSM 900",
         "brand": "Blu",
-        "codes_alpha_2": [],
-        "country_name": "/wiki/Vatican_City_State",
+        "codes_alpha_2": [
+          "IT"
+        ],
+        "country_name": "Italy",
         "country_sub": null,
-        "country_url": "",
+        "country_url": "https://en.wikipedia.org/wiki/Italy",
         "mcc": "222",
         "mnc": "98",
         "notes": "",
@@ -4274,10 +4330,12 @@
       {
         "bands": "UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2100 / LTE 2600",
         "brand": "Wind Tre",
-        "codes_alpha_2": [],
-        "country_name": "/wiki/Vatican_City_State",
+        "codes_alpha_2": [
+          "IT"
+        ],
+        "country_name": "Italy",
         "country_sub": null,
-        "country_url": "",
+        "country_url": "https://en.wikipedia.org/wiki/Italy",
         "mcc": "222",
         "mnc": "99",
         "notes": "Former 3 Italy",

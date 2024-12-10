@@ -383,6 +383,9 @@ def parse_table_mnc(T_MNC):
     #
     # get table title with country name
     title = T_MNC[1].getparent().getparent().getprevious()
+    if 'Vatican' in ''.join(title.itertext()):
+        # custom handling for the Italy / Vatican title layout
+        title = title.getprevious()
     country_infos = read_entry_mnc_title(title)
     #
     for i in range(1, len(T_MNC)):
